@@ -1,0 +1,1146 @@
+learned	on'yomi	on'yomi kana	kun'yomi	kun'yomi kana	meaning	ref_sh_kk
+1	ICHI, ITSU	イチ, イツ	hito(tsu)	ひと(つ)	one (1)	2
+2	NI	ニ	futa(tsu)	ふた(つ)	two (2)	3
+3	SAN	サン	mi(t)(tsu)	み(っ)(つ)	three (3)	4
+4	SHI	シ	yo(n), yo(t)(tsu)	よ(ん), よ(っ)(つ)	four (4)	6
+5	GO	ゴ	itsu(tsu)	いつ(つ)	five (5)	7
+6	ROKU	ロク	mu(t)(tsu)	む(っ)(つ)	six (6)	8
+7	SHICHI	シチ	nana(tsu)	なな(つ)	seven (7)	9
+8	HACHI	ハチ	ya(t)(tsu)	や(っ)(つ)	eight (8)	10
+9	KYUU, KU	キュウ, ク	kokono(tsu)	ここの(つ)	nine (9)	11
+10	JUU	ジュウ	to(o)	と(お)	ten (10)	12
+11	HYAKU	ヒャク	momo	もも	hundred (100)	14
+12	SEN	セン	chi	ち	thousand (1,000)	15
+13	MAN, BAN	マン, バン	yoro(zu)	よろ(ず)	ten thousand (10,000)	16
+14	FU, HO, TOU	フ, ホ, トウ	chichi	ちち	father	113
+15	BO, MU, KAA	ボ, ム, カア	haha	はは	mother	112
+16	YUU	ユウ	tomo	とも	friend	264
+17	JO, NYO	ジョ, ニョ	onna, me	おんあ, め	woman, female	102
+18	NAN, DAN	ナン, ダン	otoko	おとこ	man, male	101
+19	NIN, JIN	ニン, ジン	hito	ひと	person	1
+20	SHI, SU	シ, ス	ko	こ	child	103
+21	NICHI, JITSU	ニチ, ジツ	ka, hi	か, ひ	day, sun	5
+22	GETSU, GATSU	ゲツ, ガツ	tsuki	つき	moon, month	17
+23	KA	カ	hi, ho	ひ, ほ	fire, light	20
+24	SUI	スイ	mizu	みず	water	21
+25	MOKU, BOKU	モク, ボク	ki	き	tree, wood	22
+26	KIN, KON	キン, コン	kane, kana	かね, かな	money, gold	23
+27	TO, DO	ト, ド	tsuchi	つち	ground, earth, soil	24
+28	HON	ホン	moto	もと	book	25
+29	KYUU	キュウ	yasu(mu)	やす(む)	rest, vacation	60
+30	GO	ゴ	kata(ru), kata(rau)	かた(る), かた(らう)	word, language, tell	67
+31	NEN	ネン	toshi	とし	year	45
+32	GO	ゴ	uma	うま	noon	49
+33	ZEN	ゼン	mae	まえ	before, in front of, previous	47
+34	GO, KOU	ゴ, コウ	ato, nochi, ushi(ro), oku(reru)	あと, のち, うし(ろ), おく(れる)	after, behind	48
+35	JI	ジ	toki	とき	time, hour	42
+36	KAN, KEN	カン, ケン	aida, ma	あいだ, ま	interval, between	43
+37	MAI, BAI	マイ, バイ	goto(ni)	ごと(に)	each, every	116
+38	SEN	セン	saki	さき	previous, ahead	50
+39	KON, KIN	コン, キン	ima	いま	this, now, the present	51
+40	KA	カ	nani, nan	なに, なん	what	390
+41	JOU, SHOU	ジョウ, ショウ	kami, ue, a(geru), a(garu), no(boru)	かみ, うえ, あ(げる), あ(がる), の(ぼる)	up, above, top, on	32
+42	KA, GE	カ, ゲ	shita, shimo, moto	した, しも, もと	bottom, down, under, lower	31
+43	SA	サ	hidari	ひだり	left	75
+44	U, YUU	ウ, ユウ	migi	みぎ	right	76
+45	TOU	トウ	higashi	ひがし	east	71
+46	SAI, SEI	サイ, セイ	nishi	にし	west	72
+47	NAN	ナン	minami	みなみ	south	74
+48	HOKU	ホク	kita	きた	north	73
+49	GAI, GE	ガイ, ゲ	soto, hoka	そと, ほか	outside, foreign	83
+50	MEI, MYOU	メイ, ミョウ	na	な	name, fame, famous	82
+51	KOU	コウ	taka(i)	たか(い)	tall, high, costly, expensive	190
+52	SHOU	ショウ	chii(sai), ko, o	ちい(さい), こ, お	small	27
+53	CHUU	チュウ	naka	なか	middle, center, within, inside, in	28
+54	DAI, TAI	ダイ, タイ	oo(kii)	おお(きい)	big	26
+55	CHOU	チョウ	naga(i)	なが(い)	chief, long	95
+56	HAN	ハン	naka(ba)	なか(ば)	half	88
+57	BU, FUN, BUN	ブ, フン, ブン	wa(karu), wa(keru), wa(kareru)	わ(かる), わ(ける), わ(かれる)	divide, minute, part, understand	38
+58	GAKU	ガク	mana(bu)	まな(ぶ)	learn	109
+59	KOU	コウ			school	115
+60	SEI, SHOU	セイ, ショウ	i(kiru), u(mareru), nama	い(きる), う(まれる), なま	life, live, birth	44
+61	SAN	サン	yama	やま	mountain	34
+62	SEN	セン	kawa	かわ	river	33
+63	HAKU, BYAKU	ハク, ビャク	shiro(i)	しろ(い)	white	205
+64	TEN	テン	ama, ame	あま, あめ	heaven, sky	141
+65	U	ウ	ame, ama	あめ, あま	rain	30
+66	DEN	デン			electricity	108
+67	KI, KE	キ, ケ			spirit, mind, energy, power	134
+68	SHA	シャ	kuruma	くるま	car, vehicle	133
+69	KOKU	コク	kuni	くに	country	40
+70	EN	エン	maru(i)	まる(い)	round, yen	13
+71	WA	ワ	hana(shi), hana(su)	はな(し), はな(す)	talk, topic, story	238
+72	BUN, MON	ブン, モン	ki(ku), ki(koeru)	き(く), き(こえる)	hear, listen, ask	64
+73	SHOKU, JIKI	ショク, ジキ	ta(beru), ku(u), ku(rau)	た(べる), く(う), く(らう)	eat, food	322
+74	TOKU, DOKU	トク, ドク	yo(mu)	よ(む)	read	244
+75	RAI	ライ	ku(ru), kita(ru), kita(su)	く(る), きた(る), きた(す)	come	69
+76	SHO	ショ	ka(ku)	か(く)	write, book	131
+77	KEN	ケン	mi(ru), mi(eru), mi(seru)	み(る), み(える), み(せる)	see, show	63
+78	KOU, GYOU	コウ, ギョウ	i(ku), yu(ku)	い(く), ゆ(く)	go	68
+79	SHUTSU, SUI	シュツ, スイ	da(su), de(ru)	だ(す), で(る)	leave, put out	53
+80	NYUU	ニュウ	i(ru), i(reru), hai(ru)	い(る), い(れる), はい(る)	enter, put in	52
+81	KAI, E	カイ, エ	a(u)	あ(う)	meet	158
+82	SEI, SHOU	セイ, ショウ	ao(i)	あお(い)	blue	208
+83	SEKI	セキ	aka(i)	あか(い)	red	207
+84	MEI, MYOU	メイ, ミョウ	aka(rui), a(keru)	あか(るい), あ(ける)	light, bright, clear	18
+85	SHUU	シュウ	aki	あき	autumn, fall	462
+86	KUU	クウ	sora, kara, a(ku), a(keru)	そら, から, あ(く), あ(ける)	sky, air, empty	140
+87	KAI	カイ	a(ku), a(keru), hira(ku)	あ(く), あ(ける), ひら(く)	open	396
+88	AKU	アク	waru(i)	わる(い)	bad, evil	304
+89	CHOU	チョウ	asa	あさ	morning	469
+90	JI	ジ	aza	あざ	letter, character, mark	110
+91	SOKU	ソク	ashi	あし	foot, leg, suffice	58
+92	MI	ミ	aji(wau)	あじ(わう)	taste	307
+93	SHIN	シン	ara(ta), atara(shii), ni(i)	あら(た), あたら(しい), に(い)	new, fresh	174
+94	SHUU	シュウ	atsu(maru), atsu(meru)	あつ(まる), あつ(める)	collect, gather	436
+95	KEI, KYOU	ケイ, キョウ	ani	あに	older brother	406
+96	HO, BU	ホ, ブ	aru(ku), ayu(mu)	ある(く), あゆ(む)	walk, step	431
+97	SHI	シ	ane	あね	older sister	407
+98	YUU, U	ユウ, ウ	a(ru)	あ(る)	have, exist	265
+99	AN	アン	yasu(i)	やす(い)	peaceful, cheap	105
+100	I	イ			medicine, doctor	220
+101	I	イ			mind, heart, attention	132
+102	I	イ			with, from	46
+103	GEN, GON	ゲン, ゴン	i(u), koto	い(う), こと	word, say, speech	66
+104	KYUU	キュウ	iso(gu)	いそ(ぐ)	hurry	303
+105	KA, KE	カ, ケ	ie, ya	いえ, や	house, family	165
+106	KEN	ケン	inu	いぬ	dog	280
+107	MAI	マイ	imouto	いもうと	younger sister	408
+108	SHOKU, SHIKI	ショク, シキ	iro	いろ	color	204
+109	ON, IN	オン, イン	oto, ne	おと, ね	sound	347
+110	IN	イン			member, official	163
+111	IN	イン			institution	614
+112	IN	イン	no(mu)	の(む)	drink	323
+113	GYO	ギョ	uo, sakana	うお, さかな	fish	290
+114	DOU	ドウ	ugo(ku), ugo(kasu)	うご(く), うご(かす)	move	231
+115	GYUU	ギュウ	ushi	うし	cattle	281
+116	KA	カ	uta, uta(u)	うた, うた(う)	song, sing	392
+117	SHA	シャ	utsu(su), utsu(ru)	うつ(す), うつ(る)	copy	540
+118	EI	エイ	utsu(ru), utsu(su), ha(eru)	うつ(る), うつ(す), は(える)	reflect, project	352
+119	KAI	カイ	umi	うみ	sea, ocean	117
+120	BAI	バイ	u(ru)	う(る)	sell	239
+121	UN	ウン	hako(bu)	はこ(ぶ)	carry, luck	439
+122	JUU, CHOU	ジュウ, チョウ	e, omo(i), kasa(naru), kasa(neru)	え, おも(い), かさ(なる), かさ(ねる)	heavy	227
+123	EI	エイ			England, grand	353
+124	EKI	エキ			station	284
+125	SHUU	シュウ	o(waru), o(eru)	お(わる), お(える)	finish	458
+126	TA	タ	oo(i)	おお(い)	many	229
+127	KI	キ	o(kiru), o(koru), o(kosu)	お(きる), お(こる), お(こす)	get up, rise	373
+128	OKU	オク	ya	や	roof, house, shop	167
+129	SOU	ソウ	oku(ru)	おく(る)	send	441
+130	KYOU	キョウ	oshi(eru), oso(waru)	おし(える), おそ(わる)	teach	245
+131	TEI, DAI	テイ, ダイ	otouto	おとうと	younger brother	405
+132	DOU	ドウ	ona(ji)	おな(じ)	same	198
+133	SHU	シュ	omo, nushi	おも, ぬし	main, master	155
+134	SHI	シ	omo(u)	おも(う)	think	99
+135	SHIN	シン	oya, shita(shii)	おや, した(しい)	parent, familiar	175
+136	KA	カ	hana	はな	flower	255
+137	KA	カ	natsu	なつ	summer	461
+138	GA, KAKU	ガ, カク			picture, drawing	343
+139	KAI	カイ			world	454
+140	BAI	バイ	ka(u)	か(う)	buy	241
+141	KI	キ	kae(ru), kae(su)	かえ(る), かえ(す)	return	317
+142	DAI, TAI	ダイ, タイ	ka(eru), ka(waru), shiro, yo	か(える), か(わる), しろ, よ	substitute, price	256
+143	GAKU, RAKU	ガク, ラク	tano(shii), tano(shimu)	たの(しい), たの(しむ)	pleasure, music	358
+144	FUU, FU	フウ, フ	kaze	かぜ	wind, style	29
+145	TAI	タイ	ka(su)	か(す)	lend	748
+146	HOU	ホウ	kata	かた	person, way, direction	70
+147	SHI	シ	kami	かみ	paper	180
+148	TSUU	ツウ	too(ru), too(su), kayo(u)	とお(る), とお(す), かよ(う)	pass, communicate	150
+149	TAI, TEI	タイ, テイ	karada	からだ	body, form	61
+150	SHAKU	シャク	ka(riru)	か(りる)	borrow, rent	766
+151	KAN	カン			Chinese	556
+152	KAN	カン	yakata	やかた	building, palace	327
+153	GEN, GAN	ゲン, ガン	moto	もと	beginning, origin	137
+154	KOU	コウ	kanga(eru)	かんが(える)	think, consider	541
+155	CHAKU	チャク	ki(ru), ki(seru), tsu(ku), tsu(keru)	き(る), き(せる), つ(く), つ(ける)	wear, arrive	657
+156	KYUU	キュウ	kiwa(meru)	きわ(める)	study, research	895
+157	KYO, KO	キョ, コ	sa(ru)	さ(る)	leave, go away	414
+158	KYOU, KEI	キョウ, ケイ			capital	189
+159	KYOU, GOU	キョウ, ゴウ	tsuyo(i), tsuyo(maru), tsuyo(meru), shi(iru)	つよ(い), つよ(まる), つよ(める), し(いる)	strong	217
+160	GYOU, GOU	ギョウ, ゴウ	waza	わざ	work, industry	279
+161	SETSU	セツ	ki(ru), ki(reru)	き(る), き(れる)	cut	39
+162	KIN	キン	chika(i)	ちか(い)	near, recent	445
+163	GIN	ギン			silver	313
+164	KOU, KU	コウ, ク	kuchi	くち	mouth	54
+165	KOU, KU	コウ, ク			construction, craft	139
+166	KOKU	コク	kuro(i)	くろ(い)	black	206
+167	KEI	ケイ	haka(ru), haka(rau)	はか(る), はか(らう)	plan, measure	340
+168	KEN	ケン	to(gu)	と(ぐ)	grind, research	896
+169	KEN	ケン	ta(tsu), ta(teru)	た(つ), た(てる)	build	892
+170	KEN	ケン			test	532
+171	KO	コ	furu(i), furu(su)	ふる(い), ふる(す)	old, ancient	172
+172	KOU	コウ	hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru)	ひろ(い), ひろ(まる), ひろ(める), ひろ(がる), ひろ(げる)	wide, broad	694
+173	SHIN	シン	kokoro	こころ	heart, mind	97
+174	SHI	シ	tame(su), kokoro(miru)	ため(す), こころ(みる)	try, test	526
+175	TOU	トウ	kota(e), kota(eru)	こた(え), こた(える)	answer, solution	160
+176	JI	ジ	koto	こと	thing, matter, affair	80
+177	TEN	テン	koro(garu), koro(geru), koro(gasu), koro(bu)	ころ(がる), ころ(げる), ころ(がす), ころ(ぶ)	turn	433
+178	SAKU, SA	サク, サ	tsuku(ru)	つく(る)	make, work	360
+179	CHA, SA	チャ, サ			tea	251
+180	SOU	ソウ	haya(i), haya(maru), haya(meru)	はや(い), はや(まる), はや(める)	early, fast	248
+181	SHI	シ	to(maru), to(meru)	と(まる), と(める)	stop	477
+182	JI, SHI	ジ, シ	mizuka(ra)	みずか(ら)	self	62
+183	SHI	シ	tsuka(eru)	つか(える)	serve, attend	333
+184	SHI	シ	shi(nu)	し(ぬ)	die, death	85
+185	SHI	シ	haji(maru), haji(meru)	はじ(まる), はじ(める)	begin	494
+186	SHI	シ	tsuka(u)	つか(う)	use	331
+187	SHI	シ	watashi, watakushi	わたし, わたくし	private, I	125
+188	CHI, JI	チ, ジ			ground, land	118
+189	JI	ジ	mo(tsu)	も(つ)	have, hold	451
+190	SHITSU, SHICHI	シツ, シチ			quality, nature	176
+191	SHITSU	シツ	muro	むろ	room	166
+192	HIN	ヒン	shina	しな	article, quality	230
+193	SHA	シャ	yashiro	やしろ	company, shrine	308
+194	SHA	シャ	mono	もの	person	164
+195	SHU	シュ	te	て	hand	57
+196	SHUU	シュウ			week	92
+197	SHUU	シュウ	nara(u)	なら(う)	learn	591
+198	JUU	ジュウ	su(mu), su(mau)	す(む), す(まう)	live, dwell, reside	156
+199	SHUN	シュン	haru	はる	spring (season)	460
+200	SEI, SHOU	セイ, ショウ	tada(shii), tada(su), masa	ただ(しい), ただ(す), まさ	right, correct	275
+201	SHOU	ショウ	suku(nai), suko(shi)	すく(ない), すこ(し)	little, few	144
+202	JOU	ジョウ	ba	ば	place	154
+203	CHI	チ	shi(ru)	し(る)	know	214
+204	SHIN	シン	ma	ま	true, reality	422
+205	ZU, TO	ズ, ト	haka(ru)	はか(る)	drawing, plan	339
+206	SEI, SE	セイ, セ	yo	よ	world, era	252
+207	SEKI	セキ	yuu	ゆう	evening	81
+208	SOU	ソウ	hashi(ru)	はし(る)	run	429
+209	ZOKU	ゾク			family, tribe	221
+210	CHUU	チュウ	soso(gu)	そそ(ぐ)	note, pour	357
+211	DEN	デン	ta	た	rice field	35
+212	DAI, TAI	ダイ, タイ			stand, pedestal	492
+213	TAI	タイ	ma(tsu)	ま(つ)	wait	452
+214	DAI	ダイ			topic, title	354
+215	TO, DO, TAKU	ト, ド, タク	tabi	たび	time, degree	377
+216	RITSU	リツ	ta(tsu), ta(teru)	た(つ), た(てる)	stand, raise	121
+217	RYO	リョ	tabi	たび	travel, trip	222
+218	RYOKU, RIKI	リョク, リキ	chikara	ちから	strength, force, power	100
+219	CHUU	チュウ	hiru	ひる	daytime, noon	470
+220	CHOU	チョウ	machi	まち	town	182
+221	CHOU	チョウ	tori	とり	bird	285
+222	TEN	テン	mise	みせ	store, shop	168
+223	MON	モン	to(u), to(i), ton	と(う), と(い), とん	question, problem	162
+224	TOU	トウ	fuyu	ふゆ	winter	459
+225	DOU, TOU	ドウ, トウ	michi	みち	way, street, path	149
+226	DOU	ドウ			hall, temple	496
+227	TOKU	トク			special	282
+228	NIKU	ニク			meat, flesh	223
+229	YA	ヤ	no	の	field, plain	236
+230	HATSU, HOTSU	ハツ, ホツ			start, leave, emit	96
+231	HAN	ハン	meshi	めし	cooked rice, meal	325
+232	BYOU, HEI	ビョウ, ヘイ	ya(mu), yamai	や(む), やまい	illness	380
+233	FU, BU	フ, ブ			not, un-	94
+234	FUKU	フク			clothes, submit	683
+235	BUTSU, MOTSU	ブツ, モツ	mono	もの	thing, object	79
+236	BUN, MON	ブン, モン	fumi	ふみ	sentence, letter	111
+237	BETSU	ベツ	waka(reru)	わか(れる)	separate, another	267
+238	BEN	ベン			effort, endeavor	735
+239	MOKU	モク	me	め	eye	55
+240	YOU	ヨウ	mochi(iru)	もち(いる)	use, business, service	107
+241	YA	ヤ	yo, yoru	よ, よる	night, evening	471
+242	YOU	ヨウ			day of the week	19
+243	YOU	ヨウ			ocean, Western	289
+244	RI	リ			reason, principle, logic	143
+245	RYOU	リョウ			fee, materials	319
+246	JI	ジ	mimi	みみ	ear	56
+247	AN	アン	kura(i)	くら(い)	dark, dim	348
+248	IN	イン	hi(ku), hi(keru)	ひ(く), ひ(ける)	pull, draw	216
+249	EN, ON	エン, オン	too(i)	とお(い)	far, distant	446
+250	KAI, E	カイ, エ	mawa(ru), mawa(su)	まわ(る), まわ(す)	a time, turn, revolve	90
+251	KAN	カン	samu(i)	さむ(い)	cold	457
+252	GAN	ガン	kao	かお	face	277
+253	KU	ク			district, ward	183
+254	KEI	ケイ	karu(i), karo(yaka)	かる(い), かろ(やか)	light, insignificant	547
+255	KEN	ケン			prefecture	194
+256	KOU	コウ	hikari, hika(ru)	ひかり, ひか(る)	light, shine	138
+257	KOU	コウ	su(ku), kono(mu)	す(く), この(む)	like, favorable	104
+258	GOU, GAtsu, KAtsu	ゴウ, ガツ, カツ	a(u)	あ(う)	fit, match	159
+259	SAI	サイ	na	な	vegetable	931
+260	SAN	サン	ubu, u(mu)	うぶ, う(む)	childbirth, product	278
+261	SHI	シ	ichi	いち	city, market	181
+262	JAKU	ジャク	yowa(i), yowa(ru), yowa(maru), yowa(meru)	よわ(い), よわ(る), よわ(まる), よわ(める)	weak	218
+263	SHU	シュ	kubi	くび	neck, head	148
+264	SHO	ショ	atsu(i)	あつ(い)	hot	638
+265	SHO	ショ	tokoro	ところ	place, area	153
+266	JOU	ジョウ	no(ru), no(seru)	の(る), の(せる)	get on, ride	523
+267	SHIN	シン	mori	もり	woods, forest	128
+268	SHIN	シン	susu(mu), susu(meru)	すす(む), すす(める)	advance, progress	437
+269	SEI, SHOU	セイ, ショウ	koe, kowa	こえ, こわ	voice	746
+270	SETSU, ZEI	セツ, ゼイ	to(ku)	と(く)	explain, theory	400
+271	SEN	セン	ara(u)	あら(う)	wash	692
+272	SON	ソン	mura	むら	village	191
+273	TAI, TA	タイ, タ	futo(i), futo(ru)	ふと(い), ふと(る)	big, fat, thick	629
+274	TAN	タン	mijika(i)	みじか(い)	short	215
+275	CHI	チ	ike	いけ	pond	119
+276	TEI	テイ	hiku(i), hiku(maru), hiku(meru)	ひく(い), ひく(まる), ひく(める)	low	561
+277	TSU, TO	ツ, ト	miyako	みやこ	capital, city	188
+278	BEN, BIN	ベン, ビン	tayo(ri)	たよ(り)	convenience, mail	812
+279	MIN	ミン	tami	たみ	people, nation	177
+280	MON	モン	kado	かど	gate	161
+281	YAKU	ヤク	kusuri	くすり	medicine, drug	359
+282	SOU, SHOU	ソウ, ショウ	ai	あい	aspect, phase, each other	146
+283	AI	アイ			love	259
+284	SHOU	ショウ	akina(u)	あきな(う)	trade, sell	412
+285	SEN	セン	asa(i)	あさ(い)	shallow, superficial	649
+286	YO	ヨ	azu(keru), azu(karu)	あず(ける), あず(かる)	entrust, deposit	394
+287	KAN	カン	ase	あせ	sweat, perspiration	1188
+288	YUU, YU	ユウ, ユ	aso(bu)	あそ(ぶ)	play, be idle	1003
+289	CHI	チ	ne, atai	ね, あたい	value, price	425
+290	YO	ヨ	ata(eru)	あた(える)	give, grant	539
+291	ON	オン	atata(ka), atata(kai), atata(meru), atata(maru), nuru(i)	あたた(か), あたた(かい), あたた(める), あたた(まる), ぬる(い)	warm, warmth, tepid	634
+292	DAN	ダン	atata(kai), atata(meru), atata(maru)	あたた(かい), あたた(める), あたた(まる)	warm	635
+293	TOU, TO, ZU	トウ, ト, ズ	atama, kashira	あたま, かしら	head, leader, top	276
+294	HEN	ヘン	ata(ri), be	あた(り), べ	vicinity, neighborhood	775
+295	TOU	トウ	a(teru), a(taru)	あ(てる), あ(たる)	hit, win, allot	77
+296	ATSU	アツ			pressure	1342
+297	NETSU	ネツ	atsu(i)	あつ(い)	heat, hot, fever	645
+298	KOU	コウ	atsu(i)	あつ(い)	thick, kind, cordial	639
+299	SEKI	セキ	ato	あと	mark, trace, remains	1569
+300	BOU, BAKU	ボウ, バク	aba(ku), aba(reru)	あば(く), あば(れる)	violent, rage, disclose, expose	1014
+301	YOKU	ヨク	a(biru), a(biseru)	あ(びる), あ(びせる)	bathe	1128
+302	KI	キ	abu(nai), aya(ui)	あぶ(ない), あや(うい)	dangerous	534
+303	YU	ユ	abura	あぶら	oil	364
+304	SHI	シ	abura	あぶら	fat	1042
+305	KAN	カン	ama(i), ama(eru), ama(yakasu)	あま(い), あま(える), あま(やかす)	sweet, indulgent	1492
+306	YO	ヨ	ama(ru), ama(su)	あま(る), あま(す)	remainder, excess	1063
+307	HEN	ヘン	a(mu)	あ(む)	knit, compile	682
+308	KA	カ	su(giru), su(gosu), ayama(chi)	す(ぎる), す(ごす), あやま(ち)	pass, exceed, error	413
+309	GO	ゴ	ayama(ru)	あやま(る)	error, mistake	906
+310	KOU	コウ	ara(i), a(reru), a(rasu)	あら(い), あ(れる), あ(らす)	rough, wild, violent	1377
+311	SOU	ソウ	araso(u), araso(i)	あらそ(う), あらそ(い)	quarrel, dispute, contend	302
+312	KAI	カイ	arata(meru), arata(maru)	あらた(める), あらた(まる)	alter, renew, reform	514
+313	HYOU	ヒョウ	omote, arawa(su), arawa(reru)	おもて, あらわ(す), あらわ(れる)	surface, chart, express	272
+314	GEN	ゲン	arawa(reru), arawa(su)	あらわ(れる), あらわ(す)	present, appear	298
+315	CHO	チョ	arawa(su), ichijiru(shii)	あらわ(す), いちじる(しい)	write, remarkable, conspicuous	859
+316	ZAI	ザイ	a(ru)	あ(る)	outskirts, country, exist	268
+317	I	イ			entrust	466
+318	I	イ	koromo	ころも	garment, clothes	677
+319	I	イ	kako(mu), kako(u)	かこ(む), かこ(う)	surround, enclose, besiege	1194
+320	I	イ	kurai	くらい	rank, position	122
+321	I	イ			stomach	1268
+322	EKI, I	エキ, イ	yasa(shii)	やさ(しい)	divination, easy, simple	759
+323	I	イ	utsu(ru), utsu(su)	うつ(る), うつ(す)	move, transfer, infect	1121
+324	I, E	イ, エ			depend on	678
+325	I	イ	era(i)	えら(い)	great, eminent	1053
+326	I	イ	chiga(u), chiga(eru)	ちが(う), ちが(える)	differ, wrong	814
+327	DO	ド	ika(ru), oko(ru)	いか(る), おこ(る)	anger	1596
+328	SOKU	ソク	iki	いき	breath	1242
+329	IKI	イキ			region, area	970
+330	SEI	セイ	ikio(i)	いきお(い)	force, energy, vigor, trend	646
+331	KI	キ	iku	いく	how much/many, some	877
+332	IKU	イク	soda(tsu), soda(teru)	そだ(つ), そだ(てる)	grow, raise, educate	246
+333	SEN	セン	ikusa, tataka(u)	いくさ, たたか(う)	fight, battle, war	301
+334	YUU	ユウ	isa(mu)	いさ(む)	brave	1386
+335	SEKI, SHAKU	セキ, シャク	ishi	いし	stone	78
+336	SEN	セン	izumi	いずみ	spring, fountain	1192
+337	BOU	ボウ	isoga(shii)	いそが(しい)	busy	1373
+338	HAN, BAN	ハン, バン	ita	いた	board, plank	1047
+339	TSUU	ツウ	ita(i), ita(mu), ita(meru)	いた(い), いた(む), いた(める)	pain	1320
+340	HOU	ホウ	da(ku), ida(ku), kaka(eru)	だ(く), いだ(く), かか(える)	hug, hold, embrace	1285
+341	CHOU	チョウ	itadaki, itada(ku)	いただき, いただ(く)	summit, top, receive	1440
+342	SHI	シ	ito	いと	thread	242
+343	EI	エイ	itona(mu)	いとな(む)	manage, conduct	722
+344	HI	ヒ	ina	いな	no	1248
+345	MEI,MYOU	メイ,ミョウ	inochi	いのち	life, order, command	578
+346	KI	キ	ino(ru)	いの(る)	pray	621
+347	YOU	ヨウ	i(ru)	い(る)	main point, need	419
+348	KYO	キョ	i(ru)	い(る)	live, exist, be	171
+349	GAN	ガン	iwa	いわ	rock, crag	1345
+350	SHUKU, SHUU	シュク, シュウ	iwa(u), iwa(i)	いわ(う), いわ(い)	celebrate, congratulate	851
+351	IN	イン	shirushi	しるし	seal, stamp, sign, mark	1043
+352	IN	イン	yo(ru)	よ(る)	cause	554
+353	U	ウ	ha, hane	は, はね	feather, wing	590
+354	U	ウ			heaven, universe	990
+355	SHO	ショ	ui, hatsu, haji(me)	うい, はつ, はじ(め)	first, beginning	679
+356	SHOKU	ショク	u(eru), u(waru)	う(える), う(わる)	plant	424
+357	SHI	シ	ukaga(u)	うかが(う)	ask, visit, hear	1761
+358	FU	フ	u(ku), u(kabu)	う(く), う(かぶ)	float, surface	938
+359	JU	ジュ	u(keru), u(karu)	う(ける), う(かる)	receive	260
+360	SHOU	ショウ	uketamawa(ru)	うけたまわ(る)	hear, be told	942
+361	SHITSU	シツ	ushina(u)	うしな(う)	lose, vanish	311
+362	HAKU	ハク	usu(i), usu(maru), usu(meru)	うす(い), うす(まる), うす(める)	thin, weak, light	1449
+363	GI	ギ	utaga(u)	うたが(う)	doubt, suspect	1516
+364	NAI, DAI	ナイ, ダイ	uchi	うち	inside	84
+365	DA	ダ	u(tsu)	う(つ)	hit, strike	1020
+366	BI	ビ	utsuku(shii)	うつく(しい)	beauty, beautiful	401
+367	KI	キ	utsuwa	うつわ	container, capacity	527
+368	WAN	ワン	ude	うで	arm, talent, ability	1299
+369	BA	バ	uma, ma	うま, ま	horse	283
+370	MAI	マイ	u(maru), u(meru)	う(まる), う(める)	bury, fill up	1826
+371	KEI	ケイ	uyama(u)	うやま(う)	respect, revere	705
+372	RI	リ	ura	うら	reverse side, back	273
+373	SEN	セン	shi(meru), urana(u), urana(i)	し(める), うらな(う), うらな(い)	occupy, divine	1706
+374	TOKU	トク	u(ru), e(ru)	う(る), え(る)	gain, profit	374
+375	KAI, E	カイ, エ			picture	345
+376	EI	エイ	oyo(gu)	およ(ぐ)	swim	1208
+377	EI	エイ	saka(eru), ha(e), ha(eru)	さか(える), は(え), は(える)	prosper, glory	723
+378	EI	エイ	naga(i)	なが(い)	long time, eternal	1207
+379	EI	エイ	surudo(i)	するど(い)	sharp	1371
+380	YAKU, EKI	ヤク, エキ			post, service, battle	375
+381	EKI	エキ			liquid, fluid	472
+382	SHI	シ	eda	えだ	branch	870
+383	ETSU	エツ	ko(su), ko(eru)	こ(す), こ(える)	cross, go over, exceed	1001
+384	SHOU	ショウ	wara(u), e(mu)	わら(う), え(む)	laugh, smile	1235
+385	SEN	セン	era(bu)	えら(ぶ)	choose, select	800
+386	EN	エン	sono	その	garden	447
+387	EN	エン	shio	しお	salt	1101
+388	EN	エン			act, perform, play	344
+389	EN	エン	no(biru), no(beru), no(basu)	の(びる), の(べる), の(ばす)	postpone, prolong	1115
+390	EN	エン	kemuri, kemu(ru), kemu(i)	けむり, けむ(る), けむ(い)	smoke	919
+391	SHO, CHO	ショ, チョ	o	お	beginning, cord, thong	862
+392	O	オ	kitana(i), kega(su), yogo(su)	きたな(い), けが(す), よご(す)	dirty, soiled	693
+393	WA, O	ワ, オ	yawa(ragu), nago(mu)	やわ(らぐ), なご(む)	peace, harmony, Japanese	124
+394	ROU	ロウ	o(iru), fu(keru)	お(いる), ふ(ける)	grow old	543
+395	FU	フ	ma(keru), ma(kasu), o(u)	ま(ける), ま(かす), お(う)	lose, beat, defeat	510
+396	TSUI	ツイ	o(u)	お(う)	chase, pursue	1174
+397	OU	オウ			king	294
+398	OU, KOU	オウ, コウ	ki, ko	き, こ	yellow	780
+399	OU	オウ			center, middle	351
+400	OU	オウ	yoko	よこ	beside, side, width	781
+401	OU	オウ			Europe	1022
+402	OU	オウ	o(su), o(saeru)	お(す), お(さえる)	push	986
+403	OU	オウ	oku	おく	interior, depths	476
+404	HAN	ハン	oka(su)	おか(す)	commit, violate	882
+405	HAI	ハイ	oga(mu)	おが(む)	worship, pray	1201
+406	HO	ホ	ogina(u)	おぎな(う)	supply, compensate	889
+407	CHI	チ	o(ku)	お(く)	put, place	426
+408	OKU	オク			hundred million	382
+409	CHI	チ	oso(i), oku(reru), oku(rasu)	おそ(い), おく(れる), おく(らす)	late, slow	702
+410	ZOU, SOU	ゾウ, ソウ	oku(ru)	おく(る)	give, present	1364
+411	YOU	ヨウ	osana(i)	おさな(い)	very young, childish (12ura29)	1229
+412	JI, CHI	ジ, チ	osa(meru), osa(maru), nao(ru), nao(su)	おさ(める), おさ(まる), なお(る), なお(す)	govern, rule, cure	493
+413	SHUU	シュウ	osa(meru), osa(maru)	おさ(める), おさ(まる)	obtain, collect	757
+414	KYOU	キョウ	oso(reru), oso(roshii)	おそ(れる), おそ(ろしい)	fear, terrible, awful	1602
+415	RAKU	ラク	o(chiru), o(tosu)	お(ちる), お(とす)	fall, drop	839
+416	FU, FUU	フ, フウ	otto	おっと	husband	315
+417	HOU	ホウ	tazu(neru), otozu(reru)	たず(ねる), おとず(れる)	visit	1181
+418	YOU	ヨウ	odo(ru), odo(ri)	おど(る), おど(り)	dance	1558
+419	KAKU	カク	onoono	おのおの	each, every	642
+420	TAI	タイ	obi, o(biru)	おび, お(びる)	belt, region, wear	963
+421	KAKU	カク	obo(eru), sa(meru), sa(masu)	おぼ(える), さ(める), さ(ます)	remember, learn, awake	605
+422	MEN	メン	omo, omote, tsura	おも, おもて, つら	face, mask, surface	274
+423	SETSU	セツ	o(ru), o(reru), ori	お(る), お(れる), おり	break, fold, bend	1394
+424	KOU	コウ	o(riru), o(rosu), fu(ru)	お(りる), お(ろす), ふ(る)	fall, come down	947
+425	GYO, GO	ギョ, ゴ	on	おん	(honorific prefix)	708
+426	KOU, KYOU	コウ, キョウ	ka, kao(ri), kao(ru)	か, かお(り), かお(る)	fragrance, aroma	1684
+427	KA	カ			department, course	320
+428	KA, KE	カ, ケ	ba(keru), ba(kasu)	ば(ける), ば(かす)	change, bewitch	254
+429	BAN	バン			number, order, watch	185
+430	KA	カ	ni	に	load, cargo	391
+431	KA	カ	kuwa(eru), kuwa(waru)	くわ(える), くわ(わる)	add, join	709
+432	KA	カ	ha(tasu), ha(teru), ha(te)	は(たす), は(てる), は(て)	fruit, end, result	487
+433	KA	カ			freight, goods, money	752
+434	KA	カ			lesson, section	488
+435	KA	カ			possible, approve	388
+436	KA	カ	kawa	かわ	river	389
+437	KA	カ			confectionery, cake	1535
+438	KA	カ	kutsu	くつ	shoes	1076
+439			kai	かい	shellfish	240
+440	KAI	カイ			stair, floor, story	588
+441	KAI	カイ			machine	529
+442	KAI	カイ	kokoroyo(i)	こころよ(い)	pleasant	1409
+443	KAI, GE	カイ, ゲ	to(ku), to(keru), to(kasu)	と(く), と(ける), と(かす)	solve, untie	474
+444	KAI	カイ	hai	はい	ashes	1343
+445	KAI	カイ			mediate	453
+446	KAI	カイ	mina	みな	all, everyone, everybody	587
+447	GAI	ガイ			harm, injury, damage	518
+448	KOU	コウ	ma(jiru), maji(waru), ka(u)	ま(じる), まじ(わる), か(う)	exchange, mix, associate	114
+449	HEN	ヘン	kae(su), kae(ru)	かえ(す), かえ(る)	return	442
+450	SEI, SHOU	セイ, ショウ	kaeri(miru), habu(ku)	かえり(みる), はぶ(く)	ministry, omit	145
+451	HEN	ヘン	ka(waru), ka(eru)	か(わる), か(える)	change, strange	257
+452	TAI	タイ	ka(eru), ka(waru)	か(える), か(わる)	replace	744
+453	KAN	カン	ka(eru), ka(waru)	か(える), か(わる)	exchange, replace	1586
+454	KEI	ケイ	kaka(ru), kakari	かか(る), かかり	charge, concern	909
+455			ka(keru), ka(karu), kakari	か(ける), か(かる), かかり	hang, spend, multiply	1464
+456	GEN	ゲン	kagi(ru)	かぎ(る)	limit	847
+457	KETSU	ケツ	ka(ku), ka(keru)	か(く), か(ける)	lack	383
+458	KAKU	カク	kado, tsuno	かど, つの	angle, corner, horn	473
+459	KAKU, KYAKU	カク, キャク			guest, customer	641
+460	KAKU, KOU	カク, コウ			status, rank, case	643
+461	KAKU	カク	tashi(ka), tashi(kameru)	たし(か), たし(かめる)	certain	603
+462	KAKU	カク	kawa	かわ	reform, leather	1075
+463	GAKU	ガク	hitai	ひたい	amount, forehead	838
+464	KEN	ケン	kashiko(i)	かしこ(い)	wise, intelligent	1288
+465	SUU, SU	スウ, ス	kazu, kazo(eru)	かず, かぞ(える)	number, count	225
+466	KEI, GYOU	ケイ, ギョウ	katachi, kata	かたち, かた	form, shape	395
+467	KEI	ケイ	kata	かた	model, form, type	888
+468	HEN	ヘン	kata	かた	one side, fragment	1045
+469	KEN	ケン	kata	かた	shoulder	1264
+470	KO	コ	kata(i), kata(maru), kata(meru)	かた(い), かた(まる), かた(める)	hard, solid, firm	972
+471	NAN	ナン	kata(i), muzuka(shii)	かた(い), むずか(しい)	difficult, disaster	557
+472	KOU	コウ	kata(i)	かた(い)	hard, solid, firm	1009
+473	KEN	ケン	kata(i)	かた(い)	hard, solid, firm	1289
+474	KEI	ケイ	katamu(ku), katamu(keru)	かたむ(く), かたむ(ける)	lean, incline	1441
+475	SHOU	ショウ	ka(tsu), masa(ru)	か(つ), まさ(る)	win, excel	509
+476	KATSU	カツ			life, activity	237
+477	KATSU	カツ	wa(ru), wa(reru), wari, sa(ku)	わ(る), わ(れる), わり, さ(く)	divide, break, rate	519
+478	TAN	タン	katsu(gu), nina(u)	かつ(ぐ), にな(う)	bear, shoulder, trick	1274
+479	HI	ヒ	kana(shii), kana(shimu)	かな(しい), かな(しむ)	sad, lament	1034
+480	HITSU	ヒツ	kanara(zu)	かなら(ず)	surely, invariably	520
+481	HI	ヒ	kare, kano	かれ, かの	he, that	977
+482	KOU	コウ	kama(u), kama(eru)	かま(う), かま(える)	structure, posture, mind	1010
+483	SHIN, JIN	シン, ジン	kami, kan, kou	かみ, かん, こう	god	310
+484	HATSU	ハツ	kami	かみ	hair	1148
+485	SHIN	シン	kara(i)	から(い)	hot, spicy, hard	1487
+486	KO	コ	ka(reru), ka(rasu)	か(れる), か(らす)	wither	974
+487	RAKU	ラク	kara(mu), kara(maru)	から(む), から(まる)	entwine	840
+488	HI	ヒ	kawa	かわ	skin	975
+489	SOKU	ソク	kawa	かわ	side	609
+490	KAN	カン	kawa(ku), kawa(kasu)	かわ(く), かわ(かす)	dry, parch	1190
+491	KAN	カン			feeling, sensation	262
+492	KAN	カン			complete, perfect	613
+493	KAN	カン			government	326
+494	KAN	カン	kuda	くだ	pipe, tube, control	328
+495	KAN	カン	seki	せき	concern, barrier	398
+496	KAN	カン			appearance, view	604
+497	KAN	カン			publish	585
+498	KAN	カン	na(reru), na(rasu)	な(れる), な(らす)	custom, habit	915
+499	KAN	カン	hi(ru), ho(su)	ひ(る), ほ(す)	dry	584
+500	KAN	カン	ma(ku), maki	ま(く), まき	roll, volume	507
+501	KAN	カン			simple	1533
+502	KAN	カン			can	1649
+503	KAN	カン	wazura(u)	わずら(う)	illness, suffer	1315
+504	GAN	ガン	maru, maru(i), maru(meru)	まる, まる(い), まる(める)	round	644
+505	SETSU	セツ	yuki	ゆき	snow	949
+506	SEI	セイ	ha(reru), ha(rasu)	は(れる), は(らす)	clear, fair	662
+507	RYOU	リョウ	suzu(shii), suzu(mu)	すず(しい), すず(む)	cool, refreshing	1204
+508	KI	キ			season	465
+509	SETSU, SECHI	セツ, セチ	fushi	ふし	time, season, paragraph	464
+510	GAN	ガン	kishi	きし	shore, coast	586
+511	YO	ヨ			previously, in advance	393
+512	TEI, JOU	テイ, ジョウ	sada(meru), sada(maru), sada(ka)	さだ(める), さだ(まる), さだ(か)	decide, determine	355
+513	YAKU	ヤク			approximately, promise	211
+514	MATSU	マツ	sue	すえ	end	305
+515	TATSU, DACHI	タツ, ダチ	tachi	たち	reach, gain, achieve	448
+516	GAN	ガン	nega(u)	ねが(う)	wish, desire, request	581
+517	KOU	コウ	ooyake	おおやけ	public, official	126
+518	YOU	ヨウ	ha	は	leaf, foliage	253
+519	FUTSU	フツ	hara(u)	はら(う)	pay, sweep away	582
+520	HAKU	ハク	to(maru), to(meru)	と(まる), と(める)	lodge, stay	1177
+521	CHOU	チョウ	shira(beru), totono(u), totono(eru)	しら(べる), ととの(う), ととの(える)	investigate, check, prepare	342
+522	TAN	タン	sagu(ru), saga(su)	さぐ(る), さが(す)	search, look for	535
+523	GAN	ガン	fuku(mu), fuku(meru)	ふく(む), ふく(める)	contain, include, hold	1249
+524	KI	キ	shiru(su)	しる(す)	write/note down	371
+525	KI, GO	キ, ゴ			time, period, term	449
+526	KI	キ			hope, rare	676
+527	KI	キ	yoroko(bu)	よろこ(ぶ)	joy, delight	1143
+528	KI	キ	hata	はた	opportunity, machine, loom	528
+529	KI	キ			rule, standard	607
+530	KI	キ	yo(ru), yo(seru)	よ(る), よ(せる)	approach, meet, gather	1361
+531	KI	キ	tsukue	つくえ	desk	1305
+532	GI	ギ			consult, discuss	292
+533	SHIN	シン	ne(ru), ne(kasu)	ね(る), ね(かす)	go to bed, sleep	1079
+534	SHU	シュ	to(ru)	と(る)	take	65
+535	SHOU	ショウ	ke(su), ki(eru)	け(す), き(える)	extinguish, go out, disappear	845
+536	RAI	ライ	tano(mu), tano(moshii), tayo(ru)	たの(む), たの(もしい), たよ(る)	request, ask, rely	1512
+537	DEN	デン	tsuta(u), tsuta(eru), tsuta(waru)	つた(う), つた(える), つた(わる)	tell, report, transmit	434
+538	ZAI	ザイ			material, talent	552
+539	SHOU	ショウ	ya(ku), ya(keru)	や(く), や(ける)	burn, roast, bake	920
+540	GI	ギ	waza	わざ	technique, skill	871
+541	RI	リ	ki(ku)	き(く)	advantage, profit	329
+542	KOU	コウ	ki(ku)	き(く)	effect, efficient	816
+543	CHOU	チョウ	kiza(shi), kiza(su)	きざ(し), きざ(す)	sign, symptom, trillion	1562
+544	KOKU	コク	kiza(mu)	きざ(む)	cut, chop, engrave	1211
+545	CHIKU	チク	kizu(ku)	きず(く)	build, construct, erect	1603
+546	KYOU, KEI	キョウ, ケイ	kiso(u), se(ru)	きそ(う), せ(る)	compete, vie	852
+547	SHUKU	シュク	yado, yado(ru), yado(su)	やど, やど(る), やど(す)	lodging, inn, shelter	179
+548	HOU, HAtsu	ホウ, ハツ			law	123
+549	JU	ジュ	sazu(keru), sazu(karu)	さず(ける), さず(かる)	grant, teach	602
+550	YUU	ユウ			mail	524
+551	KYOKU	キョク			bureau, office	170
+552	BU	ブ			part, section	86
+553	GOU	ゴウ			number, title	266
+554	BOU	ボウ	wasu(reru)	わす(れる)	forget	1374
+555	SOTSU	ソツ			soldier, end	787
+556	HOU	ホウ	tsutsu(mu)	つつ(む)	wrap, pack	804
+557	RYOU	リョウ			both	200
+558	KYOU, KU	キョウ, ク	tomo, sona(eru)	とも, そな(える)	attendant, offer	197
+559	KOU	コウ			navigation	823
+560	KITSU	キツ			eat, drink, smoke	1240
+561	KITSU	キツ	tsu(mu), tsu(meru), tsu(maru)	つ(む), つ(める), つ(まる)	cram, shorten	1142
+562	KETSU	ケツ	ki(meru), ki(maru)	き(める), き(まる)	decide	356
+563	KUN	クン	kimi	きみ	you, ruler	793
+564	GYAKU	ギャク	saka, saka(rau)	さか, さか(らう)	reverse, opposite	444
+565	KYUU	キュウ			grade, class	568
+566	KYUU	キュウ	tama	たま	ball, sphere	726
+567	KYUU	キュウ	moto(meru)	もと(める)	want, request, demand, seek	724
+568	KYUU	キュウ	na(ku)	な(く)	cry	1236
+569	KYUU	キュウ	suku(u)	すく(う)	rescue, save	725
+570	KYUU	キュウ			supply	346
+571	REN	レン	ne(ru)	ね(る)	knead, train, polish	743
+572	SEI, JOU	セイ, ジョウ	shizu(ka), shizu(maru), shizu(meru)	しず(か), しず(まる), しず(める)	quite, peaceful	663
+573	KETSU	ケツ	musu(bu), yu(u), yu(wau)	むす(ぶ), ゆ(う), ゆ(わう)	tie, bind, conclude	485
+574	KON	コン			marriage	567
+575	SHIKI	シキ			ceremony, style, method	525
+576	HEI	ヘイ	shi(meru), shi(maru), to(jiru), to(zasu)	し(める), し(まる), と(じる), と(ざす)	close, shut	397
+577	SHOU	ショウ	mane(ku)	まね(く)	summon, invite	455
+578	RYUU, RU	リュウ, ル	to(maru), to(meru)	と(まる), と(める)	stay, fasten	761
+579	KYUU, KU	キュウ, ク	hisa(shii)	ひさ(しい)	long time	1210
+580	KYUU	キュウ			old, former	1216
+581	KYUU	キュウ	su(u)	す(う)	inhale, suck, smoke	1256
+582	KYO	キョ	yuru(su)	ゆる(す)	permit, pardon	737
+583	SEI, SHOU	セイ, ショウ	kiyo(i), kiyo(maru), kiyo(meru)	きよ(い), きよ(まる), きよ(める)	pure, clean, clear	660
+584	KYOU	キョウ	hashi	はし	bridge	597
+585	KYOU	キョウ	tomo	とも	together, both	196
+586	KYOU	キョウ			cooperate	234
+587	KEI, KYOU	ケイ, キョウ	he(ru)	へ(る)	longitude, pass, elapse	548
+588	KYOU, KEI	キョウ, ケイ	sakai	さかい	boundary	864
+589	KYOU	キョウ	mune, muna	むね, むな	breast, chest	1283
+590	KYOU	キョウ	sake(bu)	さけ(ぶ)	shout, cry out	1252
+591	KYOU	キョウ			conditions, situation	850
+592	KYOU	キョウ	sema(i), seba(maru), seba(meru)	せま(い), せば(まる), せば(める)	narrow, small	1353
+593	KYOU	キョウ	hasa(mu), hasa(maru)	はさ(む), はさ(まる)	put between, insert	1354
+594	KYOKU	キョク	ma(garu), ma(geru)	ま(がる), ま(げる)	music, melody, bend, curve	366
+595	KOU	コウ	mu(ku), mu(keru), mu(kau), mu(kou)	む(く), む(ける), む(かう), む(こう)	face, turn, opposite	199
+596	RYOKU, ROKU	リョク, ロク	midori	みどり	green	537
+597	TO	ト	wata(ru), wata(su)	わた(る), わた(す)	cross, hand over	378
+598	SA	サ	sa(su)	さ(す)	difference	658
+599	KYOKU, GOKU	キョク, ゴク	kiwa(meru), kiwa(maru), kiwa(mi)	きわ(める), きわ(まる), きわ(み)	extreme, pole	336
+600	GYOKU	ギョク	tama	たま	gem, jewel, sphere	295
+601	SAI	サイ	kiwa	きわ	edge, occasion	618
+602	KIN	キン			equal, even	805
+603	KIN	キン			prohibit	482
+604	TEN	テン			point, dot	169
+605	KIN, GON	キン, ゴン	tsuto(meru), tsuto(maru)	つと(める), つと(まる)	serve, work	559
+606	KU	ク	kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru)	くる(しい), くる(しむ), くる(しめる), にが(い), にが(る)	suffer, bitter, painful	545
+607	KO, KU	コ, ク			storehouse	825
+608	KOU, KU	コウ, ク	kurenai, beni	くれない, べに	crimson, rouge, lipstick	820
+609	GU	グ			tool, ingredients	420
+610	GUU	グウ			couple, even, accidental	1639
+611	GUU	グウ	sumi	すみ	corner, nook	1640
+612	SOU	ソウ	kusa	くさ	grass	249
+613	KUTSU	クツ	ho(ru)	ほ(る)	dig	1803
+614	HAI	ハイ	kuba(ru)	くば(る)	distribute, deliver	515
+615	SO	ソ	kumi, ku(mu)	くみ, く(む)	class, crew, assemble	418
+616	DON	ドン	kumo(ru)	くも(る)	cloudy	637
+617	ZOU	ゾウ	kura	くら	warehouse, storehouse	1286
+618	BO	ボ	ku(reru), ku(rasu)	く(れる), く(らす)	grow dark, live	1428
+619	HI	ヒ	kura(beru)	くら(べる)	compare	798
+620	KUN	クン			instruct, teach	771
+621	GUN	グン			army, troops	438
+622	GUN	グン	mu(re), mu(reru)	む(れ), む(れる)	group, crowd	794
+623	MOU	モウ	ke	け	hair, fur, down	287
+624	KEI	ケイ			view, scene	853
+625	KEI	ケイ			admonish, warn	706
+626	GEI	ゲイ			art, skill	435
+627	GEI	ゲイ	muka(eru)	むか(える)	meet, welcome, invite	1055
+628	GEKI	ゲキ			drama, play	797
+629	KETSU	ケツ	chi	ち	blood	789
+630	KEN	ケン	kewa(shii)	けわ(しい)	steep, severe	533
+631	KEN	ケン			matter, affair, case	732
+632	KEN	ケン			ticket, coupon, certificate	506
+633	KEN	ケン			inspect, examine	531
+634	KEN, GON	ケン, ゴン			authority, power, right	335
+635	KEN	ケン	noki	のき	eaves	1187
+636	GEN	ゲン	hara	はら	original, plain, field	136
+637	GEN	ゲン	he(ru), he(rasu)	へ(る), へ(らす)	decrease, diminish	715
+638	FUN	フン	ko, kona	こ, こな	flour, powder	1701
+639	KO	コ	to	と	door	152
+640	KO	コ	mizuumi	みずうみ	lake	467
+641	KO	コ			individual	973
+642	KO	コ	yo(bu)	よ(ぶ)	call, invite	1254
+643	KO	コ	yato(u)	やと(う)	employ, hire	1553
+644	GO	ゴ	taga(i)	たが(い)	mutual, each other	907
+645	REN	レン	koi, koi(shii)	こい, こい(しい)	love, yearn	258
+646	NOU	ノウ	ko(i)	こ(い)	thick, dark, strong	957
+647	KOU	コウ	saiwa(i), sachi, shiawa(se)	さいわ(い), さち, しあわ(せ)	happiness, good fortune	684
+648	KOU	コウ	minato	みなと	harbor, port	669
+649	KOU	コウ	sourou	そうろう	season, weather, serve	944
+650	KOU	コウ	tagaya(su)	たがや(す)	till, plow, cultivate	1196
+651	KOU	コウ			ore, mine	1604
+652	BYOU	ビョウ	neko	ねこ	cat	1469
+653	ZATSU, ZOU	ザツ, ゾウ			miscellaneous, mix	575
+654	SHI	シ			journal, magazine	574
+655	JI	ジ	ya(meru)	や(める)	word, resign	688
+656	SAKU	サク			past, yesterday	361
+657	HA	ハ			group, faction, sect	912
+658	TAN	タン			birth	1116
+659	REI, RAI	レイ, ライ			courtesy, gratitude	620
+660	YOKU	ヨク	hos(suru), ho(shii)	ほっ(する), ほ(しい)	greed, desire, want	1127
+661	KOU	コウ			lecture, club	783
+662	KOU	コウ	sara, fu(keru), fu(kasu)	さら, ふ(ける), ふ(かす)	anew, grow late	1008
+663	KOU	コウ			assent, consent	1262
+664	KOU	コウ			suburb, outskirts	817
+665	HI	ヒ	koumu(ru), kabu(ru)	こうむ(る), かぶ(る)	suffer, receive	976
+666	CHOU	チョウ	ko(su), ko(eru)	こ(す), こ(える)	super, surpass	1000
+667	HYOU	ヒョウ	koori, hi	こおり, ひ	ice	1206
+668	TOU	トウ	koo(ru), kogo(eru)	こお(る), こご(える)	freeze	1205
+669	KOKU	コク	tani	たに	valley	653
+670	KOKU	コク	tsu(geru)	つ(げる)	tell, inform	690
+671	YOU	ヨウ	koshi	こし	loins, hips	1298
+672	KOTSU	コツ	hone	ほね	bone	1266
+673	DAN	ダン	kotowa(ru), ta(tsu)	ことわ(る), た(つ)	judgment, decline, cut off	1024
+674	SAI	サイ	hoso(i), hoso(ru), koma(ka), koma(kai)	ほそ(い), ほそ(る), こま(か), こま(かい)	small, slender, fine	695
+675	KON	コン	koma(ru)	こま(る)	be distressed	558
+676			ko(mu), ko(meru)	こ(む), こ(める)	be crowded, include	776
+677	BEI, MAI	ベイ, マイ	kome	こめ	rice, America	224
+678	SATSU, SAI, SETSU	サツ, サイ, セツ	koro(su)	ころ(す)	kill	576
+679	FU	フ	kowa(i)	こわ(い)	frightening, dreadful	1814
+680	KON	コン	ne	ね	root, origin	314
+681	KON	コン	ma(zeru), ma(zaru), ma(jiru)	ま(ぜる), ま(ざる), ま(じる)	mix, blend	799
+682	SHUU, JU	シュウ, ジュ	tsu(ku), tsu(keru)	つ(く), つ(ける)	engage, employ	934
+683	SHOKU	ショク			employment, job	385
+684	DAN	ダン			conversation	593
+685	SETSU	セツ	tsu(gu)	つ(ぐ)	touch, contact, join	486
+686	SEN	セン	moppa(ra)	もっぱ(ら)	entirely, exclusively	600
+687	KOU	コウ	se(meru)	せ(める)	attack, assault	819
+688	SHIN	シン	mou(su)	もう(す)	say, be called	309
+689	DOU	ドウ	hatara(ku)	はたら(く)	work, labor	232
+690	FU	フ	tsu(ku), tsu(keru)	つ(く), つ(ける)	attach, append	192
+691	JO	ジョ	tasu(keru), tasu(karu)	たす(ける), たす(かる)	help, assist, rescue	623
+692	REN	レン	tsu(reru), tsura(neru), tsura(naru)	つ(れる), つら(ねる), つら(なる)	group, take, line up	440
+693	SA	サ			investigate	624
+694	SA, SHA	サ, シャ	suna	すな	sand	1151
+695	SAI, SA	サイ, サ	futata(bi)	ふたた(び)	once more, again	782
+696	ZA	ザ	suwa(ru)	すわ(る)	sit, seat	786
+697	SAI	サイ			talent, genius	551
+698	SAI	サイ	matsu(ru), matsu(ri)	まつ(る), まつ(り)	deify, worship, festival	617
+699	SAI	サイ	motto(mo)	もっと(も)	most, extreme	263
+700	SAI	サイ	tsuma	つま	wife	671
+701	SAI	サイ	to(ru)	と(る)	take on, pick, gather	933
+702	SAI	サイ	su(mu), su(masu)	す(む), す(ます)	finish, settle	549
+703	SAI, SEI	サイ, セイ			year, age	479
+704	ZAI, SAI	ザイ, サイ			wealth, property	553
+705	ZAI	ザイ	tsumi	つみ	sin, crime, guilt	885
+706	HAN	ハン	saka	さか	slope, hill	443
+707	SHU	シュ	sake, saka	さけ, さか	sake, alcohol	517
+708	SOU	ソウ	saga(su)	さが(す)	search, look for	989
+709	HAI	ハイ	sakazuki	さかずき	sake cup	1155
+710			sa(ku)	さ(く)	bloom	927
+711	SATSU, SAKU	サツ, サク			book, volume	1158
+712	SHI	シ	sasa(eru)	ささ(える)	branch, support	318
+713	SHI	シ	sa(su), sa(saru)	さ(す), さ(さる)	stab, stick	881
+714	SHI	シ	yubi, sa(su)	ゆび, さ(す)	finger, point	1041
+715	SATSU	サツ	fuda	ふだ	paper money, card, label	1157
+716	SATSU	サツ	su(ru)	す(る)	print	1044
+717	SATSU	サツ			surmise, guess, understand	619
+718	YOU	ヨウ	sama	さま	condition, Mr., Ms.	403
+719	REI	レイ	tsume(tai), sa(meru), sa(masu), hi(eru), hi(yasu)	つめ(たい), さ(める), さ(ます), ひ(える), ひ(やす)	cold	832
+720			sara	さら	plate, dish	1097
+721	MEI	メイ	mayo(u)	まよ(う)	lose, go astray, vacillate	967
+722	WAKU	ワク	mado(u)	まど(う)	perplex, tempt	969
+723	KU	ク			phrase, verse	337
+724	ZEN	ゼン	matta(ku), sube(te)	まった(く), すべ(て)	all, entire, whole	89
+725	ZEN, NEN	ゼン, ネン			as, like, so	651
+726	SHUU, JUU	シュウ, ジュウ	hiro(u)	ひろ(う)	pick up, find, gather	1445
+727	SHA	シャ	su(teru)	す(てる)	throw away, abandon	1444
+728	ZAN	ザン	noko(ru), noko(su)	のこ(る), のこ(す)	remain, leave	650
+729	SAN	サン	chi(ru), chi(rasu), chi(rakaru), chi(rakasu)	ち(る), ち(らす), ち(らかる), ち(らかす)	scatter, disperse	767
+730	CHUU	チュウ	naka	なか	relationship	1347
+731	SHOKU	ショク	sawa(ru), fu(reru)	さわ(る), ふ(れる)	touch, feel	874
+732	SAN	サン	soro	そろ	calculate	747
+733	SAN	サン	mai(ru)	まい(る)	come, go, visit	710
+734	SAN	サン			praise, approve	745
+735	JI, SHI	ジ, シ	tsugi, tsu(gu)	つぎ, つ(ぐ)	next	384
+736	CHOKU, JIKI	チョク, ジキ	nao(su), nao(ru), tada(chi ni)	なお(す), なお(る), ただ(ち に)	direct, fix, immediately	423
+737	SHI	シ	ha	は	tooth	478
+738	SHI	シ			history	332
+739	JI, SHI	ジ, シ	shime(su)	しめ(す)	show, indicate	615
+740	SHI	シ			teacher, army	409
+741	SHI	シ			resources, funds, capital	750
+742	SHI	シ			words	843
+743	RO	ロ	ji	じ	road, street	151
+744	JI	ジ	tera	てら	temple	41
+745	JI, NI	ジ, ニ			child, infant	1217
+746	JI	ジ	ni(ru)	に(る)	resemble, similar	1486
+747	JO, JI	ジョ, ジ	nozo(ku)	のぞ(く)	remove, exclude	1065
+748	KAN	カン	wa	わ	ring, surround	865
+749	HI	ヒ	to(bu), to(basu)	と(ぶ), と(ばす)	fly	530
+750	TETSU	テツ	kurogane	くろがね	iron	312
+751	SAI	サイ	wazawa(i)	わざわ(い)	misfortune, disaster	1335
+752	RYUU, RU	リュウ, ル	naga(reru), naga(su)	なが(れる), なが(す)	flow, current	247
+753	SHU, SU	シュ, ス	mamo(ru), mori	まも(る), もり	protect, defend, obey	490
+754	SHOU	ショウ			commander, general	627
+755	ZOU	ゾウ	ma(su), fu(eru), fu(yasu)	ま(す), ふ(える), ふ(やす)	increase, rise	712
+756	SHIKI	シキ			know, discriminate	681
+757	TEKI	テキ	shizuku, shitata(ru)	しずく, したた(る)	drop, trickle	1446
+758	CHIN	チン	shizu(mu), shizu(meru)	しず(む), しず(める)	sink	936
+759	SHITSU	シツ	shime(ru), shime(su)	しめ(る), しめ(す)	dampen, moisten	1169
+760	JITSU	ジツ	mi, mino(ru)	み, みの(る)	true, real, fruit, nut	203
+761	TOU	トウ	shima	しま	island	286
+762	SEKI, SHAKU	セキ, シャク	mukashi	むかし	antiquity, long ago	764
+763	JAKU, NYAKU	ジャク, ニャク	waka(i), mo(shikuwa)	わか(い), も(しくわ)	young	544
+764	SHU	シュ	tane	たね	kind, type, seed	228
+765	SHUU	シュウ	su	す	state, province, sandbank	195
+766	SHUU	シュウ	mawa(ri)	まわ(り)	lap, circumference, surroundings	91
+767	SEN	セン	fune, funa	ふね, ふな	ship, boat	376
+768	JUU, NYUU	ジュウ, ニュウ	yawa(rakai)	やわ(らかい)	soft, tender	774
+769	JUTSU	ジュツ	no(beru)	の(べる)	state, mention, explain	968
+770	JUTSU	ジュツ			art, technique, means	187
+771	JUN	ジュン			order, turn, obey	769
+772	JUN	ジュン			semi-, quasi-, correspond	778
+773	JUN	ジュン			pure	965
+774	SHO	ショ			deal with, manage, condemn	1137
+775	SHO	ショ			government office	860
+776	SHO	ショ			all, many, various	861
+777	SHOU	ショウ			chapter, badge	857
+778	SEI, JOU	セイ, ジョウ	na(ru), na(su)	な(る), な(す)	become, grow, consist	261
+779	ZETSU	ゼツ	ta(eru), ta(yasu), ta(tsu)	た(える), た(やす), た(つ)	cut off, cease	742
+780	TAI, TSUI	タイ, ツイ			against, pair	365
+781	NOU	ノウ			ability, capacity	386
+782	SOKU	ソク	haya(i), haya(meru), sumi(yaka)	はや(い), はや(める), すみ(やか)	fast, quick	502
+783	RUI	ルイ			kind, sort, variety	226
+784	KEN	ケン	suko(yaka)	すこ(やか)	health, strength	893
+785	KOU	コウ			peace, ease	894
+786	SON	ソン	tatto(i), tatto(bu), touto(i), touto(bu)	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	respect, precious, honor	704
+787	SEI, SHOU	セイ, ショウ			spirit, soul, energy	659
+788	TOU	トウ	na(geru)	な(げる)	throw, abandon	1021
+789	KYOU	キョウ	odoro(ku), odoro(kasu)	おどろ(く), おどろ(かす)	surprise, amaze	1778
+790	SEKI	セキ			seat, place	379
+791	HAN	ハン			general, kind	1096
+792	HAI	ハイ			fellow, colleague	1037
+793	TEKI	テキ	mato	まと	target, mark, object	210
+794	SHOU, ZOU	ショウ, ゾウ			image, elephant	739
+795	SHOU	ショウ	te(ru), te(rasu), te(reru)	て(る), て(らす), て(れる)	shine, illuminate	998
+796	SHA	シャ	ayama(ru)	あやま(る)	apologize, thank	901
+797	SHOU	ショウ			prize, praise, reward	500
+798	SEI, SHOU	セイ, ショウ			nature, sex	98
+799	SOU, SHOU	ソウ, ショウ	yosoo(u)	よそお(う)	dress, pretend	1328
+800	SHOU	ショウ	me(su)	め(す)	summon, eat, drink, wear	995
+801	SHOU	ショウ	toko, yuka	とこ, ゆか	floor, bed	826
+802	SHOU	ショウ	nobo(ru)	のぼ(る)	rise, promote	1777
+803	SHOU	ショウ			introduce	456
+804	SEI, SHOU	セイ, ショウ	hoshi	ほし	star	730
+805	SEI, SHOU	セイ, ショウ	matsurigoto	まつりごと	politics, government	483
+806	JOU	ジョウ			condition, letter	626
+807	JOU	ジョウ	tsune, toko	つね, とこ	usual, normal, always	497
+808	JOU, SEI	ジョウ, セイ	nasa(ke)	なさ(け)	emotion, circumstances	209
+809	JOU	ジョウ	shiro	しろ	castle	720
+810	JOU	ジョウ	mu(su), mu(reru), mu(rasu)	む(す), む(れる), む(らす)	steam, sultry	943
+811	ZOKU	ゾク	tsutzu(ku), tsutzu(keru)	つづ(く), つづ(ける)	continue	243
+812	HAI	ハイ	yabu(reru)	やぶ(れる)	lose, defeated	511
+813	KOU, KU	コウ, ク			merits, success	818
+814	SHIN	シン			believe, trust, faith	157
+815	HI	ヒ	tsui(yasu), tsui(eru)	つい(やす), つい(える)	spend, waste	749
+816	RYOU	リョウ	haka(ru)	はか(る)	quantity, measure, weigh	411
+817	TAI	タイ	fukuro	ふくろ	bag, sack	1329
+818	TOU	トウ	yu	ゆ	hot water, bath	632
+819	DAN	ダン			step, rank	362
+820	RETSU	レツ			line, row	611
+821	TOU	トウ	su(beru)	す(べる)	govern, link	830
+822	JOU	ジョウ	tatami, tata(mu)	たたみ, たた(む)	tatami, fold	1087
+823	TAI	タイ	shirizo(ku), shirizo(keru)	しりぞ(く), しりぞ(ける)	retreat	846
+824	SHIN	シン	mi	み	body, self	59
+825	SHIN	シン	fuka(i), fuka(meru), fuka(maru)	ふか(い), ふか(める), ふか(まる)	deep	536
+826	SHIN, JIN	シン, ジン			subject, retainer	835
+827	SHIN	シン	hari	はり	needle	341
+828	SHIN	シン	no(biru), no(basu)	の(びる), の(ばす)	stretch, lengthen, extend	1108
+829	GEKI	ゲキ	hage(shii)	はげ(しい)	violent, fierce, intense	1017
+830	SHIN	シン	furu(u), furu(eru)	ふる(う), ふる(える)	tremble, shake	953
+831	SUI	スイ	fu(ku)	ふ(く)	blow	1255
+832	YUU	ユウ	sugu(reru), yasa(shii)	すぐ(れる), やさ(しい)	kind, gentle, excel	1033
+833	TAN	タン	sumi	すみ	coal	1344
+834	HAI	ハイ	se, sei, somu(ku), somu(keru)	せ, せい, そむ(く), そむ(ける)	back, height	1265
+835	SEI	セイ			system, control	427
+836	SEI	セイ			make, produce, manufacture	428
+837	ZEI	ゼイ			tax	399
+838	SEKI	セキ	tsu(mu), tsu(moru), tsu(mori)	つ(む), つ(もる), つ(もり)	pile, heap, accumulate	656
+839	SEKI	セキ	se(meru)	せ(める)	duty, blame, torture	655
+840	SEKI	セキ			achievements	1117
+841	SEKI	セキ			one (of a pair), (counter for boats)	1311
+842	SEKI	セキ			register, membership	1198
+843	SETSU	セツ	mou(keru)	もう(ける)	set up, prepare, establish	577
+844	SEN	セン			line	299
+845	SO	ソ			ancestor	622
+846	SOU, SO	ソウ, ソ			idea, thought	147
+847	SOU	ソウ			general, total	697
+848	SOU	ソウ	mado	まど	window	698
+849	SOU	ソウ			layer, stratum	1367
+850	SOU	ソウ	futa	ふた	pair, both	1594
+851	SOU	ソウ	ha(ku)	は(く)	sweep	1080
+852	SOU	ソウ			dry up, parch	1656
+853	ZOU	ゾウ	tsuku(ru)	つく(る)	make, produce, build	691
+854	ZOU	ゾウ			image, picture, statue	740
+855	ZOU	ゾウ			viscera	1287
+856	ZOU	ゾウ	niku(mu), niku(i), niku(rashii), niku(shimi)	にく(む), にく(い), にく(らしい), にく(しみ)	hate	1365
+857	SOKU	ソク	taba	たば	bundle, sheaf	501
+858	SOKU	ソク			rule, law	608
+859	SOKU	ソク	haka(ru)	はか(る)	measure	610
+860	TEI	テイ	soko	そこ	bottom	562
+861	SON	ソン	soko(nau), soko(neru)	そこ(なう), そこ(ねる)	loss, damage	350
+862	SOTSU, RITSU	ソツ, リツ	hiki(iru)	ひき(いる)	rate, proportion, lead	788
+863	BI	ビ	sona(eru), sona(waru)	そな(える), そな(わる)	provide, possess	768
+864	HAN, HON, TAN	ハン, ホン, タン	so(ru), so(rasu)	そ(る), そ(らす)	anti-, against	324
+865	SON	ソン	mago	まご	grandchild	910
+866	SON, ZON	ソン, ゾン			exist, know	269
+867	DAI	ダイ			#, rank	404
+868	HEI, BYOU	ヘイ, ビョウ	tai(ra), hira	たい(ら), ひら	flat, level	202
+869	TOU	トウ	tao(reru), tao(su)	たお(れる), たお(す)	fall, collapse, topple	905
+870	HOU	ホウ	takara	たから	treasure	296
+871	TAKU	タク			home, residence	178
+872	TAKU	タク			wash, rinse	1561
+873	CHIKU	チク	take	たけ	bamboo	129
+874	REI	レイ	tato(eru)	たと(える)	example, custom	612
+875	RAN	ラン	tamago	たまご	egg	1058
+876	TAN	タン			single, simple	300
+877	NYUU	ニュウ	chichi, chi	ちち, ち	milk, breast	939
+878	CHI	チ	haji, ha(jiru), ha(jirau), ha(zukashii)	はじ, は(じる), は(じらう), は(ずかしい)	shame, disgrace, shy	1690
+879	CHIKU	チク			livestock	1223
+880	CHUU	チュウ	mushi	むし	insect, bug	873
+881	CHUU	チュウ	hashira	はしら	pillar, column, pole	598
+882	CHUU	チュウ			midair, space	991
+883	CHUU	チュウ			stop, reside	599
+884	CHO	チョ			save, store	762
+885	CHOU	チョウ			government office	763
+886	CHIN	チン	mezura(shii)	めずら(しい)	rare	1215
+887	HO	ホ	to(ru), to(raeru), to(rawareru), tsuka(maru), tsuka(maeru)	と(る), と(らえる), と(らわれる), つか(まる), つか(まえる)	catch, arrest	890
+888	HI	ヒ	tsuka(reru), tsuka(rasu)	つか(れる), つか(らす)	tire, fatigue	1321
+889	TOTSU	トツ	tsu(ku)	つ(く)	thrust, poke	898
+890	DO	ド	tsuto(meru)	つと(める)	exert, strive	1595
+891	MU	ム	tsuto(meru)	つと(める)	duties	235
+892	BO	ボ	tsuno(ru)	つの(る)	raise, invite	1430
+893	RYUU	リュウ	tsubu	つぶ	grain	1700
+894	TEI	テイ	niwa	にわ	garden	1112
+895	TEI	テイ			stop, halt	1185
+896	TEI	テイ	hodo	ほど	degree, extent	417
+897	DEI	デイ	doro	どろ	mud	1621
+898	TEKI	テキ			fit, suitable	415
+899	DEN, TEN	デン, テン	tono, dono	との, どの	palace, lord	1130
+900	TOU, TO	トウ, ト	nobo(ru)	のぼ(る)	climb	960
+901	TO	ト			party, vain, useless	430
+902	TO	ト			way, road	1072
+903	TO	ト	nu(ru)	ぬ(る)	coat, paint	1073
+904	TOU	トウ	hito(shii)	ひと(しい)	equal, class	569
+905	TOU	トウ	hi	ひ	lamp, light	1333
+906	TOU	トウ			party, faction	495
+907	TOU	トウ			arrive, reach	904
+908	TOU	トウ	ni(geru), ni(gasu), noga(su), noga(reru)	に(げる), に(がす), のが(す), のが(れる)	escape, flee	1566
+909	TOU	トウ	nusu(mu)	ぬす(む)	steal	1100
+910	TOU	トウ	tsutsu	つつ	pipe, tube	1472
+911	TOU	トウ			tower	1840
+912	DOU	ドウ	warabe	わらべ	child	410
+913	DOU	ドウ			copper	1605
+914	DOU	ドウ	michibi(ku)	みちび(く)	lead, guide	703
+915	YOU	ヨウ	to(ku), to(keru), to(kasu)	と(く), と(ける), と(かす)	melt, dissolve	1392
+916	DOKU	ドク			poison	522
+917	DOKU	ドク	hito(ri)	ひと(り)	alone, Germany	219
+918			todo(ku), todo(keru)	とど(く), とど(ける)	reach, arrive, deliver	992
+919	FU, FUU	フ, フウ	tomi, to(mu)	とみ, と(む)	rich, wealth	713
+920	DON	ドン	nibu(i), nibu(ru)	にぶ(い), にぶ(る)	dull, blunt, sluggish	966
+921	MU, BU	ム, ブ	na(i)	な(い)	without, nothing	93
+922	BOU, MOU	ボウ, モウ	na(i)	な(い)	die, dead	672
+923	MEI	メイ	na(ku), na(ru), na(rasu)	な(く), な(る), な(らす)	(animal) sound, ring	925
+924	HA	ハ	nami	なみ	wave	666
+925	HEI	ヘイ	nami, nara(bu), nara(beru), nara(bi ni)	なみ, なら(ぶ), なら(べる), なら(び に)	line up, arrange, average	1165
+926	RUI	ルイ	namida	なみだ	tears	1239
+927	NOU	ノウ	naya(mu), naya(masu)	なや(む), なや(ます)	suffer, worry	1279
+928	NAN	ナン	yawa(raka), yawa(rakai)	やわ(らか), やわ(らかい)	soft	1788
+929	NIN	ニン	maka(su), maka(seru)	まか(す), まか(せる)	office, entrust	334
+930	NIN	ニン	mito(meru)	みと(める)	recognize, approve	738
+931	BATSU	バツ	nu(ku), nu(keru), nu(karu), nu(kasu)	ぬ(く), ぬ(ける), ぬ(かる), ぬ(かす)	pull out, omit, surpass	1713
+932	FU	フ			cloth	675
+933	MIN	ミン	nemu(i), nemu(ru)	ねむ(い), ねむ(る)	sleep, sleepy	849
+934	NEN	ネン			thought, desire, attention	579
+935	NEN	ネン	mo(eru), mo(yasu), mo(su)	も(える), も(やす), も(す)	burn	652
+936	NOU	ノウ			farming, agriculture	369
+937	BOU, MOU	ボウ, モウ	nozo(mu)	のぞ(む)	hope, desire, expect	673
+938	HA	ハ	yabu(ru), yabu(reru)	やぶ(る), やぶ(れる)	tear, break	665
+939	BAI	バイ			times, double	87
+940	BAKU	バク	mugi	むぎ	wheat, barley	270
+941	BAKU	バク			explode	1015
+942	SOU	ソウ	hako	はこ	box	1091
+943			hata, hatake	はた, はたけ	field, farm	36
+944			hada	はだ	skin, temperament	1306
+945	BI	ビ	hana	はな	nose	813
+946	HOU	ホウ	hana(su), hana(tsu), hana(reru)	はな(す), はな(つ), はな(れる)	let go, release	512
+947	FUKU	フク	haba	はば	width, breadth	1380
+948	RIN	リン	hayashi	はやし	woods, grove	127
+949	FUKU	フク	hara	はら	belly, stomach, mind	1271
+950	HAN, BAN	ハン, バン			judge, stamp, seal	1026
+951	HAN	ハン			printing, edition	1046
+952	HAN	ハン			sell	1048
+953	BAN	バン			evening, night	736
+954	HI	ヒ			non-, un-, wrong	498
+955	HITSU	ヒツ	hiki	ひき	equal, comparable, (counter for small animals)	1500
+956	HITSU	ヒツ	fude	ふで	brush, writing	130
+957	HEI, HYOU	ヘイ, ヒョウ			soldier	784
+958	BYOU	ビョウ			second	1152
+959	HIN, BIN	ヒン, ビン	mazu(shii)	まず(しい)	poor	753
+960	BIN	ビン			bottle, jar	1161
+961	FU	フ			prefecture, government office	504
+962	FU	フ			woman, wife, lady	316
+963	FU	フ			sign, mark, charm	505
+964	FU	フ			general, universal	1166
+965	FU	フ			skin	1269
+966	BU, MU	ブ, ム			military	1031
+967	BU	ブ	ma(u), mai	ま(う), まい	dance, flutter	810
+968	FUU, HOU	フウ, ホウ			seal	1463
+969	FUKU	フク			fortune, blessing	1379
+970	FUKU	フク			secondary, duplicate	714
+971	FUKU	フク			return, restore	917
+972	FUKU	フク			compound, double	916
+973	BOU	ボウ	fuse(gu)	ふせ(ぐ)	prevent, protect	513
+974	FUTSU	フツ	wa(ku), wa(kasu)	わ(く), わ(かす)	boil, seethe	1792
+975	BUTSU	ブツ	hotoke	ほとけ	Buddha, France	583
+976	HOU	ホウ	muku(iru)	むく(いる)	news, report, reward	685
+977	HOU	ホウ	yuta(ka)	ゆた(か)	rich, abundant	959
+978	BOU	ボウ			trade	760
+979	BOU	ボウ			stick, pole, rod	1543
+980	BOU, BOtsu	ボウ, ボツ			boy, priest	1858
+981	BOU	ボウ			hat, cap	1105
+982	MA	マ	miga(ku)	みが(く)	polish, brush	1531
+983	MAI	マイ			(counter for thin, flat objects)	1156
+984	MAN	マン	mi(chiru), mi(tasu)	み(ちる), み(たす)	full	201
+985	MI	ミ			not yet	306
+986	RAN	ラン	mida(reru), mida(su)	みだ(れる), みだ(す)	rebellion, disorder	689
+987	MU	ム	yume	ゆめ	dream	811
+988			musume	むすめ	daughter, girl	1752
+989	MEN	メン	wata	わた	cotton	1191
+990	REI	レイ	modo(ru), modo(su)	もど(る), もど(す)	return, restore	1238
+991	YU, YUU, YUI	ユ, ユウ, ユイ	yoshi	よし	reason, cause, significance	363
+992	YU	ユ			transport	546
+993	RYOU	リョウ	yo(i)	よ(い)	good	321
+994	YOU	ヨウ			sun, positive	630
+995	YOU	ヨウ			appearance, content	654
+996	YOKU	ヨク			next, following	592
+997	RYAKU	リャク			abbreviation, omission	841
+998	RIKU	リク			land	647
+999	RITSU, RICHI	リツ, リチ			law, regulation, rhythm	667
+1000	RYOU	リョウ			territory, rule	834
+1001	RYOU	リョウ			finish, understand	941
+1002	RYOU	リョウ			treat, cure	1322
+1003	RIN	リン	wa	わ	wheel, ring, circle	1164
+1004	REI	レイ			order, command	831
+1005	REI	レイ			zero	1823
+1006	REI	レイ			age	833
+1007	REKI	レキ			continuation, passage of time	480
+1008	ROU	ロウ			labor, toil	233
+1009	ROKU	ロク			record	538
+1010	RON	ロン			theory, discussion, argument	293
+1011	WAN	ワン			bay	670
+1012	TA	タ	hoka	ほか	other, another	120
+1013	DAN, TON	ダン, トン			group, association	491
+1014	SHUU	シュウ	fune, funa	ふね, ふな	ship, boat	1094
+1015	UN	ウン	kumo	くも	cloud	636
+1016	KYO	キョ			big, gigantic	1293
+1017	KI	キ			steam	135
+1018	KYUU	キュウ	yumi	ゆみ	bow	212
+1019	SHI	シ	ya	や	arrow	213
+1020	TOU	トウ	katana	かたな	sword, knife	37
+1021	RI	リ	sato	さと	village, parents' house	142
+1022	KYUU, GUU, KU	キュウ, グウ, ク	miya	みや	shrine, palace	721
+1023	SHOU	ショウ			bright, shine, clear	997
+1024	SEI	セイ	totono(eru), totono(u)	ととの(える), ととの(う)	arrange, prepare	503
+1025	TOU, ZU	トウ, ズ	mame	まめ	bean, pea	958
+1026	CHOU	チョウ			notebook	1107
+1027	TEKI	テキ	fue	ふえ	flute, whistle	1471
+1028	CHOU, TEI	チョウ, テイ			even number, (quantifier)	184
+1029	AN	アン			idea, plan, proposal	106
+1030	GAI, KAI	ガイ, カイ	machi	まち	town, street	186
+1031	GA	ガ	me	め	bud, sprout, germ	1455
+1032	KEI	ケイ			path, diameter	1475
+1033	GUN	グン			county, district	193
+1034	KYO	キョ	a(geru), a(garu)	あ(げる), あ(がる)	arrest, enumerate	801
+1035	GYO, RYOU	ギョ, リョウ	asa(ru)	あさ(る)	fishing	699
+1036	KI	キ			narrative, history, period	372
+1037	KI	キ	hata	はた	flag, banner	1006
+1038	SHI	シ			gentleman, samurai	572
+1039	SHI	シ			administer, direct, rule	842
+1040	SHOU	ショウ	tona(eru)	とな(える)	chant, recite, advocate	1646
+1041	SHOU	ショウ	matsu	まつ	pine	696
+1042	TAI	タイ			party, squad, unit	795
+1043	SOU	ソウ	su	す	nest, hive, den, cobweb	1538
+1044	SOU	ソウ	kura	くら	warehouse, storehouse	1307
+1045	CHOU	チョウ	harawata	はらわた	intestines, entrails	1270
+1046	TEN	テン			law, code, ceremony	367
+1047	BOKU	ボク	maki	まき	pasture	731
+1048	HYOU	ヒョウ			sign, mark	923
+1049	HYOU	ヒョウ			vote, ballot	922
+1050	HAKU, BAKU	ハク, バク			extensive, broad	601
+1051	YOU	ヨウ	yashina(u)	やしな(う)	rear, foster, develop	402
+1052	MYAKU	ミャク			pulse, vein, hope	913
+1053	KI	キ	moto, motoi	もと, もとい	foundation, basis	450
+1054	GAN, GEN	ガン, ゲン	manako	まなこ	eye, eyeball	848
+1055	KAN	カン	miki	みき	trunk, main	1189
+1056	EI	エイ			defend, protect	815
+1057	EKI, YAKU	エキ, ヤク	ma(su)	ま(す)	profit, gain, advantage	716
+1058	OU	オウ			go, travel	918
+1059	OU	オウ	kota(eru)	こた(える)	answer, reply, comply	827
+1060	ON	オン			favor, kindness, gratitude	555
+1061	KA, KE	カ, ケ	kari	かり	temporary, provisional, interim	1049
+1062	KA	カ	atai	あたい	price, value	421
+1063	GA	ガ			congratulations	756
+1064	KO	コ	yue	ゆえ	reason, cause, circumstances	173
+1065	KETSU	ケツ	isagiyo(i)	いさぎよ(い)	clean, pure, righteous	1241
+1066	KYOU, KOU	キョウ, コウ	oko(ru), oko(su)	おこ(る), おこ(す)	interest, entertain, retrieve	368
+1067	SHI	シ	ka(u)	か(う)	raise, keep, feed	1762
+1068	SAN	サン	su(i)	す(い)	acid, sour	516
+1069	OU	オウ	sakura	さくら	cherry tree	928
+1070	GO	ゴ	mamo(ru)	まも(る)	defend, protect	1312
+1071	JOU	ジョウ			article, clause, streak	564
+1072	SHIKI, SHOKU	シキ, ショク	o(ru)	お(る)	weave, fabric	680
+1073	JO	ジョ	tsui(de)	つい(で)	beginning, preface, order	770
+1074	SHOU	ショウ	akashi	あかし	proof, evidence, certificate	484
+1075	SHUU, SHU	シュウ, シュ	osa(meru), osa(maru)	おさ(める), おさ(まる)	study, master, discipline	945
+1076	SHA	シャ			house, hut	791
+1077	TAI	タイ	waza(to)	わざ(と)	condition, appearance	387
+1078	ZOKU	ゾク			genus, belong	1637
+1079	SO, SU	ソ, ス			element, naked	271
+1080	GEN, GON	ゲン, ゴン	kibi(shii), ogoso(ka)	きび(しい), おごそ(か)	strict, severe, solemn	822
+1081	ZETSU	ゼツ	shita	した	tongue	1259
+1082	SEN	セン	zeni	ぜに	money	648
+1083	TOKU	トク			virtue, benevolence	1038
+1084	CHOU	チョウ	ha(ru)	は(る)	stretch, spread	1106
+1085	TEI	テイ	sa(geru)	さ(げる)	carry, propose	628
+1086	TEKI	テキ	kataki	かたき	enemy, foe, opponent	416
+1087	BO	ボ	haka	はか	grave, tomb	1429
+1088	BEN	ベン			dialect, discrimination, petal, valve	711
+1089	HO	ホ	tamo(tsu)	たも(つ)	keep, preserve, maintain	489
+1090	HI	ヒ	koe, ko(eru), ko(yasu), ko(yashi)	こえ, こ(える), こ(やす), こ(やし)	fertile, manure	1723
+1091	HYOU	ヒョウ	tawara	たわら	bag, sack, bale	1890
+1092	HYOU	ヒョウ			comment, criticism	1028
+1093	I, YUI	イ, ユイ			bequeath, leave behind	1172
+1094			kabu	かぶ	share, stock, stump	741
+1095	KAN	カン			see, watch over	1316
+1096	KAKU	カク	hiro(geru)	ひろ(げる)	expand, extend, enlarge	1113
+1097	KAKU	カク			tower, palace, cabinet	837
+1098	EN	エン	so(u)	そ(う)	lie along, run parallel	1607
+1099	GA	ガ	ware, wa	われ, わ	I, self, ego	1302
+1100	KO, KI	コ, キ	onore	おのれ	self	370
+1101	KEI	ケイ			system, lineage	908
+1102	KETSU	ケツ	ana	あな	hole, slit, cave	899
+1103	KEN	ケン			law, constitution	521
+1104	KEN	ケン	kinu	きぬ	silk	1261
+1105	GEN	ゲン	minamoto	みなもと	source, origin	580
+1106	KIN	キン	suji	すじ	muscle, fiber, logic, plot	1090
+1107	KYOU, GOU	キョウ, ゴウ			hometown, village, country	855
+1108	KI	キ	tatto(i), tatto(bu), touto(i), touto(bu)	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	value, precious, esteem	1171
+1109	KI	キ			shake, brandish	1652
+1110	SHI	シ	mi(ru)	み(る)	see, look, regard	606
+1111	JI	ジ			magnet, porcelain	1548
+1112	SHI	シ	ita(ru)	いた(る)	arrive, reach, lead to	902
+1113	SHI	シ	sugata	すがた	figure, form, shape	929
+1114	SAN	サン	kaiko	かいこ	silkworm	1877
+1115	SAI	サイ	saba(ku), ta(tsu)	さば(く), た(つ)	judge, cut out	1123
+1116	SAKU	サク			plan, means, policy	880
+1117	KOU	コウ	hagane	はがね	steel	1608
+1118	KOKU	コク			grain, cereals	1729
+1119	KOU, OU	コウ, オウ			emperor	297
+1120	KOU	コウ	kisaki	きさき	empress, queen	1119
+1121	KOU	コウ			filial piety	542
+1122	SUI	スイ	dare	だれ	who, someone (--)
+1123	SUI	スイ	o(su)	お(す)	infer, suppose, recommend	1233
+1124	JIN, NI	ジン, ニ			virtue, benevolence, charity	1619
+1125	SHOU	ショウ	kizu, ita(mu), ita(meru)	きず, いた(む), いた(める)	wound, injure, hurt	633
+1126	SHOU	ショウ	sawa(ru)	さわ(る)	hinder, harm, hurt	858
+1127	SHUKU	シュク	chiji(mu), chiji(meru), chiji(maru), chiji(reru), chiji(rasu)	ちじ(む), ちじ(める), ちじ(まる), ちじ(れる), ちじ(らす)	shrink, shorten	1110
+1128	JUKU	ジュク	u(reru)	う(れる)	ripen, mature	687
+1129	SHUU, SHU	シュウ, シュ			multitude, populace	792
+1130	JUU, JU, SHOU	ジュウ, ジュ, ショウ	shitaga(u), shitaga(eru)	したが(う), したが(える)	accompany, follow, obey	1482
+1131	JUU	ジュウ	tate	たて	height, length, vertical	1483
+1132	JU	ジュ			tree	1144
+1133	SHUU, SOU	シュウ, ソウ			religion, sect	616
+1134	SHA	シャ	i(ru)	い(る)	shoot	900
+1135	SHAKU	シャク			length, measure	1895
+1136	SOU	ソウ	tsuku(ru)	つく(る)	create	1308
+1137	SOU	ソウ	kana(deru)	かな(でる)	play (music)	1544
+1138	SEN	セン			announce, proclaim	625
+1139	SEN	セン	so(meru), so(maru), shi(miru), shi(mi)	そ(める), そ(まる), し(みる), し(み)	dye, color, stain	779
+1140	ZEN	ゼン	yo(i)	よ(い)	good, virtue	1139
+1141	SEI, SHOU	セイ, ショウ	saka(n), saka(ru), mo(ru)	さか(ん), さか(る), も(る)	prosper, flourish, serve	719
+1142	SEI	セイ			holy, sacred, sage	674
+1143	IN, ON	イン, オン	kaku(su), kaku(reru)	かく(す), かく(れる)	hide, conceal	868
+1144	SHOKU	ショク	kaza(ru)	かざ(る)	decorate, adorn	979
+1145	SEI	セイ	makoto	まこと	sincerity, truth	718
