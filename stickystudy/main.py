@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
 """Utilities for managing StickyStudy decks."""
 
-from argparse import ArgumentParser, Namespace
+from argparse import ArgumentDefaultsHelpFormatter, ArgumentParser, Namespace
 from datetime import datetime
+import json
 from pathlib import Path
+from typing import Optional
 
 import pandas as pd
 from tabulate import tabulate
 
 from stickystudy import DATA_DIR, LOGGER
-from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData, StickyStudyDeck, get_default_deck_path
+from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData, StickyStudyDeck, get_deck_path, get_default_deck_path
 
 
 KANJI_MASTER = DATA_DIR / 'kanji_list.tsv'
 KANJI_CURRENT = DATA_DIR / 'kanji_list_current.tsv'
+DECK_SUBSETS = DATA_DIR / 'deck_subsets.json'
 
 ASCENDING_BY_SORT_KEY = {
     'jlpt': False,
@@ -90,7 +93,7 @@ class Fix(Subcommand):
         print(fixed)
 
 
-class Sync(Subcommand):
+class SyncKanji(Subcommand):
     """Sync kanji TSV with StickyStudy decks"""
 
     def configure_parser(self, parser: ArgumentParser) -> None:
@@ -117,11 +120,45 @@ class Sync(Subcommand):
             if path.exists():
                 orig_deck = StickyStudyDeck.load(path)
                 msg += ' (preserving current study data)'
-                assert (set(orig_deck.data.kanji).issubset(set(new_deck.data.kanji)))
-                merged_df = pd.merge(new_deck.data, orig_deck.data[['kanji', 'study_data']], how = 'outer', left_on = 'kanji', right_on = 'kanji', validate = 'one_to_one')
+                assert (set(orig_deck.data.question).issubset(set(new_deck.data.question)))
+                merged_df = pd.merge(new_deck.data, orig_deck.data[['question', 'study_data']], how = 'outer', left_on = 'question', right_on = 'question', validate = 'one_to_one')
                 new_df = StickyStudyDeck(header = orig_deck.header, data = merged_df)
             LOGGER.info(msg)
             new_df.save(path)
+
+
+class SyncSubsets(Subcommand):
+    """Sync overlapping StickyStudy decks"""
+
+    def configure_parser(self, parser: ArgumentParser) -> None:
+        parser.add_argument('-i', '--input-file', default = DECK_SUBSETS, help = 'input JSON file mapping from deck names to lists of subset decks')
+
+    def sync_subsets(self, deck: str, subsets: list[str]) -> None:
+        LOGGER.info(f'\t{deck}: ' + ', '.join(subsets))
+        d: Optional[StickyStudyDeck] = None
+        for subdeck in subsets:
+            path = get_deck_path(subdeck)
+            d1 = StickyStudyDeck.load(path)
+            d = d1 if (d is None) else (d | d1)
+        output_path = get_deck_path(deck)
+        LOGGER.info(f'\tSaving {output_path}')
+        assert isinstance(d, StickyStudyDeck)
+        d.save(output_path)
+
+    def main(self, args: Namespace) -> None:
+        import networkx as nx
+        LOGGER.info(f'Loading deck subsets from {args.input_file}')
+        with open(args.input_file) as f:
+            subsets = json.load(f)
+        dg = nx.DiGraph()
+        for (deck, subdecks) in subsets.items():
+            for subdeck in subdecks:
+                dg.add_edge(subdeck, deck)
+        assert nx.is_directed_acyclic_graph(dg)
+        # process decks in topological order
+        for deck in nx.topological_sort(dg):
+            if (deck in subsets) and bool(subsets[deck]):
+                self.sync_subsets(deck, subsets[deck])
 
 
 if __name__ == '__main__':
@@ -132,11 +169,12 @@ if __name__ == '__main__':
     subcommands_by_name = {
         'add': Add(),
         'fix': Fix(),
-        'sync': Sync()
+        'sync-kanji': SyncKanji(),
+        'sync-subsets': SyncSubsets(),
     }
     for (subcmd, obj) in subcommands_by_name.items():
         doc = obj.__class__.__doc__
-        subparser = subparsers.add_parser(subcmd, help = doc, description = doc)
+        subparser = subparsers.add_parser(subcmd, help = doc, description = doc, formatter_class = ArgumentDefaultsHelpFormatter)
         obj.configure_parser(subparser)
 
     args = parser.parse_args()
