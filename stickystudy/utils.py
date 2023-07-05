@@ -1,4 +1,6 @@
 from collections import Counter
+import os
+from pathlib import Path
 from typing import Optional
 
 import pandas as pd
@@ -12,15 +14,26 @@ KUN_COL = "kun'yomi"
 MEANING_COL = 'meaning'
 
 
+def get_default_deck_path() -> Path:
+    """Gets the default path to the StickyStudy decks stored in the user's iCloud folder.
+    This assumes the user is running MacOS."""
+    app_dir = 'iCloud~com~justinnightingale~stickystudykanji'
+    path = Path(os.environ['HOME']) / f'iCloud/{app_dir}/Documents'
+    assert path.exists()
+    return path
+
+
 class KanjiData(pd.DataFrame):
-    """A DataFrame storing kanji data (kanji, readings, meaning, JLPT level, etc.)"""
+    """A DataFrame storing kanji data (kanji, readings, meaning, JLPT level, etc.)."""
 
     @classmethod
     def load(cls, infile: str) -> pd.DataFrame:
         """Loads kanji data from a TSV file.
         Fields should include "kanji", "on'yomi", "kun'yomi", "meaning", and "jlpt"."""
         LOGGER.info(f'Loading kanji data from {infile}')
-        df = cls.read_table(infile)
+        int_cols = ['jlpt', 'ref_sh_kk', 'ref_sh_kk_2']
+        dtypes = {col: 'Int64' for col in int_cols}
+        df = cls(pd.read_table(infile, dtype = dtypes))
         LOGGER.info(f'Loaded {len(df):,d} entries')
         return df
 
@@ -41,7 +54,7 @@ class KanjiData(pd.DataFrame):
         on_meaning_counts = Counter((fixval(on), fixval(meaning)) for (on, meaning) in zip(self[ON_COL], self[MEANING_COL]))
         field_map = {ON_COL : 'ON', KUN_COL : 'KUN', MEANING_COL : 'MEANING'}
         questions, info = [], []
-        def _field_str(field, elt):
+        def _field_str(field: str, elt: Optional[str]) -> str:
             return field_map[field] + ': ' + (elt or '[N/A]')
         for tup in self[[ON_COL, KUN_COL, MEANING_COL]].itertuples():
             on = fixval(tup[1])
