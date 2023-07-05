@@ -31,7 +31,7 @@ ignore = [
     "B905",  # zip without explicit 'strict' parameter
     "D100",  # module-level docstring
     "D104",  # package-level docstring
-    # "D203",  # blank line before class docstring
+    "D203",  # blank line before class docstring
     # # "D204",  # blank line after class docstring
     "D205",  # blank line between summary and description
     "D208",  # extra indentation in docstring
@@ -69,7 +69,8 @@ line-length = 10000
 # where to search for first-party imports
 # src = ["src", "test"]
 
-# [per-file-ignores]
+[per-file-ignores]
+"main.py" = ["D102"]
 
 [flake8-pytest-style]
 parametrize-names-type = "list"
