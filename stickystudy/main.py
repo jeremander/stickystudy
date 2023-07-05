@@ -10,7 +10,7 @@ import pandas as pd
 from tabulate import tabulate
 
 from stickystudy import DATA_DIR, LOGGER
-from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData, get_default_deck_path
+from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData, StickyStudyDeck, get_default_deck_path
 
 
 KANJI_MASTER = DATA_DIR / 'kanji_list.tsv'
@@ -39,7 +39,8 @@ def do_add(args: Namespace) -> None:
     src_df['time_learned'] = datetime.now().isoformat()
     LOGGER.info(f'Learning {len(src_df)} kanji:\n')
     if (len(src_df) > 0):
-        study_df = src_df.set_index('kanji').fillna('—').transpose()
+        fixna = lambda val : '—' if pd.isna(val) else str(val)
+        study_df = src_df.set_index('kanji').applymap(fixna).transpose()
         # reorder rows
         ref_col = 'ref_sh_kk_2'  # 2nd edition of SH-KK
         rows = [ref_col, 'jlpt', 'grade', 'freq', 'strokes', 'learned', "on'yomi", "kun'yomi", 'meaning', "KD on'yomi", "KD kun'yomi", 'KD meaning']
@@ -78,28 +79,17 @@ def do_sync(args: Namespace) -> None:
         prefix = str(get_default_deck_path() / prefix)
     prefix += f'-N{level_str}'
     for (name, col) in [('ON', ON_COL), ('KUN', KUN_COL), ('MEANING', MEANING_COL)]:
-        new_df = df.get_answer_df(col)
+        new_deck = StickyStudyDeck(header = None, data = df.get_answer_df(col))
         path = Path(f'{prefix}-{name}.txt')
         msg = f'Saving {path}'
-        header = []
         if path.exists():
-            skiprows = 0
-            with open(path) as f:
-                header.append(next(f))
-                header.append(next(f))
-                if header[-1].startswith('-' * 5):
-                    skiprows = 2
-            names = list(new_df.columns) + ['study_data']
-            orig_df = pd.read_csv(path, sep = '\t', skiprows = skiprows, names = names)
+            orig_deck = StickyStudyDeck.load(path)
             msg += ' (preserving current study data)'
-            assert (set(orig_df.kanji).issubset(set(new_df.kanji)))
-            new_df = pd.merge(new_df, orig_df[['kanji', 'study_data']], how = 'outer', left_on = 'kanji', right_on = 'kanji', validate = 'one_to_one')
+            assert (set(orig_deck.data.kanji).issubset(set(new_deck.data.kanji)))
+            merged_df = pd.merge(new_deck.data, orig_deck.data[['kanji', 'study_data']], how = 'outer', left_on = 'kanji', right_on = 'kanji', validate = 'one_to_one')
+            new_df = StickyStudyDeck(header = orig_deck.header, data = merged_df)
         LOGGER.info(msg)
-        if header:  # write the header
-            with open(path, 'w') as f:
-                for line in header:
-                    print(line, file = f, end = '')
-        new_df.to_csv(path, index = False, header = False, sep = '\t', mode = 'a')
+        new_df.save(path)
 
 
 if __name__ == '__main__':

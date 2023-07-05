@@ -1,12 +1,15 @@
 from collections import Counter
+from dataclasses import dataclass
 import os
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Self
 
 import pandas as pd
 
 from stickystudy import LOGGER
 
+
+AnyPath = Path | str
 
 KANJI_COL = 'kanji'
 ON_COL = "on'yomi"
@@ -27,7 +30,7 @@ class KanjiData(pd.DataFrame):
     """A DataFrame storing kanji data (kanji, readings, meaning, JLPT level, etc.)."""
 
     @classmethod
-    def load(cls, infile: str) -> pd.DataFrame:
+    def load(cls, infile: AnyPath) -> Self:
         """Loads kanji data from a TSV file.
         Fields should include "kanji", "on'yomi", "kun'yomi", "meaning", and "jlpt"."""
         LOGGER.info(f'Loading kanji data from {infile}')
@@ -37,7 +40,7 @@ class KanjiData(pd.DataFrame):
         LOGGER.info(f'Loaded {len(df):,d} entries')
         return df
 
-    def save(self, outfile: str) -> None:
+    def save(self, outfile: AnyPath) -> None:
         """Saves kanji data to a TSV file."""
         LOGGER.info(f'Saving kanji data to {outfile}')
         self.to_csv(outfile, sep = '\t', index = False)
@@ -113,3 +116,34 @@ class KanjiData(pd.DataFrame):
             segs = [_field_str(field, elts2[field]) for field in field_map if (field in elts2)]
             info.append('\u0085'.join(segs))
         return pd.DataFrame({'kanji' : self[KANJI_COL], 'question' : questions, '' : ['' for _ in range(len(self))], 'info' : info})
+
+
+@dataclass
+class StickyStudyDeck:
+    """A DataFrame representing a StickyStudy deck."""
+
+    header: Optional[list[str]]
+    data: pd.DataFrame
+
+    @classmethod
+    def load(cls, infile: AnyPath) -> Self:
+        """Loads kanji data from a StickyStudy deck file.
+        Stores the header lines in the `_header` attribute."""
+        header = []
+        skiprows = 0
+        with open(infile) as f:
+            header.append(next(f))
+            header.append(next(f))
+            if header[-1].startswith('-' * 5):
+                skiprows = 2
+        names = ['kanji', 'question', '', 'info', 'study_data']
+        df = pd.read_table(infile, skiprows = skiprows, names = names)
+        return cls(header, df)
+
+    def save(self, outfile: AnyPath) -> None:
+        """Saves data to a StickyStudy deck file, including any header lines."""
+        if self.header:  # write the header
+            with open(outfile, 'w') as f:
+                for line in self.header:
+                    print(line, file = f, end = '')
+        self.data.to_csv(outfile, index = False, header = False, sep = '\t', mode = 'a')
