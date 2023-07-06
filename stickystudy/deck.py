@@ -2,11 +2,11 @@ from copy import deepcopy
 from dataclasses import dataclass
 import os
 from pathlib import Path
-from typing import Optional, Self
+from typing import Iterable, Optional, Self
 
 import pandas as pd
 
-from stickystudy.utils import KUN_COL, ON_COL, AnyPath
+from stickystudy.utils import KUN_COL, ON_COL, AnyPath, is_kanji
 
 
 DECK_COLS = ['question', ON_COL, KUN_COL, 'answer', 'study_data']
@@ -33,6 +33,9 @@ class StickyStudyDeck:
     header: Optional[list[str]]
     data: pd.DataFrame
 
+    def __len__(self) -> int:
+        return len(self.data)
+
     @classmethod
     def load(cls, infile: AnyPath) -> Self:
         """Loads kanji data from a StickyStudy deck file.
@@ -46,7 +49,7 @@ class StickyStudyDeck:
                 skiprows = 2
         df = pd.read_table(infile, skiprows = skiprows, names = DECK_COLS)
         # extract timestamps
-        df['timestamp'] = pd.Series([int(sd[1:-1].split('_')[0]) if sd else pd.NA for sd in df.study_data], dtype = 'Int64')
+        df['timestamp'] = pd.Series([int(sd[1:-1].split('_')[0]) if isinstance(sd, str) else pd.NA for sd in df.study_data], dtype = 'Int64')
         return cls(header, df)
 
     def save(self, outfile: AnyPath) -> None:
@@ -76,3 +79,22 @@ class StickyStudyDeck:
             return self.__class__(None, df)
         df = pd.concat([other.data, df]).drop_duplicates(DECK_COLS[:-1], keep = 'first')
         return self.__class__(other.header, df)
+
+    def filter_kanji(self, kanji: Iterable[str], must_include_kanji: bool = True) -> Self:
+        """Filters a deck to include only the words whose kanji are in the given set.
+        If must_include_kanji = True, also filters to include only words with at least one kanji."""
+        kanji_set = set(kanji)
+        df = self.data
+        if must_include_kanji:
+            def is_valid(s: str) -> bool:
+                valid = False
+                for c in s:
+                    if is_kanji(c):
+                        if (c not in kanji_set):
+                            return False
+                        valid = True
+                return valid
+        else:
+            is_valid = lambda s: not any(is_kanji(c) and (c not in kanji_set) for c in s)
+        df = df[df.question.map(is_valid)]
+        return self.__class__(self.header, df)

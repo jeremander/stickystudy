@@ -15,6 +15,12 @@ KUN_COL = "kun'yomi"
 MEANING_COL = 'meaning'
 
 
+def is_kanji(c: str) -> bool:
+    """Returns True if the character is a kanji character."""
+    i = ord(c)
+    return (0x3400 <= i <= 0x4dbf) or (0x4e00 <= i <= 0x9faf)
+
+
 class KanjiData(pd.DataFrame):
     """A DataFrame storing kanji data (kanji, readings, meaning, JLPT level, etc.)."""
 

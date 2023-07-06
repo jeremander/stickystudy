@@ -109,8 +109,11 @@ class SyncCopy(Subcommand):
     def configure_parser(self, parser: ArgumentParser) -> None:
         parser.add_argument('input_decks', nargs = '+', help = 'deck names to sync with copies')
         parser.add_argument('-l', '--label', default = 'R', help = 'label to append to the copied decks')
+        parser.add_argument('--with-kanji', nargs = '?', default = None, const = KANJI_CURRENT, help = 'only include words where all kanji are in the given kanji TSV file (and at least one kanji is present)')
 
     def main(self, args: Namespace) -> None:
+        if args.with_kanji:
+            kanji_df = KanjiData.load(args.with_kanji)
         for src_name in args.input_decks:
             src_path = get_deck_path(src_name)
             LOGGER.info(f'Loading {src_path}')
@@ -124,6 +127,11 @@ class SyncCopy(Subcommand):
             else:
                 LOGGER.info(f'\tCreating a copy at {target_path}')
                 target_deck = src_deck.update_other(None)
+            if args.with_kanji:
+                num_entries = len(target_deck)
+                target_deck = target_deck.filter_kanji(kanji_df.kanji, must_include_kanji = True)
+                if (len(target_deck) < num_entries):
+                    LOGGER.info(f'\tFiltered from {num_entries:,d} to {len(target_deck):,d} words')
             target_deck.save(target_path)
 
 
@@ -195,11 +203,10 @@ class SyncSubsets(Subcommand):
                 self.sync_subsets(deck, subsets[deck])
 
 
-if __name__ == '__main__':
-
+def main() -> None:
+    """Main entry point for stickystudy program."""
     parser = ArgumentParser(description = __doc__)
     subparsers = parser.add_subparsers(help = 'subcommand', dest = 'subcommand')
-
     subcommands_by_name = {
         'add': Add(),
         'fix': Fix(),
@@ -212,7 +219,11 @@ if __name__ == '__main__':
         doc = obj.__class__.__doc__
         subparser = subparsers.add_parser(subcmd, help = doc, description = doc, formatter_class = ArgumentDefaultsHelpFormatter)
         obj.configure_parser(subparser)
-
     args = parser.parse_args()
     obj = subcommands_by_name[args.subcommand]
     obj.main(args)
+
+
+if __name__ == '__main__':
+
+    main()

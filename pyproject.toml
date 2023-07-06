@@ -3,7 +3,7 @@ name = "stickystudy"
 version = "0.1.0"
 description = "Utilities for manipulating decks for the StickyStudy flashcard app."
 authors = ["Jeremy Silver <jeremys@nessiness.com>"]
-readme = "README.md"
+# readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -12,7 +12,9 @@ types-tabulate = "^0.9.0.2"
 ftfy = "^6.1.1"
 networkx = "^3.1"
 
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+stickystudy = "stickystudy.main:main"
