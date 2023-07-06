@@ -16,6 +16,8 @@ ON_COL = "on'yomi"
 KUN_COL = "kun'yomi"
 MEANING_COL = 'meaning'
 
+DECK_COLS = ['question', ON_COL, KUN_COL, 'answer', 'study_data']
+
 
 def get_default_deck_path() -> Path:
     """Gets the default path to the StickyStudy decks stored in the user's iCloud folder.
@@ -120,14 +122,12 @@ class KanjiData(pd.DataFrame):
                     elts2[field] = val
             segs = [_field_str(field, elts2[field]) for field in field_map if (field in elts2)]
             info.append('\u0085'.join(segs))
-        return pd.DataFrame({'kanji' : self[KANJI_COL], 'question' : questions, '' : ['' for _ in range(len(self))], 'info' : info})
+        return pd.DataFrame({'question': self[KANJI_COL], ON_COL: questions, KUN_COL: ['' for _ in range(len(self))], 'answer': info})
 
 
 @dataclass(repr = False)
 class StickyStudyDeck:
     """A DataFrame representing a StickyStudy deck."""
-
-    columns: ClassVar[list[str]] = ['question', ON_COL, KUN_COL, 'answer', 'study_data']
 
     header: Optional[list[str]]
     data: pd.DataFrame
@@ -144,7 +144,7 @@ class StickyStudyDeck:
             if header[-1].startswith('-' * 5):
                 skiprows = 2
         # names = ['kanji', 'question', '', 'info', 'study_data']
-        df = pd.read_table(infile, skiprows = skiprows, names = cls.columns)
+        df = pd.read_table(infile, skiprows = skiprows, names = DECK_COLS)
         # extract timestamps
         df['timestamp'] = pd.Series([int(sd[1:-1].split('_')[0]) if sd else pd.NA for sd in df.study_data], dtype = 'Int64')
         return cls(header, df)
@@ -155,12 +155,13 @@ class StickyStudyDeck:
             with open(outfile, 'w') as f:
                 for line in self.header:
                     print(line, file = f, end = '')
-        self.data[self.columns].to_csv(outfile, index = False, header = False, sep = '\t', mode = 'a')
+        cols = DECK_COLS if ('study_data' in self.data.columns) else DECK_COLS[:-1]
+        self.data[cols].to_csv(outfile, index = False, header = False, sep = '\t', mode = 'a')
 
     def __or__(self, other: object) -> Self:
         """Takes the union of two decks.
         If duplicate entries occur, takes the entry with the newer timestamp."""
         if isinstance(other, StickyStudyDeck):
-            df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates(self.columns[:-1], keep = 'last')
+            df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates(DECK_COLS[:-1], keep = 'last')
             return self.__class__(self.header, df)
         return NotImplemented

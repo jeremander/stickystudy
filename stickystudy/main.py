@@ -122,9 +122,9 @@ class SyncKanji(Subcommand):
                 msg += ' (preserving current study data)'
                 assert (set(orig_deck.data.question).issubset(set(new_deck.data.question)))
                 merged_df = pd.merge(new_deck.data, orig_deck.data[['question', 'study_data']], how = 'outer', left_on = 'question', right_on = 'question', validate = 'one_to_one')
-                new_df = StickyStudyDeck(header = orig_deck.header, data = merged_df)
+                new_deck = StickyStudyDeck(header = orig_deck.header, data = merged_df)
             LOGGER.info(msg)
-            new_df.save(path)
+            new_deck.save(path)
 
 
 class SyncSubsets(Subcommand):

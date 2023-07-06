@@ -356,7 +356,7 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 解	3	5	176	13	443	474		カイ, ゲ	カイ, ゲ	と(く), と(ける), と(かす)	と･く, と･かす, と･ける, ほど･く, ほど･ける, わか･る, さと･る	solve, untie	unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute
 皆	3	8	1267	9	446	587		カイ	カイ	みな	みな, みんな	all, everyone, everybody	all, everything
 害	3	4	358	10	447	518		ガイ	ガイ			harm, injury, damage	harm, injury
-交	3	2	178	6	448	114	114	コウ	コウ	ま(じる), まじ(わる), か(う)	まじ･わる, まじ･える, ま･じる, まじ･る, ま･ざる, ま･ぜる, -か･う, か･わす, かわ･す, こもごも	exchange, mix, associate	mingle, mixing, association, coming & going
+交	3	2	178	6	448	114	114	コウ	コウ	ま(じる), まじ(わる), ま(ぜる), ま(ざる), か(う)	まじ･わる, まじ･える, ま･じる, まじ･る, ま･ざる, ま･ぜる, -か･う, か･わす, かわ･す, こもごも	exchange, mix, associate	mingle, mixing, association, coming & going
 返	3	3	685	7	449	442		ヘン	ヘン	かえ(す), かえ(る)	かえ･す, -かえ･す, かえ･る, -かえ･る	return	return, answer, fade, repay
 変	3	4	238	9	451	257	257	ヘン	ヘン	か(わる), か(える)	か･わる, か･わり, か･える	change, strange	unusual, change, strange
 係	3	3	232	9	454	909		ケイ	ケイ	かか(る), かかり	かか･る, かかり, -がかり, かか･わる	charge, concern	person in charge, connection, duty, concern oneself
@@ -446,7 +446,7 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 偶	3	8	1602	11	610	1639		グウ	グウ		たま	couple, even, accidental	accidentally, even number, couple, man & wife, same kind
 草	3	1	967	9	612	249	249	ソウ	ソウ	くさ	くさ, くさ-, -ぐさ	grass	grass, weeds, herbs, pasture, write, draft
 配	3	3	359	10	614	515		ハイ	ハイ	くば(る)	くば･る	distribute, deliver	distribute, spouse, exile, rationing
-組	3	2	204	11	615	418		ソ	ソ	くみ, く(む)	く･む, くみ, -ぐみ	class, crew, assemble	association, braid, plait, construct, assemble, unite, cooperate, grapple
+組	3	2	204	11	615	418	424	ソ	ソ	くみ, く(む)	く･む, くみ, -ぐみ	class, crew, assemble	association, braid, plait, construct, assemble, unite, cooperate, grapple
 暮	3	6	978	14	618	1428		ボ	ボ	く(れる), く(らす)	く･れる, く･らす	grow dark, live	evening, twilight, season's end, livelihood, make a living, spend time
 景	3	4	419	12	624	853		ケイ	ケイ			view, scene	scenery, view
 警	3	6	366	19	625	706		ケイ	ケイ		いまし･める	admonish, warn	admonish, commandment
@@ -503,7 +503,7 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 参	3	4	201	8	733	710		サン	サン, シン	まい(る)	まい･る, まい-, まじわる, みつ	come, go, visit	nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in
 賛	3	5	868	15	734	745		サン	サン		たす･ける, たた･える	praise, approve	approve, praise, title or inscription on picture, assist, agree with
 次	3	3	222	6	735	384		ジ, シ	ジ, シ	つぎ, つ(ぐ)	つ･ぐ, つぎ	next	next, order, sequence
-直	3	2	246	8	736	423		チョク, ジキ	チョク, ジキ, ジカ	なお(す), なお(る), ただ(ち に)	ただ･ちに, なお･す, -なお･す, なお･る, なお･き, す･ぐ	direct, fix, immediately	straightaway, honesty, frankness, fix, repair
+直	3	2	246	8	736	423	429	チョク, ジキ	チョク, ジキ, ジカ	なお(す), なお(る), ただ(ちに)	ただ･ちに, なお･す, -なお･す, なお･る, なお･き, す･ぐ	direct, fix, immediately	straightaway, honesty, frankness, fix, repair
 歯	3	3	1106	12	737	478		シ	シ	は	よわい, は, よわ･い, よわい･する	tooth	tooth, cog
 示	3	5	237	5	739	615		ジ, シ	ジ, シ	しめ(す)	しめ･す	show, indicate	show, indicate, point out, express, display
 師	3	5	563	10	740	409		シ	シ		いくさ	teacher, army	expert, teacher, master, model, exemplar, army (incl. counter), war
