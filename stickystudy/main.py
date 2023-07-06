@@ -11,7 +11,8 @@ import pandas as pd
 from tabulate import tabulate
 
 from stickystudy import DATA_DIR, LOGGER
-from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData, StickyStudyDeck, get_deck_path, get_default_deck_path
+from stickystudy.deck import StickyStudyDeck, get_deck_path, get_default_deck_path
+from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData
 
 
 KANJI_MASTER = DATA_DIR / 'kanji_list.tsv'
@@ -81,7 +82,6 @@ class Fix(Subcommand):
         parser.add_argument('input_file', help = 'CSV file exported by StickyStudy')
 
     def main(self, args: Namespace) -> None:
-        """Fix mojibake in StickyStudy CSV export"""
         import ftfy
         with open(args.infile) as f:
             s = f.read()
@@ -91,6 +91,40 @@ class Fix(Subcommand):
         header = "kanji\ton'yomi\tkun'yomi\tmeaning\tpractice_data"
         print(header)
         print(fixed)
+
+
+class ListDecks(Subcommand):
+    """List all installed StickyStudy decks"""
+
+    def main(self, args: Namespace) -> None:
+        deck_path = get_default_deck_path()
+        LOGGER.info(f'Decks are in {deck_path}\n')
+        for p in sorted(deck_path.glob('*.txt')):
+            print(p.stem.replace('-', ' '))
+
+
+class SyncCopy(Subcommand):
+    """Sync a StickyStudy deck with a copy of itself, adding any new flashcards from the source deck to the target copy"""
+
+    def configure_parser(self, parser: ArgumentParser) -> None:
+        parser.add_argument('input_decks', nargs = '+', help = 'deck names to sync with copies')
+        parser.add_argument('-l', '--label', default = 'R', help = 'label to append to the copied decks')
+
+    def main(self, args: Namespace) -> None:
+        for src_name in args.input_decks:
+            src_path = get_deck_path(src_name)
+            LOGGER.info(f'Loading {src_path}')
+            src_deck = StickyStudyDeck.load(src_path)
+            target_name = f'{src_name} ({args.label})'
+            target_path = get_deck_path(target_name)
+            if target_path.exists():
+                LOGGER.info(f'\tUpdating {target_path}')
+                target_deck = StickyStudyDeck.load(target_path)
+                target_deck = src_deck.update_other(target_deck)
+            else:
+                LOGGER.info(f'\tCreating a copy at {target_path}')
+                target_deck = src_deck.update_other(None)
+            target_deck.save(target_path)
 
 
 class SyncKanji(Subcommand):
@@ -141,7 +175,7 @@ class SyncSubsets(Subcommand):
             d1 = StickyStudyDeck.load(path)
             d = d1 if (d is None) else (d | d1)
         output_path = get_deck_path(deck)
-        LOGGER.info(f'\tSaving {output_path}')
+        LOGGER.info(f'\t\tSaving {output_path}')
         assert isinstance(d, StickyStudyDeck)
         d.save(output_path)
 
@@ -169,6 +203,8 @@ if __name__ == '__main__':
     subcommands_by_name = {
         'add': Add(),
         'fix': Fix(),
+        'list-decks': ListDecks(),
+        'sync-copy': SyncCopy(),
         'sync-kanji': SyncKanji(),
         'sync-subsets': SyncSubsets(),
     }

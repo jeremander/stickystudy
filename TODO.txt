@@ -1,4 +1,3 @@
-- Boolean combinations of decks
 - Convert to recall deck
 - Limit deck to known kanji
     - Eng. front
