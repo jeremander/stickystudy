@@ -11,7 +11,7 @@ import pandas as pd
 from tabulate import tabulate
 
 from stickystudy import DATA_DIR, LOGGER
-from stickystudy.deck import StickyStudyDeck, get_deck_path, get_default_deck_path
+from stickystudy.deck import DECK_COLS, StickyStudyDeck, get_deck_path, get_default_deck_path
 from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData
 
 
@@ -175,17 +175,38 @@ class SyncSubsets(Subcommand):
     def configure_parser(self, parser: ArgumentParser) -> None:
         parser.add_argument('-i', '--input-file', default = DECK_SUBSETS, help = 'input JSON file mapping from deck names to lists of subset decks')
 
-    def sync_subsets(self, deck: str, subsets: list[str]) -> None:
-        LOGGER.info(f'\t{deck}: ' + ', '.join(subsets))
+    def sync_children_to_parents(self, parent: str, children: list[str]) -> None:
         d: Optional[StickyStudyDeck] = None
-        for subdeck in subsets:
-            path = get_deck_path(subdeck)
+        # get the union of subdecks
+        for child in children:
+            path = get_deck_path(child)
             d1 = StickyStudyDeck.load(path)
             d = d1 if (d is None) else (d | d1)
-        output_path = get_deck_path(deck)
+        output_path = get_deck_path(parent)
+        if output_path.exists():
+            # retain each flashcard from the original deck, if it's in a subdeck and it was studied more recently
+            deck = StickyStudyDeck.load(output_path)
+            df1 = d.data.set_index(DECK_COLS[:-1])  # type: ignore
+            df2 = deck.data.set_index(DECK_COLS[:-1])
+            df2 = df2.loc[df2.index.intersection(df1.index)]
+            d1 = StickyStudyDeck(d.header, df1.reset_index())  # type: ignore
+            d2 = StickyStudyDeck(deck.header, df2.reset_index())
+            d = d1 | d2
         LOGGER.info(f'\t\tSaving {output_path}')
         assert isinstance(d, StickyStudyDeck)
         d.save(output_path)
+
+    def sync_parent_to_child(self, parent: str, child: str) -> None:
+        parent_deck = StickyStudyDeck.load(get_deck_path(parent))
+        child_path = get_deck_path(child)
+        child_deck = StickyStudyDeck.load(child_path)
+        df2 = child_deck.data.set_index(DECK_COLS[:-1])
+        df1 = parent_deck.data.set_index(DECK_COLS[:-1]).loc[df2.index]
+        d1 = StickyStudyDeck(parent_deck.header, df1.reset_index())
+        d2 = StickyStudyDeck(child_deck.header, df2.reset_index())
+        d = d1 | d2
+        LOGGER.info(f'\t\tSaving {child_path}')
+        d.save(child_path)
 
     def main(self, args: Namespace) -> None:
         import networkx as nx
@@ -197,10 +218,20 @@ class SyncSubsets(Subcommand):
             for subdeck in subdecks:
                 dg.add_edge(subdeck, deck)
         assert nx.is_directed_acyclic_graph(dg)
-        # process decks in topological order
-        for deck in nx.topological_sort(dg):
-            if (deck in subsets) and bool(subsets[deck]):
-                self.sync_subsets(deck, subsets[deck])
+        LOGGER.info('Syncing children to parents')
+        for parent in nx.topological_sort(dg):
+            if (parent in subsets) and bool(subsets[parent]):
+                children = subsets[parent]
+                LOGGER.info(f'\t{parent} <- ' + ', '.join(children))
+                self.sync_children_to_parents(parent, children)
+        LOGGER.info('Syncing parents to children')
+        dg = dg.reverse()
+        for parent in nx.topological_sort(dg):
+            children = list(dg.succ[parent])
+            if children:
+                LOGGER.info(f'\t{parent} -> ' + ', '.join(children))
+                for child in children:
+                    self.sync_parent_to_child(parent, child)
 
 
 def main() -> None:

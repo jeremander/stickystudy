@@ -36,6 +36,13 @@ class StickyStudyDeck:
     def __len__(self) -> int:
         return len(self.data)
 
+    @property
+    def timestamp(self) -> Optional[int]:
+        """Gets the timestamp of the deck based on the header, if present."""
+        if self.header:
+            return int(self.header[0].split('\t')[4].split('_')[0])
+        return None
+
     @classmethod
     def load(cls, infile: AnyPath) -> Self:
         """Loads kanji data from a StickyStudy deck file.
@@ -66,7 +73,14 @@ class StickyStudyDeck:
         If duplicate entries occur, takes the entry with the newer timestamp."""
         if isinstance(other, StickyStudyDeck):
             df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates(DECK_COLS[:-1], keep = 'last')
-            return self.__class__(self.header, df)
+            # use whicher header is newest
+            if (other.timestamp is None):
+                header = self.header
+            elif (self.timestamp is None):
+                header = other.header
+            else:
+                header = self.header if (self.timestamp >= other.timestamp) else other.header
+            return self.__class__(header, df)
         return NotImplemented
 
     def update_other(self, other: Optional[Self]) -> Self:
