@@ -11,8 +11,8 @@ import pandas as pd
 from tabulate import tabulate
 
 from stickystudy import DATA_DIR, LOGGER
-from stickystudy.deck import DECK_COLS, StickyStudyDeck, get_deck_path, get_default_deck_path
-from stickystudy.utils import KUN_COL, MEANING_COL, ON_COL, KanjiData
+from stickystudy.deck import StickyStudyDeck, get_deck_path, get_default_deck_path
+from stickystudy.utils import KANJI_COL, KUN_COL, MEANING_COL, ON_COL, KanjiData
 
 
 KANJI_MASTER = DATA_DIR / 'kanji_list.tsv'
@@ -63,7 +63,7 @@ class Add(Subcommand):
             fixna = lambda val : '—' if pd.isna(val) else str(val)
             study_df = src_df.set_index('kanji').applymap(fixna).transpose()
             # reorder rows
-            ref_col = 'ref_sh_kk_2'  # 2nd edition of SH-KK
+            ref_col = 'ref_sh_kk2'  # 2nd edition of SH-KK
             rows = [ref_col, 'jlpt', 'grade', 'freq', 'strokes', 'learned', "on'yomi", "kun'yomi", 'meaning', "KD on'yomi", "KD kun'yomi", 'KD meaning']
             study_df = study_df.loc[rows]
             print(tabulate(study_df, headers = study_df.columns, showindex = 'always', tablefmt = 'rounded_grid') + '\n')
@@ -155,7 +155,8 @@ class SyncKanji(Subcommand):
         if ('/' not in args.output_prefix):  # relative path
             prefix = str(get_default_deck_path() / prefix)
         prefix += f'-N{level_str}'
-        for (name, col) in [('ON', ON_COL), ('KUN', KUN_COL), ('MEANING', MEANING_COL)]:
+        # kanji as question
+        for (name, col) in [('KANJI', KANJI_COL), ('ON', ON_COL), ('KUN', KUN_COL), ('MEANING', MEANING_COL)]:
             new_deck = StickyStudyDeck(header = None, data = df.get_answer_df(col))
             path = Path(f'{prefix}-{name}.txt')
             msg = f'Saving {path}'
@@ -186,8 +187,10 @@ class SyncSubsets(Subcommand):
         if output_path.exists():
             # retain each flashcard from the original deck, if it's in a subdeck and it was studied more recently
             deck = StickyStudyDeck.load(output_path)
-            df1 = d.data.set_index(DECK_COLS[:-1])  # type: ignore
-            df2 = deck.data.set_index(DECK_COLS[:-1])
+            # df1 = d.data.set_index(DECK_COLS[:-1])  # type: ignore
+            # df2 = deck.data.set_index(DECK_COLS[:-1])
+            df1 = d.data.set_index('question')  # type: ignore
+            df2 = deck.data.set_index('question')
             df2 = df2.loc[df2.index.intersection(df1.index)]
             d1 = StickyStudyDeck(d.header, df1.reset_index())  # type: ignore
             d2 = StickyStudyDeck(deck.header, df2.reset_index())
@@ -200,8 +203,10 @@ class SyncSubsets(Subcommand):
         parent_deck = StickyStudyDeck.load(get_deck_path(parent))
         child_path = get_deck_path(child)
         child_deck = StickyStudyDeck.load(child_path)
-        df2 = child_deck.data.set_index(DECK_COLS[:-1])
-        df1 = parent_deck.data.set_index(DECK_COLS[:-1]).loc[df2.index]
+        # df2 = child_deck.data.set_index(DECK_COLS[:-1])
+        # df1 = parent_deck.data.set_index(DECK_COLS[:-1]).loc[df2.index]
+        df2 = child_deck.data.set_index('question')
+        df1 = parent_deck.data.set_index('question').loc[df2.index]
         d1 = StickyStudyDeck(parent_deck.header, df1.reset_index())
         d2 = StickyStudyDeck(child_deck.header, df2.reset_index())
         d = d1 | d2

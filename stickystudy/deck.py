@@ -66,13 +66,14 @@ class StickyStudyDeck:
                 for line in self.header:
                     print(line, file = f, end = '')
         cols = DECK_COLS if ('study_data' in self.data.columns) else DECK_COLS[:-1]
-        self.data[cols].to_csv(outfile, index = False, header = False, sep = '\t', mode = 'a')
+        self.data[cols].to_csv(outfile, index = False, header = False, sep = '\t', quoting = 3, mode = 'a')
 
     def __or__(self, other: object) -> Self:
         """Takes the union of two decks.
         If duplicate entries occur, takes the entry with the newer timestamp."""
         if isinstance(other, StickyStudyDeck):
-            df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates(DECK_COLS[:-1], keep = 'last')
+            df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates('question', keep = 'last')
+            # df = pd.concat([self.data, other.data]).sort_values(by = 'timestamp').drop_duplicates(DECK_COLS[:-1], keep = 'last')
             # use whicher header is newest
             if (other.timestamp is None):
                 header = self.header
@@ -83,6 +84,14 @@ class StickyStudyDeck:
             return self.__class__(header, df)
         return NotImplemented
 
+    def __sub__(self, other: object) -> Self:
+        """Takes the set difference of two decks."""
+        if isinstance(other, StickyStudyDeck):
+            df = self.data.copy()
+            questions = set(self.data.question).difference(set(other.data.question))
+            return self.__class__(self.header, df[df.question.isin(questions)])
+        return NotImplemented
+
     def update_other(self, other: Optional[Self]) -> Self:
         """Adds any cards in the current deck to a target deck which are not already in the target deck.
         New cards will have empty study data; existing cards will retain their current status.
@@ -91,7 +100,8 @@ class StickyStudyDeck:
         df['study_data'] = ''
         if (other is None):
             return self.__class__(None, df)
-        df = pd.concat([other.data, df]).drop_duplicates(DECK_COLS[:-1], keep = 'first')
+        df = pd.concat([other.data, df]).drop_duplicates('question', keep = 'first')
+        # df = pd.concat([other.data, df]).drop_duplicates(DECK_COLS[:-1], keep = 'first')
         return self.__class__(other.header, df)
 
     def filter_kanji(self, kanji: Iterable[str], must_include_kanji: bool = True) -> Self:

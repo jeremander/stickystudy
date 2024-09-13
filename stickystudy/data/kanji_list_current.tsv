@@ -1,4 +1,4 @@
-kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	kun'yomi	KD kun'yomi	meaning	KD meaning	time_learned
+kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk2	on'yomi	KD on'yomi	kun'yomi	KD kun'yomi	meaning	KD meaning	time_learned
 一	5	1	2	1	1	2	2	イチ, イツ	イチ, イツ	ひと(つ)	ひと-, ひと･つ	one (1)	one, one radical (no.1)	
 二	5	1	9	2	2	3	3	ニ	ニ, ジ	ふた(つ)	ふた, ふた･つ, ふたたび	two (2)	two, two radical (no. 7)	
 三	5	1	14	3	3	4	4	サン	サン, ゾウ	み(っ)(つ)	み, み･つ, みっ･つ	three (3)	three	
@@ -259,11 +259,317 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 首	3	2	98	9	263	148	148	シュ	シュ	くび	くび	neck, head	neck, counter for songs and poems	
 数	3	2	148	13	465	225	225	スウ, ス	スウ, ス, サク, ソク, シュ	かず, かぞ(える)	かず, かぞ･える, しばしば, せ･める, わずらわ･しい	number, count	number, strength, fate, law, figures	
 記	3	2	149	10	524	371	372	キ	キ	しる(す)	しる･す	write/note down	scribe, account, narrative	2023-07-04T16:51:25.101736
-点	3	2	165	9	604	169	169	テン	テン		つ･ける, つ･く, た･てる, さ･す, とぼ･す, とも･す, ぼち	point, dot	spot, point, mark, speck, decimal point	2023-07-04T16:51:25.101736
+点	3	2	165	9	604	169	169	テン	テン	つ(く), つ(ける)	つ･ける, つ･く, た･てる, さ･す, とぼ･す, とも･す, ぼち	point, dot	spot, point, mark, speck, decimal point	2023-07-04T16:51:25.101736
 活	3	2	171	9	476	237	237	カツ	カツ	い(きる), い(かす), い(ける)	い･きる, い･かす, い･ける	life, activity	lively, resuscitation, being helped, living	2023-07-04T16:51:25.101736
 原	3	2	172	10	636	136	136	ゲン	ゲン	はら	はら	original, plain, field	meadow, original, primitive, field, plain, prairie, tundra, wilderness	2023-07-05T20:18:00.672447
 交	3	2	178	6	448	114	114	コウ	コウ	ま(じる), まじ(わる), ま(ぜる), ま(ざる), か(う)	まじ･わる, まじ･える, ま･じる, まじ･る, ま･ざる, ま･ぜる, -か･う, か･わす, かわ･す, こもごも	exchange, mix, associate	mingle, mixing, association, coming & going	2023-07-05T20:18:00.672447
-組	3	2	204	11	615	418		ソ	ソ	くみ, く(む)	く･む, くみ, -ぐみ	class, crew, assemble	association, braid, plait, construct, assemble, unite, cooperate, grapple	2023-07-05T20:18:00.672447
+組	3	2	204	11	615	418	424	ソ	ソ	くみ, く(む)	く･む, くみ, -ぐみ	class, crew, assemble	association, braid, plait, construct, assemble, unite, cooperate, grapple	2023-07-05T20:18:00.672447
 引	3	2	218	4	248	216	216	イン	イン	ひ(く), ひ(ける)	ひ･く, ひ･ける	pull, draw	pull, tug, jerk, admit, install, quote, refer to	2023-07-06T20:20:43.754228
 直	3	2	246	8	736	423	429	チョク, ジキ	チョク, ジキ, ジカ	なお(す), なお(る), ただ(ちに)	ただ･ちに, なお･す, -なお･す, なお･る, なお･き, す･ぐ	direct, honest, fix, immediately	straightaway, honesty, frankness, fix, repair	2023-07-06T20:20:43.754228
 番	3	2	348	12	429	185	185	バン	バン		つが･い	number, order, watch	turn, number in a series	2023-07-06T20:20:43.754228
+声	3	2	388	7	269	746	759	セイ, ショウ	セイ, ショウ	こえ, こわ	こえ, こわ-	voice	voice	2023-07-08T17:07:19.233789
+形	3	2	418	7	466	395	399	ケイ, ギョウ	ケイ, ギョウ	かたち, かた	かた, -がた, かたち, なり	form, shape	shape, form, style	2023-07-08T17:07:19.233789
+頭	3	2	433	16	293	276	276	トウ, ト, ズ	トウ, ズ, ト	あたま, かしら	あたま, かしら, -がしら, かぶり	head, leader, top	head, counter for large animals	2023-07-08T17:07:19.233789
+光	3	2	527	6	256	138	138	コウ	コウ	ひかり, ひか(る)	ひか･る, ひかり	light, shine	ray, light	2023-07-09T18:39:43.885059
+科	3	2	531	9	427	320	320	カ	カ			department, course	department, course, section	2023-07-09T18:39:43.885059
+太	3	2	552	4	273	629	639	タイ, タ	タイ, タ	ふと(い), ふと(る)	ふと･い, ふと･る	big, fat, thick	plump, thick, big around	2023-07-09T18:39:43.885059
+園	3	2	628	13	386	447	454	エン	エン	その	その	garden	park, garden, yard, farm	2023-07-10T19:05:21.205335
+馬	3	2	639	10	369	283	283	バ	バ	うま, ま	うま, うま-, ま	horse	horse	2023-07-10T19:05:21.205335
+顔	3	2	676	18	252	277	277	ガン	ガン	かお	かお	face	face, expression	2023-07-10T19:05:21.205335
+船	3	2	713	11	767	376	377	セン	セン	ふね, ふな	ふね, ふな-	ship, boat	ship, boat	2023-07-11T22:09:53.025899
+遠	3	2	887	13	249	446	453	エン, オン	エン, オン	とお(い)	とお･い	far, distant	distant, far	2023-07-11T22:09:53.025899
+絵	3	2	895	12	375	345	345	カイ, エ	カイ, エ			picture	picture, drawing, painting, sketch	2023-07-11T22:09:53.025899
+晴	3	2	1022	12	506	662	673	セイ	セイ	は(れる), は(らす)	は･れる, は･れ, は･れ-, -ば･れ, は･らす	clear up	clear up	2023-07-12T20:03:09.052364
+雪	3	2	1131	11	505	949	979	セツ	セツ	ゆき	ゆき	snow	snow	2023-07-12T20:03:09.052364
+鳴	3	2	1279	14	923	925	948	メイ	メイ	な(く), な(る), な(らす)	な･く, な･る, な･らす	(animal) sound, ring	chirp, cry, bark, sound, ring, echo, honk	2023-07-12T20:03:09.052364
+才	3	2	1497	3	697	551	560	サイ	サイ			talent, ability, age	genius, years old, cubic shaku	2023-07-13T20:56:06.188851
+対	3	3	34	7	780	365	366	タイ, ツイ	タイ, ツイ		あいて, こた･える, そろ･い, つれあ･い, なら･ぶ, むか･う	opposite, against	vis-a-vis, opposite, even, equal, versus, anti-, compare	2023-07-13T20:56:06.188851
+部	3	3	36	11	552	86	86	ブ	ブ		-べ	part, section	section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine	2023-07-13T20:56:06.188851
+相	3	3	45	9	282	146	146	ソウ, ショウ	ソウ, ショウ	あい	あい-	aspect, phase, each other	inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy	2023-07-14T21:57:59.760947
+定	3	3	48	8	512	355	356	テイ, ジョウ	テイ, ジョウ	さだ(める), さだ(まる), さだ(か)	さだ･める, さだ･まる, さだ･か	     determine	determine, fix, establish, decide	2023-07-14T21:57:59.760947
+実	3	3	68	8	760	203	203	ジツ	ジツ, シツ	み, みの(る)	み, みの･る, まこと, みの, みち･る	true, real, fruit, nut	reality, truth, seed, fruit, nut	2023-07-14T21:57:59.760947
+決	3	3	71	7	562	356	357	ケツ	ケツ	き(める), き(まる)	き･める, -ぎ･め, き･まる, さ･く	decide	decide, fix, agree upon, appoint	2023-07-15T18:21:06.051954
+全	3	3	75	6	724	89	89	ゼン	ゼン	まった(く), すべ(て)	まった･く, すべ･て	all, entire, whole	whole, entire, all, complete, fulfill	2023-07-15T18:21:06.051954
+表	3	3	77	8	313	272	272	ヒョウ	ヒョウ	おもて, あらわ(す), あらわ(れる)	おもて, -おもて, あらわ･す, あらわ･れる, あら･わす	surface, chart, express	surface, table, chart, diagram	2023-07-15T18:21:06.051954
+調	3	3	87	15	521	342	342	チョウ	チョウ	しら(べる), ととの(う), ととの(える)	しら･べる, しら･べ, ととの･う, ととの･える	investigate, check, prepare	tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate	2023-07-16T20:03:11.645709
+化	3	3	89	4	428	254	254	カ, ケ	カ, ケ	ば(ける), ば(かす)	ば･ける, ば･かす, ふ･ける, け･する	change, bewitch	change, take the form of, influence, enchant, delude, -ization	2023-07-16T20:03:11.645709
+期	3	3	117	12	525	449	456	キ, ゴ	キ, ゴ			time, period, term	period, time, date, term	2023-07-16T20:03:11.645709
+取	3	3	122	8	534	65	65	シュ	シュ	と(る)	と･る, と･り, と･り-, とり, -ど･り	take	take, fetch, take up	2023-07-17T21:04:30.697777
+都	3	3	123	11	277	188	188	ト, ツ	ト, ツ	みやこ	みやこ	capital city, metropolis	metropolis, capital, all, everything	2023-07-17T21:04:30.697777
+和	3	3	124	8	393	124	124	ワ, オ	ワ, オ, カ	やわ(らぐ), なご(む), なご(やか)	やわ･らぐ, やわ･らげる, なご･む, なご･やか, あ･える	peace, harmony, Japanese	harmony, Japanese style, peace, soften, Japan	2023-07-17T21:04:30.697777
+平	3	3	128	5	868	202	202	ヘイ, ビョウ	ヘイ, ビョウ, ヒョウ	たい(ら), ひら	たい･ら, たい･らげる, ひら	flat, level	even, flat, peace	2023-08-02T21:17:55.132959
+受	3	3	136	8	359	260	260	ジュ	ジュ	う(ける), う(かる)	う･ける, -う･け, う･かる	receive, accept	accept, undergo, answer (phone), take, get, catch, receive	2023-08-02T21:17:55.132959
+進	3	3	142	11	268	437	443	シン	シン	すす(む), すす(める)	すす･む, すす･める	advance, progress	advance, proceed, progress, promote	2023-08-02T21:17:55.132959
+指	3	3	155	9	714	1041	1082	シ	シ	ゆび, さ(す)	ゆび, さ･す, -さ･し	finger, point	finger, point to, indicate, put into, play (chess), measure (ruler)	2023-08-03T18:49:40.174530
+予	3	3	180	4	511	393	397	ヨ	ヨ, シャ		あらかじ･め	previously, in advance	beforehand, previous, myself, I	2023-08-03T18:49:40.174530
+向	3	3	182	6	595	199	199	コウ	コウ	む(く), む(ける), む(かう), む(こう)	む･く, む･い, -む･き, む･ける, -む･け, む･かう, む･かい, む･こう, む･こう-, むこ, むか･い	face, turn, opposite	yonder, facing, beyond, confront, defy, tend toward, approach	2023-08-03T18:49:40.174530
+勝	3	3	185	12	475	509	518	ショウ	ショウ	か(つ), まさ(る)	か･つ, -が･ち, まさ･る, すぐ･れる, かつ	win, excel	victory, win, prevail, excel	2023-08-04T21:24:04.961577
+面	3	3	186	9	422	274	274	メン	メン, ベン	おも, おもて, つら	おも, おもて, つら	face, mask, surface	mask, face, features, surface	2023-08-04T21:24:04.961577
+反	3	3	191	4	864	324	324	ハン, ホン, タン	ハン, ホン, タン, ホ	そ(る), そ(らす)	そ･る, そ･らす, かえ･す, かえ･る, -かえ･る	anti-, warp	anti-	2023-08-04T21:24:04.961577
+所	3	3	221	8	265	153	153	ショ	ショ	ところ	ところ, -ところ, どころ, とこ	place, area	place, extent	2023-08-05T20:57:43.389493
+次	3	3	222	6	735	384	385	ジ, シ	ジ, シ	つぎ, つ(ぐ)	つ･ぐ, つぎ	next	next, order, sequence	2023-08-05T20:57:43.389493
+係	3	3	232	9	454	909	931	ケイ	ケイ	かか(る), かかり	かか･る, かかり, -がかり, かか･わる	charge, connection, duty	person in charge, connection, duty, concern oneself	2023-08-05T20:57:43.389493
+感	3	3	233	13	491	262	262	カン	カン			feeling, sensation	emotion, feeling, sensation	2023-08-07T19:54:06.199011
+投	3	3	236	7	788	1021	1060	トウ	トウ	な(げる)	な･げる, -な･げ	throw, abandon	throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss	2023-08-07T19:54:06.199011
+打	3	3	239	5	365	1020	1059	ダ	ダ, ダース	う(つ)	う･つ, う･ち-, ぶ･つ	hit, strike	strike, hit, knock, pound, dozen	2023-08-07T19:54:06.199011
+両	3	3	247	6	557	200	200	リョウ	リョウ		てる, ふたつ	both	both, old Japanese coin, counter for carriages (e.g., in a train), two	2023-08-08T21:48:00.151957
+式	3	3	251	6	575	525	534	シキ	シキ			ceremony, style, method	style, ceremony, rite, function, method, system, form, expression	2023-08-08T21:48:00.151957
+談	3	3	272	15	684	593	603	ダン	ダン			discussion, conversation	discuss, talk	2023-08-08T21:48:00.151957
+流	3	3	280	10	752	247	247	リュウ, ル	リュウ, ル	なが(れる), なが(す)	なが･れる, なが･れ, なが･す, -なが･す	flow, current, pour	current, a sink, flow, forfeit	2023-08-09T21:12:15.126565
+局	3	3	286	7	551	170	170	キョク	キョク		つぼね	bureau, office	bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment	2023-08-09T21:12:15.126565
+放	3	3	288	8	946	512	521	ホウ	ホウ	はな(す), はな(つ), はな(れる), ほう(る)	はな･す, -っぱな･し, はな･つ, はな･れる, こ･く, ほう･る	let go, release, fire	set free, release, fire, shoot, emit, banish, liberate	2023-08-09T21:12:15.126565
+球	3	3	302	11	566	726	739	キュウ	キュウ	たま	たま	ball, sphere	ball, sphere	2023-08-10T20:17:42.733404
+役	3	3	315	7	380	375	376	ヤク, エキ	ヤク, エキ			office, service, battle	duty, war, campaign, drafted labor, office, service, role	2023-08-10T20:17:42.733404
+身	3	3	320	7	824	59	59	シン	シン	み	み	body, person	somebody, person, one's station in life	2023-08-10T20:17:42.733404
+由	3	3	325	5	991	363	364	ユ, ユウ, ユイ	ユ, ユウ, ユイ	よし	よし, よ･る	reason	wherefore, a reason	2023-08-11T18:51:32.691016
+消	3	3	345	10	535	845	864	ショウ	ショウ	け(す), き(える)	き･える, け･す	extinguish, go out, disappear	extinguish, blow out, turn off, neutralize, cancel	2023-08-11T18:51:32.691016
+神	3	3	347	9	483	310	310	シン, ジン	シン, ジン	かみ	かみ, かん-, こう-	god	gods, mind, soul	2023-08-11T18:51:32.691016
+配	3	3	359	10	614	515	524	ハイ	ハイ	くば(る)	くば･る	distribute, deliver	distribute, spouse, exile, rationing	2023-08-12T12:52:32.587646
+育	3	3	369	8	332	246	246	イク	イク	そだ(つ), そだ(てる)	そだ･つ, そだ･ち, そだ･てる, はぐく･む	grow up, raise, educate	bring up, grow up, raise, rear	2023-08-12T12:52:32.587646
+乗	3	3	377	9	266	523	532	ジョウ	ジョウ, ショウ	の(る), の(せる)	の･る, -の･り, の･せる	get on, ride	ride, power, multiplication, record, counter for vehicles, board, mount, join	2023-08-12T12:52:32.587646
+想	3	3	381	13	846	147	147	ソウ, ソ	ソウ, ソ		おも･う	idea, thought	concept, think, idea, thought	2023-08-13T13:38:35.589988
+助	3	3	397	7	691	623	633	ジョ	ジョ	たす(ける), たす(かる), すけ	たす･ける, たす･かる, す･ける, すけ	help, assist, rescue	help, rescue, assist	2023-08-13T13:38:35.589988
+追	3	3	411	9	396	1174	1232	ツイ	ツイ	お(う)	お･う	chase, pursue, drive away	chase, drive away, follow, pursue, meanwhile	2023-08-13T13:38:35.589988
+商	3	3	413	11	284	412	418	ショウ	ショウ	あきな(う)	あきな･う	trade, sell	make a deal, selling, dealing in, merchant	2023-08-14T17:58:29.129506
+葉	3	3	414	12	518	253	253	ヨウ	ヨウ	は	は	leaf, foliage	leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece	2023-08-14T17:58:29.129506
+落	3	3	420	12	415	839	858	ラク	ラク	お(ちる), お(とす)	お･ちる, お･ち, お･とす	fall, drop	fall, drop, come down, village, hamlet	2023-08-14T17:58:29.129506
+負	3	3	443	9	395	510	519	フ	フ	ま(ける), ま(かす), お(う)	ま･ける, ま･かす, お･う	defeat, carry, owe	defeat, negative, -, minus, bear, owe, assume a responsibility	2023-08-15T19:50:08.437464
+守	3	3	457	6	753	490	499	シュ, ス	シュ, ス	まも(る), もり	まも･る, まも･り, もり, -もり, かみ	protect, defend, obey	guard, protect, defend, obey	2023-08-15T19:50:08.437464
+美	3	3	462	9	366	401	405	ビ	ビ, ミ	うつく(しい)	うつく･しい	beautiful	beauty, beautiful	2023-08-15T19:50:08.437464
+命	3	3	465	8	345	578	587	メイ, ミョウ	メイ, ミョウ	いのち	いのち	life, command, fate	fate, command, decree, destiny, life, appoint	2023-08-17T20:04:56.231805
+福	3	3	467	13	969	1379	1466	フク	フク			fortune, blessing	blessing, fortune, luck, wealth	2023-08-17T20:04:56.231805
+横	3	3	480	15	400	781	795	オウ	オウ	よこ	よこ	side, horizontal, width	sideways, side, horizontal, width, woof, unreasonable, perverse	2023-08-17T20:04:56.231805
+深	3	3	484	11	825	536	545	シン	シン	ふか(い), ふか(める), ふか(まる)	ふか･い, -ぶか･い, ふか･まる, ふか･める, み-	deep, intensify	deep, heighten, intensify, strengthen	2023-08-18T21:36:09.720144
+申	3	3	492	5	688	309	309	シン	シン	もう(す)	もう･す, もう･し-, さる	say, be called	have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac	2023-08-18T21:36:09.720144
+様	3	3	493	14	718	403	407	ヨウ	ヨウ, ショウ	さま	さま, さん	way, manner, (polite suffix)	Esq., way, manner, situation, polite suffix	2023-08-18T21:36:09.720144
+港	3	3	495	12	648	669	680	コウ	コウ	みなと	みなと	harbor, port	harbor	2023-08-20T13:23:34.508459
+路	3	3	529	13	743	151	151	ロ	ロ, ル	じ	-じ, みち	road, street	path, route, road, distance	2023-08-20T13:23:34.508459
+他	3	3	543	5	1012	120	120	タ	タ	ほか	ほか	other, another	other, another, the others	2023-08-20T13:23:34.508459
+客	3	3	557	9	459	641	651	キャク, カク 	キャク, カク			guest, customer	guest, visitor, customer, client	2023-08-22T20:15:25.548119
+登	3	3	566	12	900	960	991	トウ, ト	トウ, ト, ドウ, ショウ, チョウ	のぼ(る)	のぼ･る, あ･がる	climb	ascend, climb up	2023-08-22T20:15:25.548119
+速	3	3	576	10	782	502	511	ソク	ソク	はや(い), はや(まる), はや(める), すみ(やか)	はや･い, はや-, はや･める, すみ･やか	fast, quick	quick, fast	2023-08-22T20:15:25.548119
+号	3	3	585	5	553	266	266	ゴウ	ゴウ		さけ･ぶ, よびな	number, nickname	nickname, number, item, title, pseudonym, name, call	2023-08-24T20:58:36.550672
+苦	3	3	623	8	606	545	554	ク	ク	くる(しい), くる(しむ), くる(しめる), にが(い), にが(る)	くる･しい, -ぐる･しい, くる･しむ, くる･しめる, にが･い, にが･る	suffer, bitter, painful	suffering, trial, worry, hardship, feel bitter, scowl	2023-08-24T20:58:36.550672
+具	3	3	629	8	609	420	426	グ	グ		そな･える, つぶさ･に	tool, ingredients	tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture	2023-08-24T20:58:36.550672
+返	3	3	685	7	449	442	448	ヘン	ヘン	かえ(す), かえ(る)	かえ･す, -かえ･す, かえ･る, -かえ･る	return	return, answer, fade, repay	2023-09-04T13:14:01.321148
+宿	3	3	701	11	547	179	179	シュク	シュク	やど, やど(る), やど(す)	やど, やど･る, やど･す	lodging, inn, shelter	inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling	2023-09-04T13:14:01.321148
+薬	3	3	702	16	281	359	360	ヤク	ヤク	くすり	くすり	medicine, drug	medicine, chemical, enamel, gunpowder, benefit	2023-09-04T13:14:01.321148
+幸	3	3	786	8	647	684	697	コウ	コウ	さいわ(い), さち, しあわ(せ)	さいわ･い, さち, しあわ･せ	happiness, fortune	happiness, blessing, fortune	2023-09-07T19:36:02.077508
+等	3	3	798	12	904	569	578	トウ	トウ	ひと(しい)	ひと･しい, など, -ら	equal, similar, class	etc., and so forth, class (first), quality, equal, similar	2023-09-07T19:36:02.077508
+曲	3	3	810	6	594	366	367	キョク	キョク	ま(がる), ま(げる)	ま･がる, ま･げる, くま	music, melody, bend, curve	bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean	2023-09-07T19:36:02.077508
+庭	3	3	816	10	894	1112	1164	テイ	テイ	にわ	にわ	garden, courtyard	courtyard, garden, yard	2023-09-08T12:52:23.601781
+息	3	3	882	10	328	1242	1308	ソク	ソク	いき	いき	breath	breath, respiration, son, interest (on money), nuture, rest, coming to an end	2023-09-08T12:52:23.601781
+列	3	3	927	6	820	611	621	レツ	レツ, レ			row	file, row, rank, tier, column	2023-09-08T12:52:23.601781
+遊	3	3	941	12	288	1003	1040	ユウ, ユ	ユウ, ユ	あそ(ぶ)	あそ･ぶ, あそ･ばす	play	play	2023-09-09T19:24:29.721578
+君	3	3	947	7	563	793	807	クン	クン	きみ	きみ, -ぎみ	you, ruler	mister, you, ruler, male name suffix	2023-09-09T19:24:29.721578
+酒	3	3	1006	10	707	517	526	シュ	シュ	さけ, さか	さけ, さか-	sake, alcohol	sake, alcohol	2023-09-09T19:24:29.721578
+悲	3	3	1014	12	479	1034	1075	ヒ	ヒ	かな(しい), かな(しむ)	かな･しい, かな･しむ	sad, regret	grieve, sad, deplore, regret	2023-09-10T16:49:17.162260
+暗	3	3	1040	13	247	348	348	アン	アン	くら(い)	くら･い, くら･む, くれ･る	dark, dim	darkness, disappear, shade, informal, grow dark, be blinded	2023-09-10T16:49:17.162260
+陽	3	3	1071	12	994	630	640	ヨウ	ヨウ		ひ	sun, positive	sunshine, yang principle, positive, male, heaven, daytime	2023-09-10T16:49:17.162260
+歯	3	3	1106	12	737	478	486	シ	シ	は	よわい, は, よわ･い, よわい･する	tooth	tooth, cog	2023-09-11T10:54:15.125930
+礼	3	3	1185	5	659	620	630	レイ, ライ	レイ, ライ			thanks, gratitude	salute, bow, ceremony, thanks, remuneration	2023-09-11T10:54:15.125930
+昔	3	3	1197	8	762	764	778	セキ, シャク	セキ, シャク	むかし	むかし	antiquity, long ago	once upon a time, antiquity, old times	2023-09-11T10:54:15.125930
+泳	3	3	1223	8	376	1208	1271	エイ	エイ	およ(ぐ)	およ･ぐ	swim	swim	2023-09-12T14:35:35.437419
+箱	3	3	1357	15	942	1091	1142	ソウ	ソウ	はこ	はこ	box	box, chest, case, bin, railway car	2023-09-12T14:35:35.437419
+寒	3	3	1456	12	251	457	464	カン	カン	さむ(い)	さむ･い	cold	cold	2023-09-12T14:35:35.437419
+議	3	4	25	20	532	292	292	ギ	ギ			deliberation	deliberation, consultation, debate, consideration	2023-09-13T18:30:14.930134
+民	3	4	28	5	279	177	177	ミン	ミン	たみ	たみ	people, nation	people, nation, subjects	2023-09-13T18:30:14.930134
+連	3	4	30	10	692	440	446	レン	レン	つ(れる), つら(ねる), つら(なる)	つら･なる, つら･ねる, つ･れる, -づ･れ	take, lead, group	take along, lead, join, connect, party, gang, clique	2023-09-13T18:30:14.930134
+選	3	4	57	15	385	800	814	セン	セン	えら(ぶ)	えら･ぶ, え･る, よ･る	choose, select	elect, select, choose, prefer	2023-09-14T17:18:32.980635
+関	3	4	70	14	495	398	402	カン	カン	せき, かか(わる)	せき, -ぜき, かか･わる, からくり, かんぬき	connection, barrier	connection, barrier, gateway, involve, concerning	2023-09-14T17:18:32.980635
+戦	3	4	78	13	333	301	301	セン	セン	いくさ, たたか(う)	いくさ, たたか･う, おのの･く, そよ･ぐ, わなな･く	battle, war	war, battle, match	2023-09-14T17:18:32.980635
+最	3	4	82	12	699	263	263	サイ	サイ, シュ	もっと(も)	もっと･も, つま	most, extreme	utmost, most, extreme	2023-09-15T20:24:03.030891
+約	3	4	94	9	513	211	211	ヤク	ヤク		つづ･まる, つづ･める, つづま･やか	approximately, promise	promise, approximately, shrink	2023-09-15T20:24:03.030891
+法	3	4	100	8	548	123	123	ホウ, ハッ, ホッ	ホウ, ハッ, ホッ, フラン		のり	method, law	method, law, rule, principle, model, system	2023-09-15T20:24:03.030891
+要	3	4	106	9	347	419	425	ヨウ	ヨウ	い(る), かなめ	い･る, かなめ	main point, need	need, main point, essence, pivot, key to	2023-09-16T22:05:52.954725
+治	3	4	109	8	412	493	502	ジ, チ	ジ, チ	おさ(める), おさ(まる), なお(る), なお(す)	おさ･める, おさ･まる, なお･る, なお･す	govern, rule, cure	reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve	2023-09-16T22:05:52.954725
+成	3	4	116	6	778	261	261	セイ, ジョウ	セイ, ジョウ	な(る), な(す)	な･る, な･す, -な･す	become, grow, consist	turn into, become, get, grow, elapse, reach	2023-09-16T22:05:52.954725
+機	3	4	127	16	528	528	537	キ	キ	はた	はた	machine, loom, opportunity	loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion	2023-09-17T13:08:20.645288
+加	3	4	130	5	431	709	722	カ	カ	くわ(える), くわ(わる)	くわ･える, くわ･わる	add, join, increase	add, addition, increase, join, include, Canada	2023-09-17T13:08:20.645288
+続	3	4	141	13	811	243	243	ゾク	ゾク, ショク, コウ, キョウ	つづ(く), つづ(ける)	つづ･く, つづ･ける, つぐ･ない	continue	continue, series, sequel	2023-09-17T13:08:20.645288
+初	3	4	152	7	355	679	692	ショ	ショ	うい, はつ, はじ(め)	はじ･め, はじ･めて, はつ, はつ-, うい-, -そ･める, -ぞ･め	first, beginning	first time, beginning	2023-09-18T18:42:13.373581
+産	3	4	161	11	260	278	278	サン	サン	うぶ, う(む), う(まれる)	う･む, う･まれる, うぶ-, む･す	childbirth, product	products, bear, give birth, yield, childbirth, native, property	2023-09-18T18:42:13.373581
+共	3	4	174	6	585	196	196	キョウ	キョウ	とも	とも, とも･に, -ども	together, both	together, both, neither, all, and, alike, with	2023-09-18T18:42:13.373581
+参	3	4	201	8	733	710	723	サン	サン, シン	まい(る)	まい･る, まい-, まじわる, みつ	come, go, visit	nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in	2023-09-24T19:18:58.767626
+利	3	4	203	7	541	329	329	リ	リ	き(く)	き･く	advantage, profit	profit, advantage, benefit	2023-09-24T19:18:58.767626
+信	3	4	208	9	814	157	157	シン	シン			believe, trust, faith	faith, truth, fidelity, trust	2023-09-24T19:18:58.767626
+側	3	4	216	11	489	609	619	ソク	ソク	かわ	かわ, がわ, そば	side	side, lean, oppose, regret	2023-09-25T13:25:50.893137
+求	3	4	220	7	567	724	737	キュウ	キュウ, グ	もと(める)	もと･める	want, request, demand	request, want, wish for, require, demand	2023-09-25T13:25:50.893137
+昨	3	4	226	9	656	361	362	サク	サク			past, yesterday	yesterday, previous	2023-09-25T13:25:50.893137
+官	3	4	230	8	493	326	326	カン	カン			government, bureaucrat	bureaucrat, the government, organ	2023-09-27T20:49:43.148745
+変	3	4	238	9	451	257	257	ヘン	ヘン	か(わる), か(える)	か･わる, か･わり, か･える	change, strange	unusual, change, strange	2023-09-27T20:49:43.148745
+果	3	4	258	8	432	487	496	カ	カ	は(たす), は(てる), は(て)	は･たす, はた･す, -は･たす, は･てる, -は･てる, は･て	fruit, end, result	fruit, reward, carry out, achieve, complete, end, finish, succeed	2023-09-27T20:49:43.148745
+必	3	4	265	5	480	520	529	ヒツ	ヒツ	かなら(ず)	かなら･ず	surely, invariably	invariably, certain, inevitable	2023-09-28T19:38:13.158362
+争	3	4	271	6	311	302	302	ソウ	ソウ	あらそ(う)	あらそ･う, いか･でか	argue, dispute, contend	contend, dispute, argue	2023-09-28T19:38:13.158362
+位	3	4	276	7	320	122	122	イ	イ	くらい	くらい, ぐらい	rank, position	rank, grade, throne, crown, about, some	2023-09-28T19:38:13.158362
+置	3	4	277	13	407	426	432	チ	チ	お(く)	お･く, -お･き	put, place	placement, put, set, deposit, leave behind, keep, employ, pawn	2023-10-01T13:36:46.512217
+付	3	4	322	5	690	192	192	フ	フ	つ(く), つ(ける)	つ･ける, -つ･ける, -づ･ける, つ･け, つ･け-, -つ･け, -づ･け, -づけ, つ･く, -づ･く, つ･き, -つ･き, -つき, -づ･き, -づき	attach, append	adhere, attach, refer to, append	2023-10-01T13:36:46.512217
+説	3	4	326	14	270	400	404	セツ, ゼイ	セツ, ゼイ	と(く)	と･く	explain, opinion, theory	opinion, theory, explanation, rumor	2023-10-01T13:36:46.512217
+夫	3	4	335	4	416	315	315	フ, フウ	フ, フウ, ブ	おっと	おっと, それ	husband	husband, man	2023-10-02T20:55:15.366711
+害	3	4	358	10	447	518	527	ガイ	ガイ			harm, injury, damage	harm, injury	2023-10-02T20:55:15.366711
+席	3	4	370	10	790	379	380	セキ	セキ		むしろ	seat, place	seat, mat, occasion, place	2023-10-02T20:55:15.366711
+残	3	4	380	10	728	650	661	ザン	ザン, サン	のこ(る), のこ(す)	のこ･る, のこ･す, そこな･う, のこ･り	remain, leave behind	remainder, leftover, balance	2023-10-05T20:59:26.232396
+念	3	4	390	8	934	579	588	ネン	ネン			thought, idea, desire, attention	wish, sense, idea, thought, feeling, desire, attention	2023-10-05T20:59:26.232396
+労	3	4	398	7	1008	233	233	ロウ	ロウ		ろう･する, いたわ･る, いた･ずき, ねぎら, つか･れる, ねぎら･う	labor, toil	labor, thank for, reward for, toil, trouble	2023-10-05T20:59:26.232396
+例	3	4	399	8	874	612	622	レイ	レイ	たと(える)	たと･える	example, custom	example, custom, usage, precedent	2023-10-09T16:24:41.722842
+然	3	4	401	12	725	651	662	ゼン, ネン	ゼン, ネン		しか, しか･り, しか･し, さ	like, so, sort of thing	sort of thing, so, if so, in that case, well	2023-10-09T16:24:41.722842
+伝	3	4	416	6	537	434	440	デン	デン, テン	つた(える), つた(わる), つた(う)	つた･わる, つた･える, つた･う, つだ･う, -づた･い, つて	tell, report, transmit	transmit, go along, walk along, follow, report, communicate, legend, tradition	2023-10-09T16:24:41.722842
+働	3	4	417	13	689	232	232	ドウ	ドウ	はたら(く)	はたら･く	work, labor	work, (kokuji)	2023-10-10T18:18:16.459614
+景	3	4	419	12	624	853	872	ケイ	ケイ			view, scene	scenery, view	2023-10-10T18:18:16.459614
+好	3	4	423	6	257	104	104	コウ	コウ	す(く), この(む)	この･む, す･く, よ･い, い･い	like, pleasing	fond, pleasing, like something	2023-10-10T18:18:16.459614
+失	3	4	447	5	361	311	311	シツ	シツ	うしな(う)	うしな･う, う･せる	lose	lose, error, fault, disadvantage, loss	2023-10-14T12:14:44.804298
+差	3	4	449	10	598	658	669	サ	サ	さ(す)	さ･す, さ･し	difference	distinction, difference, variation, discrepancy, margin, balance	2023-10-14T12:14:44.804298
+末	3	4	456	5	514	305	305	マツ, バツ	マツ, バツ	すえ	すえ, うら, うれ	end	end, close, tip, powder, posterity	2023-10-14T12:14:44.804298
+種	3	4	461	14	764	228	228	シュ	シュ	たね	たね, -ぐさ	kind, type, seed	species, kind, class, variety, seed	2023-10-15T23:45:36.305089
+望	3	4	470	11	937	673	685	ボウ, モウ	ボウ, モウ	のぞ(む)	のぞ･む, もち	hope, desire, expect	ambition, full moon, hope, desire, aspire to, expect	2023-10-15T23:45:36.305089
+観	3	4	476	18	496	604	614	カン	カン		み･る, しめ･す	outlook, appearance, view	outlook, look, appearance, condition, view	2023-10-15T23:45:36.305089
+察	3	4	477	14	717	619	629	サツ	サツ			surmise, guess, understand	guess, presume, surmise, judge, understand	2023-10-16T10:22:08.719667
+達	3	4	500	12	515	448	455	タツ	タツ, ダ	たち	-たち	reach, arrive	accomplished, reach, arrive, attain	2023-10-16T10:22:08.719667
+良	3	4	501	7	993	321	321	リョウ	リョウ	よ(い)	よ･い, -よ･い, い･い, -い･い	good	good, pleasing, skilled	2023-10-16T10:22:08.719667
+候	3	4	510	10	649	944	974	コウ	コウ	そうろう	そうろう	climate, season, weather	climate, season, weather, wait for, expect	2023-10-17T18:00:14.229336
+満	3	4	515	12	984	201	201	マン	マン, バン	み(ちる), み(たす)	み･ちる, み･つ, み･たす	full	full, fullness, enough, satisfy	2023-10-17T18:00:14.229336
+敗	3	4	516	11	812	511	520	ハイ	ハイ	やぶ(れる)	やぶ･れる	failure, defeat	failure, defeat, reversal	2023-10-17T18:00:14.229336
+積	3	4	541	16	838	656	667	セキ	セキ	つ(む), つ(もる)	つ･む, -づ･み, つ･もる, つ･もり	volume, pile up, accumulate	volume, product (x*y), acreage, contents, pile up, stack, load, amass	2023-10-21T17:31:32.538338
+飛	3	4	580	9	749	530	539	ヒ	ヒ	と(ぶ), と(ばす)	と･ぶ, と･ばす, -と･ばす	fly	fly, skip (pages), scatter	2023-10-21T17:31:32.538338
+単	3	4	586	9	876	300	300	タン	タン		ひとえ	simple, single	simple, one, single, merely	2023-10-21T17:31:32.538338
+完	3	4	595	7	492	613	623	カン	カン			complete, perfect	perfect, completion, end	2023-10-22T19:04:44.501612
+給	3	4	615	12	570	346	346	キュウ	キュウ		たま･う, たも･う, -たま･え	supply, salary	salary, wage, gift, allow, grant, bestow on	2023-10-22T19:04:44.501612
+辞	3	4	633	13	655	688	701	ジ	ジ	や(める)	や･める, いな･む	word, resign	resign, word, term, expression	2023-10-22T19:04:44.501612
+愛	3	4	640	13	283	259	259	アイ	アイ		いと･しい, かな･しい, め･でる, お･しむ, まな	love	love, affection, favourite	2023-10-23T20:16:40.283833
+富	3	4	644	12	919	713	726	フ, フウ	フ, フウ	とみ, と(む)	と･む, とみ	wealth	wealth, enrich, abundant	2023-10-23T20:16:40.283833
+未	3	4	650	5	985	306	306	ミ	ミ, ビ		いま･だ, ま･だ, ひつじ	not yet	un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac	2023-10-23T20:16:40.283833
+冷	3	4	667	7	719	832	851	レイ	レイ	つめ(たい), さ(める), さ(ます), ひ(える), ひ(やす)	つめ･たい, ひ･える, ひ･や, ひ･ややか, ひ･やす, ひ･やかす, さ･める, さ･ます	cold, chill	cool, cold (beer, person), chill	2023-10-24T21:29:02.780600
+類	3	4	678	18	783	226	226	ルイ	ルイ	たぐ(い)	たぐ･い	kind, sort, variety	sort, kind, variety, class, genus	2023-10-24T21:29:02.780600
+熱	3	4	700	15	297	645	655	ネツ	ネツ	あつ(い)	あつ･い	heat, hot, fever	heat, temperature, fever, mania, passion	2023-10-24T21:29:02.780600
+覚	3	4	710	12	421	605	615	カク	カク	おぼ(える), さ(める), さ(ます)	おぼ･える, さ･ます, さ･める, さと･る	remember, learn, awake	memorize, learn, remember, awake, sober up	2023-10-25T18:26:40.562888
+努	3	4	749	7	890	1595	1702	ド	ド	つと(める)	つと･める	toil, strive	toil, diligent, as much as possible	2023-10-25T18:26:40.562888
+散	3	4	758	12	729	767	781	サン	サン	ち(る), ち(らす), ち(らかる), ち(らかす)	ち･る, ち･らす, -ち･らす, ち･らかす, ち･らかる, ち･らばる, ばら, ばら･ける	scatter, disperse	scatter, disperse, spend, squander	2023-10-25T18:26:40.562888
+静	3	4	764	14	572	663	674	セイ, ジョウ	セイ, ジョウ	しず(か), しず(まる), しず(める)	しず-, しず･か, しず･まる, しず･める	quiet, peaceful	quiet	2023-10-26T21:29:43.046117
+老	3	4	803	6	394	543	552	ロウ	ロウ	お(いる), ふ(ける)	お･いる, ふ･ける	grow old	old man, old age, grow old	2023-10-26T21:29:43.046117
+徒	3	4	817	10	901	430	436	ト	ト		いたずら, あだ	junior, vain, useless	on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people	2023-10-26T21:29:43.046117
+欠	3	4	860	4	457	383	384	ケツ	ケツ, ケン	か(く), か(ける)	か･ける, か･く	lack	lack, gap, fail, yawning radical (no. 76)	2023-10-28T18:44:35.617826
+願	3	4	894	19	516	581	590	ガン	ガン	ねが(う)	ねが･う, -ねがい	petition, request, desire	petition, request, vow, wish, hope	2023-10-28T18:44:35.617826
+笑	3	4	913	10	384	1235	1299	ショウ	ショウ	わら(う), え(む)	わら･う, え･む	laugh, smile	laugh	2023-10-28T18:44:35.617826
+束	3	4	918	7	857	501	510	ソク	ソク	たば	たば, たば･ねる, つか, つか･ねる	bundle, sheaf	bundle, sheaf, ream, tie in bundles, govern, manage, control	2023-10-29T15:33:58.628064
+折	3	4	962	7	423	1394	1483	セツ	セツ, シャク	お(る), お(れる), おり	お･る, おり, お･り, -お･り, お･れる	break, fold, bend	fold, break, fracture, bend, yield, submit	2023-10-29T15:33:58.628064
+政	3	5	17	9	805	483	492	セイ, ショウ	セイ, ショウ	まつりごと	まつりごと, まん	politics, government	politics, government	2023-10-29T15:33:58.628064
+経	3	5	79	11	587	548	557	ケイ, キョウ	ケイ, キョウ, キン	へ(る), た(つ)	へ･る, た･つ, たていと, はか･る, のり	longitude, pass, elapse, sutra	sutra, longitude, pass thru, expire, warp	2023-10-30T19:31:46.676919
+現	3	5	85	11	314	298	298	ゲン	ゲン	あらわ(れる), あらわ(す)	あらわ･れる, あらわ･す, うつつ, うつ･つ	present, appear, show	present, existing, actual	2023-10-30T19:31:46.676919
+性	3	5	104	8	798	98	98	セイ, ショウ	セイ, ショウ		さが	nature, sex, gender	sex, gender, nature	2023-10-30T19:31:46.676919
+制	3	5	108	8	835	427	433	セイ	セイ			system, regulations	system, law, rule	2023-11-01T21:40:56.714686
+務	3	5	111	11	891	235	235	ム	ム	つと(める), つと(まる)	つと･める	work, duties	task, duties	2023-11-01T21:40:56.714686
+支	3	5	159	4	712	318	318	シ	シ	ささ(える)	ささ･える, つか･える, か･う	branch, support	branch, support, sustain, branch radical (no. 65)	2023-11-01T21:40:56.714686
+報	3	5	167	12	976	685	698	ホウ	ホウ	むく(いる)	むく･いる	news, report, reward	report, news, reward, retribution	2023-11-02T20:04:16.242343
+得	3	5	175	11	374	374	375	トク	トク	え(る), う(る)	え･る, う･る	gain, acquire, profit	gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit	2023-11-02T20:04:16.242343
+解	3	5	176	13	443	474	482	カイ, ゲ	カイ, ゲ	と(く), と(ける), と(かす)	と･く, と･かす, と･ける, ほど･く, ほど･ける, わか･る, さと･る	solve, untie	unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute	2023-11-02T20:04:16.242343
+資	3	5	179	13	741	750	763	シ	シ			assets, resources, funds	assets, resources, capital, funds, data, be conducive to, contribute to	2023-11-03T15:06:45.871746
+際	3	5	183	14	601	618	628	サイ	サイ	きわ	きわ, -ぎわ	occasion, edge, side	occasion, side, edge, verge, dangerous, adventurous, indecent, time, when	2023-11-03T15:06:45.871746
+告	3	5	188	7	670	690	703	コク	コク	つ(げる)	つ･げる	tell, inform, announce	revelation, tell, inform, announce	2023-11-03T15:06:45.871746
+判	3	5	197	7	950	1026	1065	ハン, バン	ハン, バン		わか･る	judgment, stamp, seal	judgement, signature, stamp, seal	2023-11-04T12:09:44.869619
+在	3	5	211	6	316	268	268	ザイ	ザイ	あ(る)	あ･る	exist, outskirts	exist, outskirts, suburbs, located in	2023-11-04T12:09:44.869619
+件	3	5	212	6	631	732	745	ケン	ケン		くだん	matter, affair, case	affair, case, matter, item	2023-11-04T12:09:44.869619
+任	3	5	217	6	929	334	334	ニン	ニン	まか(す), まか(せる)	まか･せる, まか･す	responsibility, entrust	responsibility, duty, term, entrust to, appoint	2023-11-05T10:01:56.860458
+増	3	5	231	14	755	712	725	ゾウ	ゾウ	ま(す), ふ(える), ふ(やす)	ま･す, ま･し, ふ･える, ふ･やす	increase, augment	increase, add, augment, gain, promote	2023-11-05T10:01:56.860458
+情	3	5	235	11	808	209	209	ジョウ, セイ	ジョウ, セイ	なさ(け)	なさ･け	emotion, circumstances	feelings, emotion, passion, sympathy, circumstances, facts	2023-11-05T10:01:56.860458
+示	3	5	237	5	739	615	625	ジ, シ	ジ, シ	しめ(す)	しめ･す	show, indicate	show, indicate, point out, express, display	2023-11-06T21:11:40.515683
+確	3	5	252	15	461	603	613	カク	カク, コウ	たし(か), たし(かめる)	たし･か, たし･かめる	certain	assurance, firm, tight, hard, solid, confirm, clear, evident	2023-11-06T21:11:40.515683
+容	3	5	264	10	995	654	665	ヨウ	ヨウ		い･れる	content, form	contain, form, looks	2023-11-06T21:11:40.515683
+演	3	5	267	14	388	344	344	エン	エン			performance, play, act	performance, act, play, render, stage	2023-11-08T21:03:38.580234
+能	3	5	273	10	781	386	387	ノウ	ノウ		よ･く, あた･う	ability, talent, Noh	ability, talent, skill, capacity	2023-11-08T21:03:38.580234
+格	3	5	281	10	460	643	653	カク, コウ	カク, コウ, キャク, ゴウ			status, rank, case	status, rank, capacity, character, case (law, grammar)	2023-11-08T21:03:38.580234
+過	3	5	285	12	308	413	419	カ	カ	す(ぎる), す(ごす), あやま(ち)	す･ぎる, す･ごす, あやま･ち, あやま･つ, よぎ･る, よ･ぎる	pass, exceed, error	overdo, exceed, go beyond, error	2023-11-15T19:16:53.091753
+常	3	5	293	11	807	497	506	ジョウ	ジョウ	つね, とこ	つね, とこ-	usual, normal, always	usual, ordinary, normal, common, regular, continually, always, long-lasting	2023-11-15T19:16:53.091753
+状	3	5	298	7	806	626	636	ジョウ	ジョウ			condition, circumstances	status quo, conditions, circumstances, form, appearance	2023-11-15T19:16:53.091753
+職	3	5	305	18	683	385	386	ショク	ショク, ソク			employment, job	post, employment, work	2023-11-19T12:49:20.194957
+可	3	5	314	5	435	388	390	カ	カ, コク		-べ･き, -べ･し	possible, approval	can, passable, mustn't, should not, do not	2023-11-19T12:49:20.194957
+構	3	5	316	14	482	1010	1048	コウ	コウ	かま(う), かま(える)	かま･える, かま･う	build, set up, mind, care about	posture, build, pretend	2023-11-19T12:49:20.194957
+費	3	5	321	12	815	749	762	ヒ	ヒ	つい(やす), つい(える)	つい･やす, つい･える	spend, waste	expense, cost, spend, consume, waste	2023-11-20T11:26:20.090303
+断	3	5	338	11	673	1024	1063	ダン	ダン	ことわ(る), た(つ)	た･つ, ことわ･る, さだ･める	judgment, decline, cut off	severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting	2023-11-20T11:26:20.090303
+規	3	5	349	11	529	607	617	キ	キ			standard, measure	standard, measure	2023-11-20T11:26:20.090303
+術	3	5	350	11	770	187	187	ジュツ	ジュツ		すべ	art, technique, means	art, technique, skill, means, trick, resources, magic	2023-11-21T21:19:42.839316
+備	3	5	356	12	863	768	782	ビ	ビ	そな(える), そな(わる)	そな･える, そな･わる, つぶさ･に	equip, prepare, provide	equip, provision, preparation	2023-11-21T21:19:42.839316
+限	3	5	405	9	456	847	866	ゲン	ゲン	かぎ(る)	かぎ･る, かぎ･り, -かぎ･り	limit, restrict	limit, restrict, to best of ability	2023-11-21T21:19:42.839316
+非	3	5	472	8	954	498	507	ヒ	ヒ		あら･ず	non-, un-, mistake	un-, mistake, negative, injustice, non-	2023-11-22T18:12:19.153557
+財	3	5	494	10	704	553	562	ザイ, サイ	ザイ, サイ, ゾク		たから	money, wealth, property	property, money, wealth, assets	2023-11-22T18:12:19.153557
+識	3	5	496	19	756	681	694	シキ	シキ		し･る, しる･す	know, discriminate	discriminating, know, write	2023-11-22T18:12:19.153557
+程	3	5	514	12	896	417	423	テイ	テイ	ほど	ほど, -ほど	degree, extent	extent, degree, law, formula, distance, limits, amount	2023-11-26T21:32:40.386053
+師	3	5	563	10	740	409	415	シ	シ		いくさ	teacher, army	expert, teacher, master, model, exemplar, army (incl. counter), war	2023-11-26T21:32:40.386053
+易	3	5	571	8	322	759	772	エキ, イ	エキ, イ	やさ(しい)	やさ･しい, やす･い	easy, simple, divination	easy, ready to, simple, fortune-telling, divination	2023-11-26T21:32:40.386053
+殺	3	5	581	10	678	576	585	サツ, サイ, セツ	サツ, サイ, セツ	ころ(す)	ころ･す, -ごろ･し, そ･ぐ	kill	kill, murder, butcher, slice off, split, diminish, reduce, spoil	2023-11-27T21:56:50.988654
+破	3	5	590	10	938	665	676	ハ	ハ	やぶ(る), やぶ(れる)	やぶ･る, やぶ･れる, わ･れる	tear, break	rend, rip, tear, break, destroy, defeat, frustrate	2023-11-27T21:56:50.988654
+責	3	5	598	11	839	655	666	セキ	セキ	せ(める)	せ･める	responsibility, blame, condemn	blame, condemn, censure	2023-11-27T21:56:50.988654
+因	3	5	636	6	352	554	563	イン	イン	よ(る)	よ･る, ちな･む	cause, depend on	cause, factor, be associated with, depend on, be limited to	2023-11-29T17:52:13.132850
+適	3	5	670	14	898	415	421	テキ	テキ		かな･う	suitable	suitable, occasional, rare, qualified, capable	2023-11-29T17:52:13.132850
+婦	3	5	671	11	962	316	316	フ	フ	よめ	よめ	woman, wife, lady	lady, woman, wife, bride	2023-11-29T17:52:13.132850
+寄	3	5	673	11	530	1361	1445	キ	キ	よ(る), よ(せる)	よ･る, -よ･り, よ･せる	draw near, gather, send	draw near, stop in, bring near, gather, collect, send, forward	2023-12-04T11:50:29.154078
+余	3	5	680	7	306	1063	1109	ヨ	ヨ	あま(る), あま(す)	あま･る, あま･り, あま･す, あんま･り	surplus, remainder	too much, myself, surplus, other, remainder	2023-12-04T11:50:29.154078
+妻	3	5	691	8	700	671	682	サイ	サイ	つま	つま	wife	wife, spouse	2023-12-04T11:50:29.154078
+険	3	5	707	11	630	533	542	ケン	ケン	けわ(しい)	けわ･しい	steep, severe	precipitous, inaccessible place, impregnable position, steep place, sharp eyes	2023-12-11T14:30:54.444179
+許	3	5	720	11	582	737	750	キョ	キョ	ゆる(す)	ゆる･す, もと	permit, allow	permit, approve	2023-12-11T14:30:54.444179
+留	3	5	731	10	578	761	774	リュウ, ル	リュウ, ル	と(まる), と(める)	と･める, と･まる, とど･める, とど･まる, るうぶる	detain, fasten, stop	detain, fasten, halt, stop	2023-12-11T14:30:54.444179
+罪	3	5	732	13	705	885	906	ザイ	ザイ	つみ	つみ	sin, crime, guilt	guilt, sin, crime, fault, blame, offense	2023-12-18T21:27:30.063036
+精	3	5	752	14	787	659	670	セイ, ショウ	セイ, ショウ		しら･げる, くわ･しい	spirit, energy, vitality	refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill	2023-12-18T21:27:30.063036
+喜	3	5	769	12	527	1143	1196	キ	キ	よろこ(ぶ)	よろこ･ぶ, よろこ･ばす	rejoice, delight	rejoice, take pleasure in	2023-12-18T21:27:30.063036
+絶	3	5	784	12	779	742	755	ゼツ	ゼツ	た(える), た(やす), た(つ)	た･える, た･やす, た･つ	die out, eradicate, cut off	discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled	2023-12-22T20:37:20.920472
+居	3	5	836	8	348	171	171	キョ	キョ, コ	い(る)	い･る, -い, お･る	live, exist, be	reside, to be, exist, live with	2023-12-22T20:37:20.920472
+雑	3	5	839	14	653	575	584	ザツ, ゾウ	ザツ, ゾウ		まじ･える, まじ･る	miscellaneous, mix	miscellaneous	2023-12-22T20:37:20.920472
+招	3	5	840	8	577	455	462	ショウ	ショウ	まね(く)	まね･く	summon, invite	beckon, invite, summon, engage	2023-12-26T13:33:19.727988
+賛	3	5	868	15	734	745	758	サン	サン		たす･ける, たた･える	praise, agreement	approve, praise, title or inscription on picture, assist, agree with	2023-12-26T13:33:19.727988
+犯	3	5	874	5	404	882	903	ハン	ハン, ボン	おか(す)	おか･す	crime, commit, violate	crime, sin, offense	2023-12-26T13:33:19.727988
+似	3	5	923	7	746	1486	1583	ジ	ジ	に(る)	に･る, ひ･る	resemble, similar	becoming, resemble, counterfeit, imitate, suitable	2023-12-27T17:27:05.736868
+迷	3	5	942	9	721	967	998	メイ	メイ	まよ(う)	まよ･う	perplexed, lost	astray, be perplexed, in doubt, lost, err, illusion	2023-12-27T17:27:05.736868
+夢	3	5	943	13	987	811	830	ム	ム, ボウ	ゆめ	ゆめ, ゆめ･みる, くら･い	dream	dream, vision, illusion	2023-12-27T17:27:05.736868
+慣	3	5	1177	14	498	915	937	カン	カン	な(れる), な(らす)	な･れる, な･らす	accustomed, get used to	accustomed, get used to, become experienced	2023-12-30T12:40:11.666366
+貧	3	5	1211	11	959	753	766	ヒン, ビン	ヒン, ビン	まず(しい)	まず･しい	poor	poverty, poor	2023-12-30T12:40:11.666366
+祖	3	5	1226	9	845	622	632	ソ	ソ			ancestor	ancestor, pioneer, founder	2023-12-30T12:40:11.666366
+権	3	6	156	15	634	335	335	ケン, ゴン	ケン, ゴン		おもり, かり, はか･る	authority, power, right	authority, power, rights	2023-12-31T11:42:30.087762
+済	3	6	168	11	702	549	558	サイ	サイ, セイ	す(む), す(ます)	す･む, -ず･み, -ずみ, す･まない, す･ます, -す･ます, すく･う, な･す, わたし, わた･る	finish, settle	settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not	2023-12-31T11:42:30.087762
+認	3	6	198	14	930	738	751	ニン	ニン	みと(める)	みと･める, したた･める	recognize, approve of	acknowledge, witness, discern, recognize, appreciate, believe	2023-12-31T11:42:30.087762
+論	3	6	227	15	1010	293	293	ロン	ロン		あげつら･う	thesis, discussion, argument	argument, discourse	2024-01-05T17:41:31.945411
+疑	3	6	283	14	363	1516	1617	ギ	ギ	うたが(う)	うたが･う	doubt, suspect	doubt, distrust, be suspicious, question	2024-01-05T17:41:31.945411
+供	3	6	313	8	558	197	197	キョウ, ク	キョウ, ク, クウ, グ	そな(える), とも 	そな･える, とも, -ども	attendant, offer	submit, offer, present, serve (meal), accompany	2024-01-05T17:41:31.945411
+割	3	6	318	12	477	519	528	カツ	カツ	わ(る), わ(れる), わり, さ(く)	わ･る, わり, わ･り, わ･れる, さ･く	divide, split, proportion	proportion, comparatively, divide, cut, separate, split	2024-01-10T17:21:20.653581
+難	3	6	330	18	471	557	566	ナン	ナン	かた(い), むずか(しい)	かた･い, -がた･い, むずか･しい, むづか･しい, むつか･しい, -にく･い	difficult	difficult, impossible, trouble, accident, defect	2024-01-10T17:21:20.653581
+優	3	6	334	17	832	1033	1074	ユウ	ユウ, ウ	すぐ(れる), やさ(しい)	やさ･しい, すぐ･れる, まさ･る	kind, gentle, excel	tenderness, excel, surpass, actor, superiority, gentleness	2024-01-10T17:21:20.653581
+収	3	6	337	4	413	757	770	シュウ	シュウ	おさ(める), おさ(まる)	おさ･める, おさ･まる	obtain, supply	income, obtain, reap, pay, supply, store	2024-01-15T15:25:12.617757
+宅	3	6	357	6	871	178	178	タク	タク			home, residence	home, house, residence, our house, my husband	2024-01-15T15:25:12.617757
+警	3	6	366	19	625	706	719	ケイ	ケイ		いまし･める	admonish, warn	admonish, commandment	2024-01-15T15:25:12.617757
+訪	3	6	372	11	417	1181	1240	ホウ	ホウ	たず(ねる), おとず(れる)	おとず･れる, たず･ねる, と･う	visit	call on, visit, look up, offer sympathy	2024-01-29T21:15:36.217042
+退	3	6	424	9	823	846	865	タイ	タイ	しりぞ(く), しりぞ(ける)	しりぞ･く, しりぞ･ける, ひ･く, の･く, の･ける, ど･く	retreat, repel	retreat, withdraw, retire, resign, repel, expel, reject	2024-01-29T21:15:36.217042
+若	3	6	458	8	763	544	553	ジャク, ニャク	ジャク, ニャク, ニャ	わか(い), も(しくわ)	わか･い, わか-, も･しくわ, も･し, も･しくは, ごと･し	young	young, if, perhaps, possibly, low number, immature	2024-01-29T21:15:36.217042
+段	3	6	479	9	819	362	363	ダン	ダン, タン			step, stairs, rank	grade, steps, stairs	2024-01-30T21:49:07.209593
+呼	3	6	498	8	642	1254	1325	コ	コ	よ(ぶ)	よ･ぶ	call, invite	call, call out to, invite	2024-01-30T21:49:07.209593
+値	3	6	518	10	289	425	431	チ	チ	ね, あたい	ね, あたい	price, cost, value	price, cost, value	2024-01-30T21:49:07.209593
+処	3	6	547	5	774	1137	1189	ショ	ショ		ところ, -こ, お･る	deal with, manage, condemn	dispose, manage, deal with, sentence, condemn, act, behave, place	2024-01-31T20:01:09.242424
+否	3	6	561	7	344	1248	1316	ヒ	ヒ	いな	いな, いや	no	negate, no, noes, refuse, decline, deny	2024-01-31T20:01:09.242424
+存	3	6	577	6	866	269	269	ソン, ゾン	ソン, ゾン		ながら･える, あ･る, たも･つ, と･う	exist, believe	exist, suppose, be aware of, believe, feel	2024-01-31T20:01:09.242424
+座	3	6	588	10	696	786	800	ザ	ザ	すわ(る)	すわ･る	sit, seat	squat, seat, cushion, gathering, sit	2024-02-01T21:25:43.712370
+除	3	6	594	10	747	1065	1112	ジョ, ジ	ジョ, ジ	のぞ(く)	のぞ･く, -よ･け	remove, exclude	exclude, division (x/3), remove, abolish, cancel, except	2024-02-01T21:25:43.712370
+降	3	6	596	10	424	947	977	コウ	コウ, ゴ	お(りる), お(ろす), ふ(る)	お･りる, お･ろす, ふ･る, ふ･り, くだ･る, くだ･す	descend, fall	descend, precipitate, fall, surrender	2024-02-01T21:25:43.712370
+危	3	6	606	6	302	534	543	キ	キ	あぶ(ない), あや(うい), あや(ぶむ)	あぶ･ない, あや･うい, あや･ぶむ	dangerous, fear	dangerous, fear, uneasy	2024-02-02T16:24:28.254178
+亡	3	6	661	3	922	672	684	ボウ, モウ	ボウ, モウ	な(い)	な･い, な･き-, ほろ･びる, ほろ･ぶ, ほろ･ぼす	dead, deceased	deceased, the late, dying, perish	2024-02-02T16:24:28.254178
+背	3	6	696	9	834	1265	1338	ハイ	ハイ	せ, せい, そむ(く), そむ(ける)	せ, せい, そむ･く, そむ･ける	back, height, disobey	stature, height, back, behind, disobey, defy, go back on, rebel	2024-02-02T16:24:28.254178
+勤	3	6	830	12	605	559	568	キン, ゴン	キン, ゴン	つと(める), つと(まる)	つと･める, -づと･め, つと･まる, いそ･しむ	serve, work	diligence, become employed, serve	2024-02-03T14:35:39.088755
+困	3	6	843	7	675	558	567	コン	コン	こま(る)	こま･る	distressed	quandary, become distressed, annoyed	2024-02-03T14:35:39.088755
+刻	3	6	866	8	544	1211	1274	コク	コク	きざ(む)	きざ･む, きざ･み	carve, chop, engrave	engrave, cut fine, chop, hash, mince, time, carving	2024-02-03T14:35:39.088755
+欲	3	6	902	11	660	1127	1179	ヨク	ヨク	ほ(しい), ほっ(する)	ほっ･する, ほ･しい	greed, desire, want	longing, covetousness, greed, passion, desire, craving	2024-02-04T16:42:19.122582
+痛	3	6	903	12	339	1320	1402	ツウ	ツウ	いた(い), いた(む), いた(める)	いた･い, いた･む, いた･ましい, いた･める	pain, hurt	pain, hurt, damage, bruise	2024-02-04T16:42:19.122582
+探	3	6	930	11	522	535	544	タン	タン	さぐ(る), さが(す)	さぐ･る, さが･す	search, look for	grope, search, look for	2024-02-04T16:42:19.122582
+閉	3	6	951	11	576	397	401	ヘイ	ヘイ	し(める), し(まる), と(じる), と(ざす)	と･じる, と･ざす, し･める, し･まる, た･てる	close, shut	closed, shut	2024-02-06T19:58:17.727833
+暮	3	6	978	14	618	1428	1517	ボ	ボ	く(れる), く(らす)	く･れる, く･らす	grow dark, livelihood	evening, twilight, season's end, livelihood, make a living, spend time	2024-02-06T19:58:17.727833
+吸	3	6	1054	6	581	1256	1327	キュウ	キュウ	す(う)	す･う	inhale, suck, smoke	suck, imbibe, inhale, sip	2024-02-06T19:58:17.727833
+忘	3	6	1129	7	554	1374	1461	ボウ	ボウ	わす(れる)	わす･れる	forget	forget	2024-02-10T21:28:03.424634
+誤	3	6	1150	14	309	906	928	ゴ	ゴ	あやま(る)	あやま･る, -あやま･る	error, mistake	mistake, err, do wrong, mislead	2024-02-10T21:28:03.424634
+洗	3	6	1168	9	271	692	705	セン	セン	あら(う)	あら･う	wash	wash, inquire into, probe	2024-02-10T21:28:03.424634
+窓	3	6	1186	11	848	698	711	ソウ	ソウ, ス	まど	まど, てんまど, けむだし	window	window, pane	2024-02-11T19:54:02.967579
+腹	3	6	1286	13	949	1271	1345	フク	フク	はら	はら	stomach, abdomen	abdomen, belly, stomach	2024-02-11T19:54:02.967579
+頂	3	6	1350	11	341	1440	1530	チョウ	チョウ	いただ(く), いただき	いただ･く, いただき	summit, top, receive	place on the head, receive, top of head, top, summit, peak	2024-02-11T19:54:02.967579
+晩	3	6	1424	12	953	736	749	バン	バン			nightfall	nightfall, night	2024-02-13T18:57:39.804466
+歳	3	8	269	13	703	479	487	サイ, セイ	サイ, セイ		とし, とせ, よわい	years old, year-end	year-end, age, occasion, opportunity	2024-02-13T18:57:39.804466
+与	3	8	308	3	290	539	548	ヨ	ヨ	あた(える)	あた･える, あずか･る, くみ･する, ともに	give, grant	bestow, participate in, give, award, impart, provide, cause, gift, godsend	2024-02-13T18:57:39.804466
+違	3	8	344	13	326	814	833	イ	イ	ちが(う), ちが(える)	ちが･う, ちが･い, ちが･える, -ちが･える, たが･う, たが･える	differ, alter	difference, differ	2024-02-14T20:25:20.478483
+渡	3	8	446	12	597	378	379	ト	ト	わた(る), わた(す)	わた･る, -わた･る, わた･す	cross, hand over	transit, ford, ferry, cross, import, deliver, diameter, migrate	2024-02-14T20:25:20.478483
+突	3	8	521	8	889	898	920	トツ	トツ, カ	つ(く)	つ･く	thrust, poke	stab, protruding, thrust, pierce, prick, collision, sudden	2024-02-14T20:25:20.478483
+捕	3	8	604	10	887	890	911	ホ	ホ	と(る), と(らえる), と(らわれる), つか(まる), つか(まえる)	と･らえる, と･らわれる, と･る, とら･える, とら･われる, つか･まえる, つか･まる	catch, grasp	catch, capture	2024-02-19T21:34:32.094442
+迎	3	8	625	7	627	1055	1098	ゲイ	ゲイ	むか(える)	むか･える	meet, welcome	welcome, meet, greet	2024-02-19T21:34:32.094442
+彼	3	8	648	8	481	977	1010	ヒ	ヒ	かれ, かの	かれ, かの, か･の	he, that	he, that, the	2024-02-19T21:34:32.094442

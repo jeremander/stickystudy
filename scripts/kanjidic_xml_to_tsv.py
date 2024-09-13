@@ -8,7 +8,7 @@ import sys
 from jamdict.kanjidic2 import Kanjidic2XMLParser
 
 # reference numbering systems to include
-DIC_REFS = ['sh_kk']
+DIC_REFS = ['sh_kk', 'sh_kk2']
 
 
 if __name__ == '__main__':

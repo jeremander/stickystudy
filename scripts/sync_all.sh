@@ -7,4 +7,4 @@ echo "Syncing deck subsets"
 stickystudy sync-subsets
 
 echo "Syncing reverse study decks"
-stickystudy sync-copy "JLPT Vocab 3,4,5" "All Vocab" --label W --with-kanji
+stickystudy sync-copy "All Vocab" --label W --with-kanji

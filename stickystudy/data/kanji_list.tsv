@@ -1,4 +1,4 @@
-kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	kun'yomi	KD kun'yomi	meaning	KD meaning
+kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk2	on'yomi	KD on'yomi	kun'yomi	KD kun'yomi	meaning	KD meaning
 一	5	1	2	1	1	2	2	イチ, イツ	イチ, イツ	ひと(つ)	ひと-, ひと･つ	one (1)	one, one radical (no.1)
 二	5	1	9	2	2	3	3	ニ	ニ, ジ	ふた(つ)	ふた, ふた･つ, ふたたび	two (2)	two, two radical (no. 7)
 三	5	1	14	3	3	4	4	サン	サン, ゾウ	み(っ)(つ)	み, み･つ, みっ･つ	three (3)	three
@@ -38,7 +38,7 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 毎	5	2	436	6	37	116	116	マイ, バイ	マイ	ごと(に)	ごと, -ごと･に	each, every	every
 先	5	1	173	6	38	50	50	セン	セン	さき	さき, ま･ず	previous, ahead, future	before, ahead, previous, future, precedence
 今	5	2	49	4	39	51	51	コン, キン	コン, キン	いま	いま	this, now, the present	now
-何	5	2	340	7	40	390		カ	カ	なに, なん	なに, なん, なに-, なん-	what	what
+何	5	2	340	7	40	390	392	カ	カ	なに, なん	なに, なん, なに-, なん-	what	what
 上	5	1	35	3	41	32	32	ジョウ, ショウ	ジョウ, ショウ, シャン	かみ, うえ, あ(げる), あ(がる), の(ぼる)	うえ, -うえ, うわ-, かみ, あ･げる, -あ･げる, あ･がる, -あ･がる, あ･がり, -あ･がり, のぼ･る, のぼ･り, のぼ･せる, のぼ･す, たてまつ･る	up, above, top, on	above, up
 下	5	1	97	3	42	31	31	カ, ゲ	カ, ゲ	した, しも, もと, さ(げる), さ(がる), くだ(る), くだ(す), くだ(さる), お(りる), お(ろす)	した, しも, もと, さ･げる, さ･がる, くだ･る, くだ･り, くだ･す, -くだ･す, くだ･さる, お･ろす, お･りる	bottom, down, under, lower, give	below, down, descend, give, low, inferior
 左	5	1	630	5	43	75	75	サ	サ, シャ	ひだり	ひだり	left	left
@@ -83,19 +83,19 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 青	4	1	589	8	82	208	208	セイ, ショウ	セイ, ショウ	あお(い)	あお, あお-, あお･い	blue	blue, green
 赤	4	1	584	7	83	207	207	セキ	セキ, シャク	あか(い)	あか, あか-, あか･い, あか･らむ, あか･らめる	red	red
 明	4	2	67	8	84	18	18	メイ, ミョウ	メイ, ミョウ, ミン	あか(るい), あ(ける)	あ･かり, あか･るい, あか･るむ, あか･らむ, あき･らか, あ･ける, -あ･け, あ･く, あ･くる, あ･かす	light, bright, clear	bright, light
-秋	4	2	635	9	85	462		シュウ	シュウ	あき	あき, とき	autumn, fall	autumn
+秋	4	2	635	9	85	462	470	シュウ	シュウ	あき	あき, とき	autumn, fall	autumn
 空	4	1	304	8	86	140	140	クウ	クウ	そら, から, あ(く), あ(ける)	そら, あ･く, あ･き, あ･ける, から, す･く, す･かす, むな･しい	sky, air, empty	empty, sky, void, vacant, vacuum
-開	4	3	59	12	87	396		カイ	カイ	あ(く), あ(ける), ひら(く)	ひら･く, ひら･き, -びら･き, ひら･ける, あ･く, あ･ける	open	open, unfold, unseal
+開	4	3	59	12	87	396	400	カイ	カイ	あ(く), あ(ける), ひら(く)	ひら･く, ひら･き, -びら･き, ひら･ける, あ･く, あ･ける	open	open, unfold, unseal
 悪	4	3	530	11	88	304	304	アク	アク, オ	わる(い)	わる･い, わる-, あ･し, にく･い, -にく･い, ああ, いずくに, いずくんぞ, にく･む	bad, evil	bad, vice, rascal, false, evil, wrong
-朝	4	2	248	12	89	469		チョウ	チョウ	あさ	あさ	morning	morning, dynasty, regime, epoch, period, (North) Korea
+朝	4	2	248	12	89	469	477	チョウ	チョウ	あさ	あさ	morning	morning, dynasty, regime, epoch, period, (North) Korea
 字	4	1	485	6	90	110	110	ジ	ジ	あざ	あざ, あざな, -な	letter, character, mark	character, letter, word, section of village
 足	4	1	343	7	91	58	58	ソク	ソク	あし, た(る), た(す), た(りる)	あし, た･りる, た･る, た･す	foot, leg, suffice	leg, foot, be sufficient, counter for pairs of footwear
 味	4	3	442	8	92	307	307	ミ	ミ	あじ(わう)	あじ, あじ･わう	taste	flavor, taste
 新	4	2	51	13	93	174	174	シン	シン	あら(た), あたら(しい), に(い)	あたら･しい, あら･た, あら-, にい-	new, fresh	new
-集	4	3	210	12	94	436		シュウ	シュウ	あつ(まる), あつ(める)	あつ･まる, あつ･める, つど･う	collect, gather	gather, meet, congregate, swarm, flock
-兄	4	2	1219	5	95	406		ケイ, キョウ	ケイ, キョウ	あに	あに	older brother	elder brother, big brother
-歩	4	2	554	8	96	431		ホ, ブ	ホ, ブ, フ	ある(く), あゆ(む)	ある･く, あゆ･む	walk, step	walk, counter for steps
-姉	4	2	1473	8	97	407		シ	シ	あね	あね, はは	older sister	elder sister
+集	4	3	210	12	94	436	442	シュウ	シュウ	あつ(まる), あつ(める)	あつ･まる, あつ･める, つど･う	collect, gather	gather, meet, congregate, swarm, flock
+兄	4	2	1219	5	95	406	410	ケイ, キョウ	ケイ, キョウ	あに	あに	older brother	elder brother, big brother
+歩	4	2	554	8	96	431	437	ホ, ブ	ホ, ブ, フ	ある(く), あゆ(む)	ある･く, あゆ･む	walk, step	walk, counter for steps
+姉	4	2	1473	8	97	407	411	シ	シ	あね	あね, はは	older sister	elder sister
 有	4	3	282	6	98	265	265	ユウ, ウ	ユウ, ウ	あ(る)	あ･る	have, exist	possess, have, exist, happen, occur, approx
 安	4	3	144	6	99	105	105	アン	アン	やす(い)	やす･い, やす･まる, やす, やす･らか	peaceful, cheap	relax, cheap, low, quiet, rested, contented, peaceful
 医	4	3	437	7	100	220	220	イ	イ		い･やす, い･する, くすし	medicine, doctor	doctor, medicine
@@ -105,89 +105,89 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 急	4	3	309	9	104	303	303	キュウ	キュウ	いそ(ぐ)	いそ･ぐ, いそ･ぎ, せ･く	hurry	hurry, emergency, sudden, steep
 家	4	2	133	10	105	165	165	カ, ケ	カ, ケ	いえ, や	いえ, や, うち	house, family	house, home, family, professional, expert, performer
 犬	4	1	1326	4	106	280	280	ケン	ケン	いぬ	いぬ, いぬ-	dog	dog
-妹	4	2	1446	8	107	408		マイ	マイ	いもうと	いもうと	younger sister	younger sister
+妹	4	2	1446	8	107	408	412	マイ	マイ	いもうと	いもうと	younger sister	younger sister
 色	4	2	621	6	108	204	204	ショク, シキ	ショク, シキ	いろ	いろ	color	color
 音	4	1	491	9	109	347	347	オン, イン	オン, イン, -ノン	おと, ね	おと, ね	sound	sound, noise
 員	4	3	54	10	110	163	163	イン	イン			member, official	employee, member, number, the one in charge
-院	4	3	150	10	111	614		イン	イン			institution	Inst., institution, temple, mansion, school
+院	4	3	150	10	111	614	624	イン	イン			institution	Inst., institution, temple, mansion, school
 飲	4	3	969	12	112	323	323	イン	イン, オン	の(む)	の･む, -の･み	drink	drink, smoke, take
 魚	4	2	1208	11	113	290	290	ギョ	ギョ	うお, さかな	うお, さかな, -ざかな	fish	fish
 動	4	3	73	11	114	231	231	ドウ	ドウ	うご(く), うご(かす)	うご･く, うご･かす	move	move, motion, change, confusion, shift, shake
 牛	4	2	1202	4	115	281	281	ギュウ	ギュウ	うし	うし	cattle	cow
-歌	4	2	519	14	116	392		カ	カ	うた, うた(う)	うた, うた･う	song, sing	song, sing
-写	4	3	453	5	117	540		シャ	シャ, ジャ	うつ(す), うつ(る)	うつ･す, うつ･る, うつ-, うつ･し	copy	copy, be photographed, describe
-映	4	6	404	9	118	352		エイ	エイ	うつ(る), うつ(す), は(える)	うつ･る, うつ･す, は･える, -ば･え	reflect, project	reflect, reflection, projection
+歌	4	2	519	14	116	392	395	カ	カ	うた, うた(う)	うた, うた･う	song, sing	song, sing
+写	4	3	453	5	117	540	549	シャ	シャ, ジャ	うつ(す), うつ(る)	うつ･す, うつ･る, うつ-, うつ･し	copy	copy, be photographed, describe
+映	4	6	404	9	118	352	353	エイ	エイ	うつ(る), うつ(す), は(える)	うつ･る, うつ･す, は･える, -ば･え	reflect, project	reflect, reflection, projection
 海	4	2	200	9	119	117	117	カイ	カイ	うみ	うみ	sea, ocean	sea, ocean
 売	4	2	202	7	120	239	239	バイ	バイ	う(る)	う･る, う･れる	sell	sell
-運	4	3	255	12	121	439		ウン	ウン	はこ(ぶ)	はこ･ぶ	carry, luck	carry, luck, destiny, fate, lot, transport, progress, advance
+運	4	3	255	12	121	439	445	ウン	ウン	はこ(ぶ)	はこ･ぶ	carry, luck	carry, luck, destiny, fate, lot, transport, progress, advance
 重	4	3	193	9	122	227	227	ジュウ, チョウ	ジュウ, チョウ	え, おも(い), かさ(なる), かさ(ねる)	え, おも･い, おも･り, おも･なう, かさ･ねる, かさ･なる, おも	heavy	heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold
-英	4	4	430	8	123	353		エイ	エイ		はなぶさ	England, grand	England, English, hero, outstanding, calyx
+英	4	4	430	8	123	353	354	エイ	エイ		はなぶさ	England, grand	England, English, hero, outstanding, calyx
 駅	4	3	724	14	124	284	284	エキ	エキ			station	station
-終	4	3	256	11	125	458		シュウ	シュウ	お(わる), お(える)	お･わる, -お･わる, おわ･る, お･える, つい, つい･に	finish	end, finish
+終	4	3	256	11	125	458	466	シュウ	シュウ	お(わる), お(える)	お･わる, -お･わる, おわ･る, お･える, つい, つい･に	finish	end, finish
 多	4	2	139	6	126	229	229	タ	タ	おお(い)	おお･い, まさ･に, まさ･る	many, frequent, much	many, frequent, much
-起	4	3	374	10	127	373		キ	キ	お(きる), お(こる), お(こす)	お･きる, お･こる, お･こす, おこ･す, た･つ	get up, rise	rouse, wake up, get up
+起	4	3	374	10	127	373	374	キ	キ	お(きる), お(こる), お(こす)	お･きる, お･こる, お･こす, おこ･す, た･つ	get up, rise	rouse, wake up, get up
 屋	4	3	616	9	128	167	167	オク	オク	や	や	roof, house, shop	roof, house, shop, dealer, seller
-送	4	3	311	9	129	441		ソウ	ソウ	おく(る)	おく･る	send	escort, send
+送	4	3	311	9	129	441	447	ソウ	ソウ	おく(る)	おく･る	send	escort, send
 教	4	2	166	11	130	245	245	キョウ	キョウ	おし(える), おそ(わる)	おし･える, おそ･わる	teach, faith	teach, faith, doctrine
-弟	4	2	1161	7	131	405		テイ, ダイ	テイ, ダイ, デ	おとうと	おとうと	younger brother	younger brother, faithful service to elders
+弟	4	2	1161	7	131	405	409	テイ, ダイ	テイ, ダイ, デ	おとうと	おとうと	younger brother	younger brother, faithful service to elders
 同	4	2	15	6	132	198	198	ドウ	ドウ	おな(じ)	おな･じ	same	same, agree, equal
 主	4	3	95	5	133	155	155	シュ	シュ, ス, シュウ	おも, ぬし	ぬし, おも, あるじ	main, master	lord, chief, master, main thing, principal
 思	4	2	132	9	134	99	99	シ	シ	おも(う)	おも･う, おもえら･く, おぼ･す	think	think
 親	4	2	406	16	135	175	175	シン	シン	おや, した(しい)	おや, おや-, した･しい, した･しむ	parent, familiar	parent, intimacy, relative, familiarity, dealer (cards)
 花	4	1	578	7	136	255	255	カ	カ, ケ	はな	はな	flower	flower
-夏	4	2	659	10	137	461		カ	カ, ガ, ゲ	なつ	なつ	summer	summer
+夏	4	2	659	10	137	461	469	カ	カ, ガ, ゲ	なつ	なつ	summer	summer
 画	4	2	199	8	138	343	343	ガ, カク	ガ, カク, エ, カイ		えが･く, かく･する, かぎ･る, はかりごと, はか･る	picture, drawing	brush-stroke, picture
-界	4	3	158	9	139	454		カイ	カイ			world	world, boundary
+界	4	3	158	9	139	454	461	カイ	カイ			world	world, boundary
 買	4	2	520	12	140	241	241	バイ	バイ	か(う)	か･う	buy	buy
 帰	4	2	504	10	141	317	317	キ	キ	かえ(る), かえ(す)	かえ･る, かえ･す, おく･る, とつ･ぐ	return	homecoming, arrive at, lead to, result in
 代	4	3	66	5	142	256	256	ダイ, タイ	ダイ, タイ	か(える), か(わる), しろ, よ	か･わる, かわ･る, かわ･り, か･わり, -がわ･り, -が･わり, か･える, よ, しろ	substitute, period, fee	substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee
-楽	4	2	373	13	143	358		ガク, ラク	ガク, ラク, ゴウ	たの(しい), たの(しむ)	たの･しい, たの･しむ, この･む	pleasure, music	music, comfort, ease
+楽	4	2	373	13	143	358	359	ガク, ラク	ガク, ラク, ゴウ	たの(しい), たの(しむ)	たの･しい, たの･しむ, この･む	pleasure, music	music, comfort, ease
 風	4	2	558	9	144	29	29	フウ, フ	フウ, フ	かぜ	かぜ, かざ-	wind, style	wind, air, style, manner
-貸	4	5	995	12	145	748		タイ	タイ	か(す)	か･す, か･し-, かし-	lend	lend
+貸	4	5	995	12	145	748	761	タイ	タイ	か(す)	か･す, か･し-, かし-	lend	lend
 方	4	2	46	4	146	70	70	ホウ	ホウ	かた	かた, -かた, -がた	person, way, direction	direction, person, alternative
 紙	4	2	559	10	147	180	180	シ	シ	かみ	かみ	paper	paper
 通	4	2	80	10	148	150	150	ツウ	ツウ, ツ	とお(る), とお(す), かよ(う)	とお･る, とお･り, -とお･り, -どお･り, とお･す, とお･し, -どお･し, かよ･う	pass, communicate	traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.
 体	4	2	88	7	149	61	61	タイ, テイ	タイ, テイ	からだ	からだ, かたち	body, form	body, substance, object, reality, counter for images
-借	4	4	932	10	150	766		シャク	シャク	か(りる)	か･りる	borrow, rent	borrow, rent
-漢	4	3	1487	13	151	556		カン	カン			Chinese	Sino-, China
+借	4	4	932	10	150	766	780	シャク	シャク	か(りる)	か･りる	borrow, rent	borrow, rent
+漢	4	3	1487	13	151	556	565	カン	カン			Chinese	Sino-, China
 館	4	3	613	16	152	327	327	カン	カン	やかた	やかた, たて	building, palace	building, mansion, large building, palace
 元	4	2	192	4	153	137	137	ゲン, ガン	ゲン, ガン	もと	もと	beginning, origin	beginning, former time, origin
-考	4	2	196	6	154	541		コウ	コウ	かんが(える)	かんが･える, かんが･え	think, consider	consider, think over
-着	4	3	376	12	155	657		チャク	チャク, ジャク	き(る), き(せる), つ(く), つ(ける)	き･る, き･せる, つ･く, つ･ける	wear, arrive	don, arrive, wear, counter for suits of clothing
-究	4	3	368	7	156	895		キュウ	キュウ, ク	きわ(める)	きわ･める	study, research	research, study
-去	4	3	440	5	157	414		キョ, コ	キョ, コ	さ(る)	さ･る, -さ･る	leave, gone, past	gone, past, quit, leave, elapse, eliminate, divorce
+考	4	2	196	6	154	541	550	コウ	コウ	かんが(える)	かんが･える, かんが･え	think, consider	consider, think over
+着	4	3	376	12	155	657	668	チャク	チャク, ジャク	き(る), き(せる), つ(く), つ(ける)	き･る, き･せる, つ･く, つ･ける	wear, arrive	don, arrive, wear, counter for suits of clothing
+究	4	3	368	7	156	895	917	キュウ	キュウ, ク	きわ(める)	きわ･める	study, research	research, study
+去	4	3	440	5	157	414	420	キョ, コ	キョ, コ	さ(る)	さ･る, -さ･る	leave, gone, past	gone, past, quit, leave, elapse, eliminate, divorce
 京	4	2	74	8	158	189	189	キョウ, ケイ	キョウ, ケイ, キン		みやこ	capital	capital, 10**16
 強	4	2	112	11	159	217	217	キョウ, ゴウ	キョウ, ゴウ	つよ(い), つよ(まる), つよ(める), し(いる)	つよ･い, つよ･まる, つよ･める, し･いる, こわ･い	strong	strong
 業	4	3	43	13	160	279	279	ギョウ, ゴウ	ギョウ, ゴウ	わざ	わざ	work, business, industry	business, vocation, arts, performance
 切	4	2	324	4	161	39	39	セツ	セツ, サイ	き(る), き(れる)	き･る, -き･る, き･り, -き･り, -ぎ･り, き･れる, -き･れる, き･れ, -き･れ, -ぎ･れ	cut	cut, cutoff, be sharp
-近	4	2	194	7	162	445		キン	キン, コン	ちか(い)	ちか･い	near, recent	near, early, akin, tantamount
+近	4	2	194	7	162	445	452	キン	キン, コン	ちか(い)	ちか･い	near, recent	near, early, akin, tantamount
 銀	4	3	395	14	163	313	313	ギン	ギン	しろがね	しろがね	silver	silver
 口	4	1	284	3	164	54	54	コウ, ク	コウ, ク	くち	くち	mouth	mouth
 工	4	2	299	3	165	139	139	コウ, ク	コウ, ク, グ			construction, craft	craft, construction, katakana e radical (no. 48)
 黒	4	2	573	11	166	206	206	コク	コク	くろ(い)	くろ, くろ･ずむ, くろ･い	black	black
 計	4	2	228	9	167	340	340	ケイ	ケイ	はか(る), はか(らう)	はか･る, はか･らう	plan, measure	plot, plan, scheme, measure
-研	4	3	336	9	168	896		ケン	ケン	と(ぐ)	と･ぐ	polish, sharpen, study	polish, study of, sharpen
-建	4	4	300	9	169	892		ケン	ケン, コン	た(つ), た(てる)	た･てる, た･て, -だ･て, た･つ	build	build
-験	4	4	410	18	170	532		ケン	ケン, ゲン		あかし, しるし, ため･す, ためし	test	verification, effect, testing
+研	4	3	336	9	168	896	918	ケン	ケン	と(ぐ)	と･ぐ	polish, sharpen, study	polish, study of, sharpen
+建	4	4	300	9	169	892	913	ケン	ケン, コン	た(つ), た(てる)	た･てる, た･て, -だ･て, た･つ	build	build
+験	4	4	410	18	170	532	541	ケン	ケン, ゲン		あかし, しるし, ため･す, ためし	test	verification, effect, testing
 古	4	2	509	5	171	172	172	コ	コ	ふる(い), ふる(す)	ふる･い, ふる-, -ふる･す	old, ancient	old
-広	4	2	263	5	172	694		コウ	コウ	ひろ(い), ひろ(まる), ひろ(める), ひろ(がる), ひろ(げる)	ひろ･い, ひろ･まる, ひろ･める, ひろ･がる, ひろ･げる	wide, broad	wide, broad, spacious
+広	4	2	263	5	172	694	707	コウ	コウ	ひろ(い), ひろ(まる), ひろ(める), ひろ(がる), ひろ(げる)	ひろ･い, ひろ･まる, ひろ･める, ひろ･がる, ひろ･げる	wide, broad	wide, broad, spacious
 心	4	2	157	4	173	97	97	シン	シン	こころ	こころ, -ごころ	heart, mind	heart, mind, spirit, heart radical (no. 61)
-試	4	4	392	13	174	526		シ	シ	ため(す), こころ(みる)	こころ･みる, ため･す	try, test	test, try, attempt, experiment, ordeal
+試	4	4	392	13	174	526	535	シ	シ	ため(す), こころ(みる)	こころ･みる, ため･す	try, test	test, try, attempt, experiment, ordeal
 答	4	2	486	12	175	160	160	トウ	トウ	こた(え), こた(える)	こた･える, こた･え	answer, solution	solution, answer
 事	4	3	18	8	176	80	80	ジ	ジ, ズ	こと	こと, つか･う, つか･える	thing, matter, affair	matter, thing, fact, business, reason, possibly
-転	4	3	327	11	177	433		テン	テン	ころ(がる), ころ(げる), ころ(がす), ころ(ぶ)	ころ･がる, ころ･げる, ころ･がす, ころ･ぶ, まろ･ぶ, うたた, うつ･る, くる･めく	revolve, turn	revolve, turn around, change
-作	4	2	103	7	178	360		サク, サ	サク, サ	つく(る)	つく･る, つく･り, -づく･り	make, prepare, build	make, production, prepare, build
+転	4	3	327	11	177	433	439	テン	テン	ころ(がる), ころ(げる), ころ(がす), ころ(ぶ)	ころ･がる, ころ･げる, ころ･がす, ころ･ぶ, まろ･ぶ, うたた, うつ･る, くる･めく	revolve, turn	revolve, turn around, change
+作	4	2	103	7	178	360	361	サク, サ	サク, サ	つく(る)	つく･る, つく･り, -づく･り	make, prepare, build	make, production, prepare, build
 茶	4	2	1116	9	179	251	251	チャ, サ	チャ, サ			tea	tea
 早	4	1	402	6	180	248	248	ソウ	ソウ, サッ	はや(い), はや(まる), はや(める)	はや･い, はや, はや-, はや･まる, はや･める, さ-	early, fast	early, fast
-止	4	2	310	4	181	477		シ	シ	と(まる), と(める), とど(める), とど(まる), や(める), や(む), よ(す)	と･まる, -ど･まり, と･める, -と･める, -ど･め, とど･める, とど･め, とど･まる, や･める, や･む, -や･む, よ･す, -さ･す, -さ･し	stop	stop, halt
+止	4	2	310	4	181	477	485	シ	シ	と(まる), と(める), とど(める), とど(まる), や(める), や(む), よ(す)	と･まる, -ど･まり, と･める, -と･める, -ど･め, とど･める, とど･め, とど･まる, や･める, や･む, -や･む, よ･す, -さ･す, -さ･し	stop	stop, halt
 自	4	2	19	6	182	62	62	ジ, シ	ジ, シ	みずか(ら)	みずか･ら, おの･ずから, おの･ずと	self	oneself
 仕	4	3	439	5	183	333	333	シ	シ, ジ	つか(える)	つか･える	serve, attend	attend, doing, official, serve
 死	4	3	229	6	184	85	85	シ	シ	し(ぬ)	し･ぬ, し･に-	die, death	death, die
-始	4	3	244	8	185	494		シ	シ	はじ(まる), はじ(める)	はじ･める, -はじ･める, はじ･まる	begin	commence, begin
+始	4	3	244	8	185	494	503	シ	シ	はじ(まる), はじ(める)	はじ･める, -はじ･める, はじ･まる	begin	commence, begin
 使	4	3	219	8	186	331	331	シ	シ	つか(う)	つか･う, つか･い, -つか･い, -づか･い	use	use, send on a mission, order, messenger, envoy, ambassador, cause
 私	4	6	242	7	187	125	125	シ	シ	わたし, わたくし	わたくし, わたし	private, I	private, I, me
 地	4	2	40	6	188	118	118	チ, ジ	チ, ジ			ground, land, earth	ground, earth
-持	4	3	119	9	189	451		ジ	ジ	も(つ)	も･つ, -も･ち, も･てる	have, hold	hold, have
+持	4	3	119	9	189	451	458	ジ	ジ	も(つ)	も･つ, -も･ち, も･てる	have, hold	hold, have
 質	4	5	389	15	190	176	176	シツ, シチ	シツ, シチ, チ		たち, ただ･す, もと, わりふ	quality, nature	substance, quality, matter, temperament
 室	4	2	550	9	191	166	166	シツ	シツ	むろ	むろ	room	room, apartment, chamber, greenhouse, cellar
 品	4	3	225	9	192	230	230	ヒン	ヒン, ホン	しな	しな	article, goods, quality	goods, refinement, dignity, article, counter for meal courses
@@ -195,51 +195,51 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 者	4	3	38	8	194	164	164	シャ	シャ	もの	もの	person	someone, person
 手	4	1	60	4	195	57	57	シュ	シュ, ズ	て	て, て-, -て, た-	hand	hand
 週	4	2	540	11	196	92	92	シュウ	シュウ			week	week
-習	4	3	706	11	197	591		シュウ	シュウ, ジュ	なら(う)	なら･う, なら･い	learn	learn
+習	4	3	706	11	197	591	601	シュウ	シュウ, ジュ	なら(う)	なら･う, なら･い	learn	learn
 住	4	3	270	7	198	156	156	ジュウ	ジュウ, ヂュウ, チュウ	す(む), す(まう)	す･む, す･まう, -ず･まい	live, dwell, reside	dwell, reside, live, inhabit
-春	4	2	579	9	199	460		シュン	シュン	はる	はる	spring (season)	springtime, spring (season)
+春	4	2	579	9	199	460	468	シュン	シュン	はる	はる	spring (season)	springtime, spring (season)
 正	4	1	143	5	200	275	275	セイ, ショウ	セイ, ショウ	ただ(しい), ただ(す), まさ	ただ･しい, ただ･す, まさ, まさ･に	right, correct	correct, justice, righteous, 10**40
 少	4	2	287	4	201	144	144	ショウ	ショウ	すく(ない), すこ(し)	すく･ない, すこ･し	little, few	few, little
 場	4	2	52	12	202	154	154	ジョウ	ジョウ, チョウ	ば	ば	place	location, place
 知	4	2	205	8	203	214	214	チ	チ	し(る)	し･る, し･らせる	know	know, wisdom
-真	4	3	279	10	204	422		シン	シン	ま	ま, ま-, まこと	true, reality	true, reality, Buddhist sect
+真	4	3	279	10	204	422	428	シン	シン	ま	ま, ま-, まこと	true, reality	true, reality, Buddhist sect
 図	4	2	539	7	205	339	339	ズ, ト	ズ, ト	はか(る)	え, はか･る	drawing, plan	map, drawing, plan, extraordinary, audacious
 世	4	3	135	5	206	252	252	セイ, セ	セイ, セ, ソウ	よ	よ	world, era	generation, world, society, public
 夕	4	1	924	3	207	81	81	セキ	セキ	ゆう	ゆう	evening	evening
-走	4	2	626	7	208	429		ソウ	ソウ	はし(る)	はし･る	run	run
+走	4	2	626	7	208	429	435	ソウ	ソウ	はし(る)	はし･る	run	run
 族	4	3	393	11	209	221	221	ゾク	ゾク			family, tribe	tribe, family
-注	4	3	497	8	210	357		チュウ	チュウ	そそ(ぐ)	そそ･ぐ, さ･す, つ･ぐ	note, pour	pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate
+注	4	3	497	8	210	357	358	チュウ	チュウ	そそ(ぐ)	そそ･ぐ, さ･す, つ･ぐ	note, pour	pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate
 田	4	1	90	5	211	35	35	デン	デン	た	た	rice field	rice field, rice paddy
-台	4	2	262	5	212	492		ダイ, タイ	ダイ, タイ		うてな, われ, つかさ	stand, pedestal	pedestal, a stand, counter for machines and vehicles
-待	4	3	391	9	213	452		タイ	タイ	ま(つ)	ま･つ, -ま･ち	wait	wait, depend on
-題	4	3	96	18	214	354		ダイ	ダイ			topic, title	topic, subject
-度	4	3	110	9	215	377		ト, ド, タク	ド, ト, タク	たび	たび, -た･い	time, degree	degrees, occurrence, time, counter for occurrences, consider, attitude
+台	4	2	262	5	212	492	501	ダイ, タイ	ダイ, タイ		うてな, われ, つかさ	stand, pedestal	pedestal, a stand, counter for machines and vehicles
+待	4	3	391	9	213	452	459	タイ	タイ	ま(つ)	ま･つ, -ま･ち	wait	wait, depend on
+題	4	3	96	18	214	354	355	ダイ	ダイ			topic, title	topic, subject
+度	4	3	110	9	215	377	378	ト, ド, タク	ド, ト, タク	たび	たび, -た･い	time, degree	degrees, occurrence, time, counter for occurrences, consider, attitude
 立	4	1	58	5	216	121	121	リツ	リツ, リュウ, リットル	た(つ), た(てる)	た･つ, -た･つ, た･ち-, た･てる, -た･てる, た･て-, たて-, -た･て, -だ･て, -だ･てる	stand, raise	stand up, rise, set up, erect
 旅	4	3	783	10	217	222	222	リョ	リョ	たび	たび	travel, trip	trip, travel
 力	4	1	62	2	218	100	100	リョク, リキ	リョク, リキ, リイ	ちから	ちから	strength, force, power	power, strength, strong, strain, bear up, exert
-昼	4	2	1115	9	219	470		チュウ	チュウ	ひる	ひる	daytime, noon	daytime, noon
+昼	4	2	1115	9	219	470	478	チュウ	チュウ	ひる	ひる	daytime, noon	daytime, noon
 町	4	1	292	7	220	182	182	チョウ	チョウ	まち	まち	town, street	town, village, block, street
 鳥	4	2	1043	11	221	285	285	チョウ	チョウ	とり	とり	bird	bird, chicken
 店	4	2	378	8	222	168	168	テン	テン	みせ	みせ, たな	store, shop	store, shop
 問	4	3	64	11	223	162	162	モン	モン	と(う), と(い), とん	と･う, と･い, とん	question, problem	question, ask, problem
-冬	4	2	1090	5	224	459		トウ	トウ	ふゆ	ふゆ	winter	winter
+冬	4	2	1090	5	224	459	467	トウ	トウ	ふゆ	ふゆ	winter	winter
 道	4	2	207	12	225	149	149	ドウ, トウ	ドウ, トウ	みち	みち, いう	way, street, path	road-way, street, district, journey, course, moral, teachings
-堂	4	5	1010	11	226	496		ドウ	ドウ			hall, temple	public chamber, hall
+堂	4	5	1010	11	226	496	505	ドウ	ドウ			hall, temple	public chamber, hall
 特	4	4	234	10	227	282	282	トク	トク			special	special
 肉	4	2	986	6	228	223	223	ニク	ニク		しし	meat, flesh	meat
 野	4	2	120	11	229	236	236	ヤ	ヤ, ショ	の	の, の-	field, plain	plains, field, rustic, civilian life
 発	4	3	32	9	230	96	96	ハツ, ホツ	ハツ, ホツ		た･つ, あば･く, おこ･る, つか･わす, はな･つ	start, leave, emit, publish	departure, discharge, publish, emit, start from, disclose, counter for gunshots
 飯	4	4	1046	12	231	325	325	ハン	ハン	めし	めし	cooked rice, meal	meal, boiled rice
-病	4	3	384	10	232	380		ビョウ, ヘイ	ビョウ, ヘイ	や(む), やまい	や･む, -や･み, やまい	illness	ill, sick
+病	4	3	384	10	232	380	381	ビョウ, ヘイ	ビョウ, ヘイ	や(む), やまい	や･む, -や･み, やまい	illness	ill, sick
 不	4	4	101	4	233	94	94	フ, ブ	フ, ブ			not, un-	negative, non-, bad, ugly, clumsy
-服	4	3	873	8	234	683		フク	フク			clothes, submit	clothing, admit, obey, discharge
+服	4	3	873	8	234	683	696	フク	フク			clothes, submit	clothing, admit, obey, discharge
 物	4	3	215	8	235	79	79	ブツ, モツ	ブツ, モツ	もの	もの, もの-	thing, object	thing, object, matter
 文	4	1	190	4	236	111	111	ブン, モン	ブン, モン	ふみ	ふみ, あや	sentence, letter	sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)
 別	4	4	214	7	237	267	267	ベツ	ベツ	わか(れる)	わか･れる, わ･ける	separate, another	separate, branch off, diverge, fork, another, extra, specially
-勉	4	3	1066	10	238	735		ベン	ベン		つと･める	effort, endeavor	exertion, endeavour, encourage, strive, make effort, diligent
+勉	4	3	1066	10	238	735	748	ベン	ベン		つと･める	effort, endeavor	exertion, endeavour, encourage, strive, make effort, diligent
 目	4	1	76	5	239	55	55	モク, ボク	モク, ボク	め	め, -め, ま-	eye	eye, class, look, insight, experience, care, favor
 用	4	2	107	5	240	107	107	ヨウ	ヨウ	もち(いる)	もち･いる	use, business, service	utilize, business, service, use, employ
-夜	4	2	487	8	241	471		ヤ	ヤ	よ, よる	よ, よる	night, evening	night, evening
+夜	4	2	487	8	241	471	479	ヤ	ヤ	よ, よる	よ, よる	night, evening	night, evening
 曜	4	2	940	18	242	19	19	ヨウ	ヨウ			day of the week	weekday
 洋	4	3	763	9	243	289	289	ヨウ	ヨウ			ocean, Western	ocean, sea, foreign, Western style
 理	4	2	86	11	244	143	143	リ	リ		ことわり	reason, principle, logic	logic, arrangement, reason, justice, truth
@@ -249,898 +249,898 @@ kanji	jlpt	grade	freq	strokes	learned	ref_sh_kk	ref_sh_kk_2	on'yomi	KD on'yomi	k
 耳	3	1	1328	6	246	56	56	ジ	ジ	みみ	みみ	ear	ear
 暗	3	3	1040	13	247	348	348	アン	アン	くら(い)	くら･い, くら･む, くれ･る	dark, dim	darkness, disappear, shade, informal, grow dark, be blinded
 引	3	2	218	4	248	216	216	イン	イン	ひ(く), ひ(ける)	ひ･く, ひ･ける	pull, draw	pull, tug, jerk, admit, install, quote, refer to
-遠	3	2	887	13	249	446		エン, オン	エン, オン	とお(い)	とお･い	far, distant	distant, far
+遠	3	2	887	13	249	446	453	エン, オン	エン, オン	とお(い)	とお･い	far, distant	distant, far
 回	3	2	50	6	250	90	90	カイ, エ	カイ, エ	まわ(る), まわ(す)	まわ･る, -まわ･る, -まわ･り, まわ･す, -まわ･す, まわ･し-, -まわ･し, もとお･る, か･える	a time, turn, revolve	-times, round, game, revolve, counter for occurrences
-寒	3	3	1456	12	251	457		カン	カン	さむ(い)	さむ･い	cold	cold
+寒	3	3	1456	12	251	457	464	カン	カン	さむ(い)	さむ･い	cold	cold
 顔	3	2	676	18	252	277	277	ガン	ガン	かお	かお	face	face, expression
 光	3	2	527	6	256	138	138	コウ	コウ	ひかり, ひか(る)	ひか･る, ひかり	light, shine	ray, light
-好	3	4	423	6	257	104	104	コウ	コウ	す(く), この(む)	この･む, す･く, よ･い, い･い	like, favorable	fond, pleasing, like something
+好	3	4	423	6	257	104	104	コウ	コウ	す(く), この(む)	この･む, す･く, よ･い, い･い	like, pleasing	fond, pleasing, like something
 合	3	2	41	6	258	159	159	ゴウ, ガッ, カッ	ゴウ, ガッ, カッ	あ(う), あ(わす), あ(わせる)	あ･う, -あ･う, あ･い, あい-, -あ･い, -あい, あ･わす, あ･わせる, -あ･わせる	fit, suit, match	fit, suit, join, 0.1
-産	3	4	161	11	260	278	278	サン	サン	うぶ, う(む)	う･む, う･まれる, うぶ-, む･す	childbirth, product	products, bear, give birth, yield, childbirth, native, property
+産	3	4	161	11	260	278	278	サン	サン	うぶ, う(む), う(まれる)	う･む, う･まれる, うぶ-, む･す	childbirth, product	products, bear, give birth, yield, childbirth, native, property
 市	3	2	42	5	261	181	181	シ	シ	いち	いち	city, market	market, city, town
 首	3	2	98	9	263	148	148	シュ	シュ	くび	くび	neck, head	neck, counter for songs and poems
 所	3	3	221	8	265	153	153	ショ	ショ	ところ	ところ, -ところ, どころ, とこ	place, area	place, extent
-乗	3	3	377	9	266	523		ジョウ	ジョウ, ショウ	の(る), の(せる)	の･る, -の･り, の･せる	get on, ride	ride, power, multiplication, record, counter for vehicles, board, mount, join
-進	3	3	142	11	268	437		シン	シン	すす(む), すす(める)	すす･む, すす･める	advance, progress	advance, proceed, progress, promote
-声	3	2	388	7	269	746		セイ, ショウ	セイ, ショウ	こえ, こわ	こえ, こわ-	voice	voice
-説	3	4	326	14	270	400		セツ, ゼイ	セツ, ゼイ	と(く)	と･く	explain, theory	opinion, theory, explanation, rumor
-洗	3	6	1168	9	271	692		セン	セン	あら(う)	あら･う	wash	wash, inquire into, probe
-太	3	2	552	4	273	629		タイ, タ	タイ, タ	ふと(い), ふと(る)	ふと･い, ふと･る	big, fat, thick	plump, thick, big around
-都	3	3	123	11	277	188	188	ツ, ト	ト, ツ	みやこ	みやこ	capital, city	metropolis, capital, all, everything
+乗	3	3	377	9	266	523	532	ジョウ	ジョウ, ショウ	の(る), の(せる)	の･る, -の･り, の･せる	get on, ride	ride, power, multiplication, record, counter for vehicles, board, mount, join
+進	3	3	142	11	268	437	443	シン	シン	すす(む), すす(める)	すす･む, すす･める	advance, progress	advance, proceed, progress, promote
+声	3	2	388	7	269	746	759	セイ, ショウ	セイ, ショウ	こえ, こわ	こえ, こわ-	voice	voice
+説	3	4	326	14	270	400	404	セツ, ゼイ	セツ, ゼイ	と(く)	と･く	explain, opinion, theory	opinion, theory, explanation, rumor
+洗	3	6	1168	9	271	692	705	セン	セン	あら(う)	あら･う	wash	wash, inquire into, probe
+太	3	2	552	4	273	629	639	タイ, タ	タイ, タ	ふと(い), ふと(る)	ふと･い, ふと･る	big, fat, thick	plump, thick, big around
+都	3	3	123	11	277	188	188	ト, ツ	ト, ツ	みやこ	みやこ	capital city, metropolis	metropolis, capital, all, everything
 民	3	4	28	5	279	177	177	ミン	ミン	たみ	たみ	people, nation	people, nation, subjects
-薬	3	3	702	16	281	359		ヤク	ヤク	くすり	くすり	medicine, drug	medicine, chemical, enamel, gunpowder, benefit
+薬	3	3	702	16	281	359	360	ヤク	ヤク	くすり	くすり	medicine, drug	medicine, chemical, enamel, gunpowder, benefit
 相	3	3	45	9	282	146	146	ソウ, ショウ	ソウ, ショウ	あい	あい-	aspect, phase, each other	inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy
 愛	3	4	640	13	283	259	259	アイ	アイ		いと･しい, かな･しい, め･でる, お･しむ, まな	love	love, affection, favourite
-商	3	3	413	11	284	412		ショウ	ショウ	あきな(う)	あきな･う	trade, sell	make a deal, selling, dealing in, merchant
-遊	3	3	941	12	288	1003		ユウ, ユ	ユウ, ユ	あそ(ぶ)	あそ･ぶ, あそ･ばす	play, be idle	play
-値	3	6	518	10	289	425		チ	チ	ね, あたい	ね, あたい	value, price	price, cost, value
-与	3	8	308	3	290	539		ヨ	ヨ	あた(える)	あた･える, あずか･る, くみ･する, ともに	give, grant	bestow, participate in, give, award, impart, provide, cause, gift, godsend
+商	3	3	413	11	284	412	418	ショウ	ショウ	あきな(う)	あきな･う	trade, sell	make a deal, selling, dealing in, merchant
+遊	3	3	941	12	288	1003	1040	ユウ, ユ	ユウ, ユ	あそ(ぶ)	あそ･ぶ, あそ･ばす	play	play
+値	3	6	518	10	289	425	431	チ	チ	ね, あたい	ね, あたい	price, cost, value	price, cost, value
+与	3	8	308	3	290	539	548	ヨ	ヨ	あた(える)	あた･える, あずか･る, くみ･する, ともに	give, grant	bestow, participate in, give, award, impart, provide, cause, gift, godsend
 頭	3	2	433	16	293	276	276	トウ, ト, ズ	トウ, ズ, ト	あたま, かしら	あたま, かしら, -がしら, かぶり	head, leader, top	head, counter for large animals
 当	3	2	91	6	295	77	77	トウ	トウ	あ(てる), あ(たる)	あ･たる, あ･たり, あ･てる, あ･て, まさ･に, まさ･にべし	hit, win, allot	hit, right, appropriate, himself
-熱	3	4	700	15	297	645		ネツ	ネツ	あつ(い)	あつ･い	heat, hot, fever	heat, temperature, fever, mania, passion
-危	3	6	606	6	302	534		キ	キ	あぶ(ない), あや(うい)	あぶ･ない, あや･うい, あや･ぶむ	dangerous	dangerous, fear, uneasy
-余	3	5	680	7	306	1063		ヨ	ヨ	あま(る), あま(す)	あま･る, あま･り, あま･す, あんま･り	remainder, excess	too much, myself, surplus, other, remainder
-過	3	5	285	12	308	413		カ	カ	す(ぎる), す(ごす), あやま(ち)	す･ぎる, す･ごす, あやま･ち, あやま･つ, よぎ･る, よ･ぎる	pass, exceed, error	overdo, exceed, go beyond, error
-誤	3	6	1150	14	309	906		ゴ	ゴ	あやま(る)	あやま･る, -あやま･る	error, mistake	mistake, err, do wrong, mislead
-争	3	4	271	6	311	302	302	ソウ	ソウ	あらそ(う), あらそ(い)	あらそ･う, いか･でか	quarrel, dispute, contend	contend, dispute, argue
+熱	3	4	700	15	297	645	655	ネツ	ネツ	あつ(い)	あつ･い	heat, hot, fever	heat, temperature, fever, mania, passion
+危	3	6	606	6	302	534	543	キ	キ	あぶ(ない), あや(うい), あや(ぶむ)	あぶ･ない, あや･うい, あや･ぶむ	dangerous, fear	dangerous, fear, uneasy
+余	3	5	680	7	306	1063	1109	ヨ	ヨ	あま(る), あま(す)	あま･る, あま･り, あま･す, あんま･り	surplus, remainder	too much, myself, surplus, other, remainder
+過	3	5	285	12	308	413	419	カ	カ	す(ぎる), す(ごす), あやま(ち)	す･ぎる, す･ごす, あやま･ち, あやま･つ, よぎ･る, よ･ぎる	pass, exceed, error	overdo, exceed, go beyond, error
+誤	3	6	1150	14	309	906	928	ゴ	ゴ	あやま(る)	あやま･る, -あやま･る	error, mistake	mistake, err, do wrong, mislead
+争	3	4	271	6	311	302	302	ソウ	ソウ	あらそ(う)	あらそ･う, いか･でか	argue, dispute, contend	contend, dispute, argue
 表	3	3	77	8	313	272	272	ヒョウ	ヒョウ	おもて, あらわ(す), あらわ(れる)	おもて, -おもて, あらわ･す, あらわ･れる, あら･わす	surface, chart, express	surface, table, chart, diagram
-現	3	5	85	11	314	298	298	ゲン	ゲン	あらわ(れる), あらわ(す)	あらわ･れる, あらわ･す, うつつ, うつ･つ	present, appear	present, existing, actual
-在	3	5	211	6	316	268	268	ザイ	ザイ	あ(る)	あ･る	outskirts, country, exist	exist, outskirts, suburbs, located in
+現	3	5	85	11	314	298	298	ゲン	ゲン	あらわ(れる), あらわ(す)	あらわ･れる, あらわ･す, うつつ, うつ･つ	present, appear, show	present, existing, actual
+在	3	5	211	6	316	268	268	ザイ	ザイ	あ(る)	あ･る	exist, outskirts	exist, outskirts, suburbs, located in
 位	3	4	276	7	320	122	122	イ	イ	くらい	くらい, ぐらい	rank, position	rank, grade, throne, crown, about, some
-易	3	5	571	8	322	759		エキ, イ	エキ, イ	やさ(しい)	やさ･しい, やす･い	divination, easy, simple	easy, ready to, simple, fortune-telling, divination
-偉	3	8	1639	12	325	1053		イ	イ	えら(い)	えら･い	great, eminent	admirable, greatness, remarkable, conceited, famous, excellent
-違	3	8	344	13	326	814		イ	イ	ちが(う), ちが(える)	ちが･う, ちが･い, ちが･える, -ちが･える, たが･う, たが･える	differ, wrong	difference, differ
-怒	3	8	1221	9	327	1596		ド	ド, ヌ	いか(る), おこ(る)	いか･る, おこ･る	anger	angry, be offended
-息	3	3	882	10	328	1242		ソク	ソク	いき	いき	breath	breath, respiration, son, interest (on money), nuture, rest, coming to an end
-幾	3	8	1725	12	331	877		キ	キ	いく	いく-, いく･つ, いく･ら	how much/many, some	how many, how much, how far, how long, some, several
-育	3	3	369	8	332	246	246	イク	イク	そだ(つ), そだ(てる)	そだ･つ, そだ･ち, そだ･てる, はぐく･む	grow, raise, educate	bring up, grow up, raise, rear
-戦	3	4	78	13	333	301	301	セン	セン	いくさ, たたか(う)	いくさ, たたか･う, おのの･く, そよ･ぐ, わなな･く	fight, battle, war	war, battle, match
+易	3	5	571	8	322	759	772	エキ, イ	エキ, イ	やさ(しい)	やさ･しい, やす･い	easy, simple, divination	easy, ready to, simple, fortune-telling, divination
+偉	3	8	1639	12	325	1053	1096	イ	イ	えら(い)	えら･い	great, eminent	admirable, greatness, remarkable, conceited, famous, excellent
+違	3	8	344	13	326	814	833	イ	イ	ちが(う), ちが(える)	ちが･う, ちが･い, ちが･える, -ちが･える, たが･う, たが･える	differ, alter	difference, differ
+怒	3	8	1221	9	327	1596	1703	ド	ド, ヌ	いか(る), おこ(る)	いか･る, おこ･る	anger	angry, be offended
+息	3	3	882	10	328	1242	1308	ソク	ソク	いき	いき	breath	breath, respiration, son, interest (on money), nuture, rest, coming to an end
+幾	3	8	1725	12	331	877	897	キ	キ	いく	いく-, いく･つ, いく･ら	how much/many, some	how many, how much, how far, how long, some, several
+育	3	3	369	8	332	246	246	イク	イク	そだ(つ), そだ(てる)	そだ･つ, そだ･ち, そだ･てる, はぐく･む	grow up, raise, educate	bring up, grow up, raise, rear
+戦	3	4	78	13	333	301	301	セン	セン	いくさ, たたか(う)	いくさ, たたか･う, おのの･く, そよ･ぐ, わなな･く	battle, war	war, battle, match
 石	3	1	342	5	335	78	78	セキ, シャク	セキ, シャク, コク	いし	いし	stone	stone
-忙	3	8	1475	6	337	1373		ボウ	ボウ, モウ	いそが(しい)	いそが･しい, せわ･しい, おそ･れる, うれえるさま	busy	busy, occupied, restless
-痛	3	6	903	12	339	1320		ツウ	ツウ	いた(い), いた(む), いた(める)	いた･い, いた･む, いた･ましい, いた･める	pain	pain, hurt, damage, bruise
-抱	3	8	871	8	340	1285		ホウ	ホウ	だ(く), いだ(く), かか(える)	だ･く, いだ･く, かか･える	hug, hold, embrace	embrace, hug, hold in arms
-頂	3	6	1350	11	341	1440		チョウ	チョウ	いただき, いただ(く)	いただ･く, いただき	summit, top, receive	place on the head, receive, top of head, top, summit, peak
-否	3	6	561	7	344	1248		ヒ	ヒ	いな	いな, いや	no	negate, no, noes, refuse, decline, deny
-命	3	3	465	8	345	578		メイ,ミョウ	メイ, ミョウ	いのち	いのち	life, order, command	fate, command, decree, destiny, life, appoint
-要	3	4	106	9	347	419		ヨウ	ヨウ	い(る)	い･る, かなめ	main point, need	need, main point, essence, pivot, key to
+忙	3	8	1475	6	337	1373	1460	ボウ	ボウ, モウ	いそが(しい)	いそが･しい, せわ･しい, おそ･れる, うれえるさま	busy	busy, occupied, restless
+痛	3	6	903	12	339	1320	1402	ツウ	ツウ	いた(い), いた(む), いた(める)	いた･い, いた･む, いた･ましい, いた･める	pain, hurt	pain, hurt, damage, bruise
+抱	3	8	871	8	340	1285	1359	ホウ	ホウ	だ(く), いだ(く), かか(える)	だ･く, いだ･く, かか･える	hug, hold, embrace	embrace, hug, hold in arms
+頂	3	6	1350	11	341	1440	1530	チョウ	チョウ	いただ(く), いただき	いただ･く, いただき	summit, top, receive	place on the head, receive, top of head, top, summit, peak
+否	3	6	561	7	344	1248	1316	ヒ	ヒ	いな	いな, いや	no	negate, no, noes, refuse, decline, deny
+命	3	3	465	8	345	578	587	メイ,ミョウ	メイ, ミョウ	いのち	いのち	life, command, fate	fate, command, decree, destiny, life, appoint
+要	3	4	106	9	347	419	425	ヨウ	ヨウ	い(る), かなめ	い･る, かなめ	main point, need	need, main point, essence, pivot, key to
 居	3	5	836	8	348	171	171	キョ	キョ, コ	い(る)	い･る, -い, お･る	live, exist, be	reside, to be, exist, live with
-因	3	5	636	6	352	554		イン	イン	よ(る)	よ･る, ちな･む	cause	cause, factor, be associated with, depend on, be limited to
-初	3	4	152	7	355	679		ショ	ショ	うい, はつ, はじ(め)	はじ･め, はじ･めて, はつ, はつ-, うい-, -そ･める, -ぞ･め	first, beginning	first time, beginning
-浮	3	8	776	10	358	938		フ	フ	う(く), う(かぶ)	う･く, う･かれる, う･かぶ, う･かべる	float, surface	floating, float, rise to surface
-受	3	3	136	8	359	260	260	ジュ	ジュ	う(ける), う(かる)	う･ける, -う･け, う･かる	receive	accept, undergo, answer (phone), take, get, catch, receive
-失	3	4	447	5	361	311	311	シツ	シツ	うしな(う)	うしな･う, う･せる	lose, vanish	lose, error, fault, disadvantage, loss
-疑	3	6	283	14	363	1516		ギ	ギ	うたが(う)	うたが･う	doubt, suspect	doubt, distrust, be suspicious, question
+因	3	5	636	6	352	554	563	イン	イン	よ(る)	よ･る, ちな･む	cause, depend on	cause, factor, be associated with, depend on, be limited to
+初	3	4	152	7	355	679	692	ショ	ショ	うい, はつ, はじ(め)	はじ･め, はじ･めて, はつ, はつ-, うい-, -そ･める, -ぞ･め	first, beginning	first time, beginning
+浮	3	8	776	10	358	938	968	フ	フ	う(く), う(かぶ)	う･く, う･かれる, う･かぶ, う･かべる	float, surface	floating, float, rise to surface
+受	3	3	136	8	359	260	260	ジュ	ジュ	う(ける), う(かる)	う･ける, -う･け, う･かる	receive, accept	accept, undergo, answer (phone), take, get, catch, receive
+失	3	4	447	5	361	311	311	シツ	シツ	うしな(う)	うしな･う, う･せる	lose	lose, error, fault, disadvantage, loss
+疑	3	6	283	14	363	1516	1617	ギ	ギ	うたが(う)	うたが･う	doubt, suspect	doubt, distrust, be suspicious, question
 内	3	2	44	4	364	84	84	ナイ, ダイ	ナイ, ダイ	うち	うち	inside	inside, within, between, among, house, home
-打	3	3	239	5	365	1020		ダ	ダ, ダース	う(つ)	う･つ, う･ち-, ぶ･つ	hit, strike	strike, hit, knock, pound, dozen
-美	3	3	462	9	366	401		ビ	ビ, ミ	うつく(しい)	うつく･しい	beauty, beautiful	beauty, beautiful
+打	3	3	239	5	365	1020	1059	ダ	ダ, ダース	う(つ)	う･つ, う･ち-, ぶ･つ	hit, strike	strike, hit, knock, pound, dozen
+美	3	3	462	9	366	401	405	ビ	ビ, ミ	うつく(しい)	うつく･しい	beautiful	beauty, beautiful
 馬	3	2	639	10	369	283	283	バ	バ	うま, ま	うま, うま-, ま	horse	horse
-得	3	5	175	11	374	374		トク	トク	う(る), え(る)	え･る, う･る	gain, profit	gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit
+得	3	5	175	11	374	374	375	トク	トク	え(る), う(る)	え･る, う･る	gain, acquire, profit	gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit
 絵	3	2	895	12	375	345	345	カイ, エ	カイ, エ			picture	picture, drawing, painting, sketch
-泳	3	3	1223	8	376	1208		エイ	エイ	およ(ぐ)	およ･ぐ	swim	swim
-役	3	3	315	7	380	375		ヤク, エキ	ヤク, エキ			post, service, battle	duty, war, campaign, drafted labor, office, service, role
-越	3	8	897	12	383	1001		エツ	エツ, オツ	こ(す), こ(える)	こ･す, -こ･す, -ご･し, こ･える, -ご･え	cross, go over, exceed	surpass, cross over, move to, exceed, Vietnam
-笑	3	4	913	10	384	1235		ショウ	ショウ	わら(う), え(む)	わら･う, え･む	laugh, smile	laugh
-選	3	4	57	15	385	800		セン	セン	えら(ぶ)	えら･ぶ, え･る, よ･る	choose, select	elect, select, choose, prefer
-園	3	2	628	13	386	447		エン	エン	その	その	garden	park, garden, yard, farm
-演	3	5	267	14	388	344	344	エン	エン			act, perform, play	performance, act, play, render, stage
-煙	3	8	1290	13	390	919		エン	エン	けむり, けむ(る), けむ(い)	けむ･る, けむり, けむ･い	smoke	smoke
-緒	3	8	952	14	391	862		ショ, チョ	ショ, チョ	お	お, いとぐち	beginning, cord, thong	thong, beginning, inception, end, cord, strap, mental or emotional state
-和	3	3	124	8	393	124	124	ワ, オ	ワ, オ, カ	やわ(らぐ), なご(む)	やわ･らぐ, やわ･らげる, なご･む, なご･やか, あ･える	peace, harmony, Japanese	harmony, Japanese style, peace, soften, Japan
-老	3	4	803	6	394	543		ロウ	ロウ	お(いる), ふ(ける)	お･いる, ふ･ける	grow old	old man, old age, grow old
-負	3	3	443	9	395	510		フ	フ	ま(ける), ま(かす), お(う)	ま･ける, ま･かす, お･う	lose, beat, defeat	defeat, negative, -, minus, bear, owe, assume a responsibility
-追	3	3	411	9	396	1174		ツイ	ツイ	お(う)	お･う	chase, pursue	chase, drive away, follow, pursue, meanwhile
+泳	3	3	1223	8	376	1208	1271	エイ	エイ	およ(ぐ)	およ･ぐ	swim	swim
+役	3	3	315	7	380	375	376	ヤク, エキ	ヤク, エキ			office, service, battle	duty, war, campaign, drafted labor, office, service, role
+越	3	8	897	12	383	1001	1038	エツ	エツ, オツ	こ(す), こ(える)	こ･す, -こ･す, -ご･し, こ･える, -ご･え	cross, go over, exceed	surpass, cross over, move to, exceed, Vietnam
+笑	3	4	913	10	384	1235	1299	ショウ	ショウ	わら(う), え(む)	わら･う, え･む	laugh, smile	laugh
+選	3	4	57	15	385	800	814	セン	セン	えら(ぶ)	えら･ぶ, え･る, よ･る	choose, select	elect, select, choose, prefer
+園	3	2	628	13	386	447	454	エン	エン	その	その	garden	park, garden, yard, farm
+演	3	5	267	14	388	344	344	エン	エン			performance, play, act	performance, act, play, render, stage
+煙	3	8	1290	13	390	919	941	エン	エン	けむり, けむ(る), けむ(い)	けむ･る, けむり, けむ･い	smoke	smoke
+緒	3	8	952	14	391	862	881	ショ, チョ	ショ, チョ	お	お, いとぐち	beginning, cord, thong	thong, beginning, inception, end, cord, strap, mental or emotional state
+和	3	3	124	8	393	124	124	ワ, オ	ワ, オ, カ	やわ(らぐ), なご(む), なご(やか)	やわ･らぐ, やわ･らげる, なご･む, なご･やか, あ･える	peace, harmony, Japanese	harmony, Japanese style, peace, soften, Japan
+老	3	4	803	6	394	543	552	ロウ	ロウ	お(いる), ふ(ける)	お･いる, ふ･ける	grow old	old man, old age, grow old
+負	3	3	443	9	395	510	519	フ	フ	ま(ける), ま(かす), お(う)	ま･ける, ま･かす, お･う	defeat, carry, owe	defeat, negative, -, minus, bear, owe, assume a responsibility
+追	3	3	411	9	396	1174	1232	ツイ	ツイ	お(う)	お･う	chase, pursue, drive away	chase, drive away, follow, pursue, meanwhile
 王	3	1	684	4	397	294	294	オウ	オウ, -ノウ			king	king, rule, magnate
-横	3	3	480	15	400	781		オウ	オウ	よこ	よこ	beside, side, width	sideways, side, horizontal, width, woof, unreasonable, perverse
-押	3	8	789	8	402	986		オウ	オウ	お(す), お(さえる)	お･す, お･し-, お･っ-, お･さえる, おさ･える	push	push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of
-犯	3	5	874	5	404	882		ハン	ハン, ボン	おか(す)	おか･す	commit, violate	crime, sin, offense
-置	3	4	277	13	407	426		チ	チ	お(く)	お･く, -お･き	put, place	placement, put, set, deposit, leave behind, keep, employ, pawn
-遅	3	8	833	12	409	702		チ	チ	おそ(い), おく(れる), おく(らす)	おく･れる, おく･らす, おそ･い	late, slow	slow, late, back, later
-治	3	4	109	8	412	493		ジ, チ	ジ, チ	おさ(める), おさ(まる), なお(る), なお(す)	おさ･める, おさ･まる, なお･る, なお･す	govern, rule, cure	reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve
-収	3	6	337	4	413	757		シュウ	シュウ	おさ(める), おさ(まる)	おさ･める, おさ･まる	obtain, collect	income, obtain, reap, pay, supply, store
-恐	3	8	878	10	414	1602		キョウ	キョウ	おそ(れる), おそ(ろしい)	おそ･れる, おそ･る, おそ･ろしい, こわ･い, こわ･がる	fear, terrible, awful	fear, dread, awe
-落	3	3	420	12	415	839		ラク	ラク	お(ちる), お(とす)	お･ちる, お･ち, お･とす	fall, drop	fall, drop, come down, village, hamlet
+横	3	3	480	15	400	781	795	オウ	オウ	よこ	よこ	side, horizontal, width	sideways, side, horizontal, width, woof, unreasonable, perverse
+押	3	8	789	8	402	986	1021	オウ	オウ	お(す), お(さえる)	お･す, お･し-, お･っ-, お･さえる, おさ･える	push	push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of
+犯	3	5	874	5	404	882	903	ハン	ハン, ボン	おか(す)	おか･す	crime, commit, violate	crime, sin, offense
+置	3	4	277	13	407	426	432	チ	チ	お(く)	お･く, -お･き	put, place	placement, put, set, deposit, leave behind, keep, employ, pawn
+遅	3	8	833	12	409	702	715	チ	チ	おそ(い), おく(れる), おく(らす)	おく･れる, おく･らす, おそ･い	late, slow	slow, late, back, later
+治	3	4	109	8	412	493	502	ジ, チ	ジ, チ	おさ(める), おさ(まる), なお(る), なお(す)	おさ･める, おさ･まる, なお･る, なお･す	govern, rule, cure	reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve
+収	3	6	337	4	413	757	770	シュウ	シュウ	おさ(める), おさ(まる)	おさ･める, おさ･まる	obtain, supply	income, obtain, reap, pay, supply, store
+恐	3	8	878	10	414	1602	1709	キョウ	キョウ	おそ(れる), おそ(ろしい)	おそ･れる, おそ･る, おそ･ろしい, こわ･い, こわ･がる	fear, terrible, awful	fear, dread, awe
+落	3	3	420	12	415	839	858	ラク	ラク	お(ちる), お(とす)	お･ちる, お･ち, お･とす	fall, drop	fall, drop, come down, village, hamlet
 夫	3	4	335	4	416	315	315	フ, フウ	フ, フウ, ブ	おっと	おっと, それ	husband	husband, man
-訪	3	6	372	11	417	1181		ホウ	ホウ	たず(ねる), おとず(れる)	おとず･れる, たず･ねる, と･う	visit	call on, visit, look up, offer sympathy
-覚	3	4	710	12	421	605		カク	カク	おぼ(える), さ(める), さ(ます)	おぼ･える, さ･ます, さ･める, さと･る	remember, learn, awake	memorize, learn, remember, awake, sober up
+訪	3	6	372	11	417	1181	1240	ホウ	ホウ	たず(ねる), おとず(れる)	おとず･れる, たず･ねる, と･う	visit	call on, visit, look up, offer sympathy
+覚	3	4	710	12	421	605	615	カク	カク	おぼ(える), さ(める), さ(ます)	おぼ･える, さ･ます, さ･める, さと･る	remember, learn, awake	memorize, learn, remember, awake, sober up
 面	3	3	186	9	422	274	274	メン	メン, ベン	おも, おもて, つら	おも, おもて, つら	face, mask, surface	mask, face, features, surface
-折	3	4	962	7	423	1394		セツ	セツ, シャク	お(る), お(れる), おり	お･る, おり, お･り, -お･り, お･れる	break, fold, bend	fold, break, fracture, bend, yield, submit
-降	3	6	596	10	424	947		コウ	コウ, ゴ	お(りる), お(ろす), ふ(る)	お･りる, お･ろす, ふ･る, ふ･り, くだ･る, くだ･す	fall, come down	descend, precipitate, fall, surrender
-御	3	8	1087	12	425	708		ギョ, ゴ	ギョ, ゴ	おん	おん-, お-, み-	(honorific prefix)	honorable, manipulate, govern
+折	3	4	962	7	423	1394	1483	セツ	セツ, シャク	お(る), お(れる), おり	お･る, おり, お･り, -お･り, お･れる	break, fold, bend	fold, break, fracture, bend, yield, submit
+降	3	6	596	10	424	947	977	コウ	コウ, ゴ	お(りる), お(ろす), ふ(る)	お･りる, お･ろす, ふ･る, ふ･り, くだ･る, くだ･す	descend, fall	descend, precipitate, fall, surrender
+御	3	8	1087	12	425	708	721	ギョ, ゴ	ギョ, ゴ	おん	おん-, お-, み-	(honorific prefix)	honorable, manipulate, govern
 科	3	2	531	9	427	320	320	カ	カ			department, course	department, course, section
 化	3	3	89	4	428	254	254	カ, ケ	カ, ケ	ば(ける), ば(かす)	ば･ける, ば･かす, ふ･ける, け･する	change, bewitch	change, take the form of, influence, enchant, delude, -ization
 番	3	2	348	12	429	185	185	バン	バン		つが･い	number, order, watch	turn, number in a series
-加	3	4	130	5	431	709		カ	カ	くわ(える), くわ(わる)	くわ･える, くわ･わる	add, join	add, addition, increase, join, include, Canada
-果	3	4	258	8	432	487		カ	カ	は(たす), は(てる), は(て)	は･たす, はた･す, -は･たす, は･てる, -は･てる, は･て	fruit, end, result	fruit, reward, carry out, achieve, complete, end, finish, succeed
-可	3	5	314	5	435	388		カ	カ, コク		-べ･き, -べ･し	possible, approve	can, passable, mustn't, should not, do not
-靴	3	8	1561	13	438	1076		カ	カ	くつ	くつ	shoes	shoes
-解	3	5	176	13	443	474		カイ, ゲ	カイ, ゲ	と(く), と(ける), と(かす)	と･く, と･かす, と･ける, ほど･く, ほど･ける, わか･る, さと･る	solve, untie	unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute
-皆	3	8	1267	9	446	587		カイ	カイ	みな	みな, みんな	all, everyone, everybody	all, everything
-害	3	4	358	10	447	518		ガイ	ガイ			harm, injury, damage	harm, injury
+加	3	4	130	5	431	709	722	カ	カ	くわ(える), くわ(わる)	くわ･える, くわ･わる	add, join, increase	add, addition, increase, join, include, Canada
+果	3	4	258	8	432	487	496	カ	カ	は(たす), は(てる), は(て)	は･たす, はた･す, -は･たす, は･てる, -は･てる, は･て	fruit, end, result	fruit, reward, carry out, achieve, complete, end, finish, succeed
+可	3	5	314	5	435	388	390	カ	カ, コク		-べ･き, -べ･し	possible, approval	can, passable, mustn't, should not, do not
+靴	3	8	1561	13	438	1076	1124	カ	カ	くつ	くつ	shoes	shoes
+解	3	5	176	13	443	474	482	カイ, ゲ	カイ, ゲ	と(く), と(ける), と(かす)	と･く, と･かす, と･ける, ほど･く, ほど･ける, わか･る, さと･る	solve, untie	unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute
+皆	3	8	1267	9	446	587	596	カイ	カイ	みな	みな, みんな	all, everyone, everybody	all, everything
+害	3	4	358	10	447	518	527	ガイ	ガイ			harm, injury, damage	harm, injury
 交	3	2	178	6	448	114	114	コウ	コウ	ま(じる), まじ(わる), ま(ぜる), ま(ざる), か(う)	まじ･わる, まじ･える, ま･じる, まじ･る, ま･ざる, ま･ぜる, -か･う, か･わす, かわ･す, こもごも	exchange, mix, associate	mingle, mixing, association, coming & going
-返	3	3	685	7	449	442		ヘン	ヘン	かえ(す), かえ(る)	かえ･す, -かえ･す, かえ･る, -かえ･る	return	return, answer, fade, repay
+返	3	3	685	7	449	442	448	ヘン	ヘン	かえ(す), かえ(る)	かえ･す, -かえ･す, かえ･る, -かえ･る	return	return, answer, fade, repay
 変	3	4	238	9	451	257	257	ヘン	ヘン	か(わる), か(える)	か･わる, か･わり, か･える	change, strange	unusual, change, strange
-係	3	3	232	9	454	909		ケイ	ケイ	かか(る), かかり	かか･る, かかり, -がかり, かか･わる	charge, concern	person in charge, connection, duty, concern oneself
-掛	3	8	1027	11	455	1464			カイ, ケイ	か(ける), か(かる), かかり	か･ける, -か･ける, か･け, -か･け, -が･け, か･かる, -か･かる, -が･かる, か･かり, -が･かり, かかり, -がかり	hang, spend, multiply	hang, suspend, depend, arrive at, tax, pour
-限	3	5	405	9	456	847		ゲン	ゲン	かぎ(る)	かぎ･る, かぎ･り, -かぎ･り	limit	limit, restrict, to best of ability
-欠	3	4	860	4	457	383		ケツ	ケツ, ケン	か(く), か(ける)	か･ける, か･く	lack	lack, gap, fail, yawning radical (no. 76)
-客	3	3	557	9	459	641		カク, キャク	キャク, カク			guest, customer	guest, visitor, customer, client
-格	3	5	281	10	460	643		カク, コウ	カク, コウ, キャク, ゴウ			status, rank, case	status, rank, capacity, character, case (law, grammar)
-確	3	5	252	15	461	603		カク	カク, コウ	たし(か), たし(かめる)	たし･か, たし･かめる	certain	assurance, firm, tight, hard, solid, confirm, clear, evident
+係	3	3	232	9	454	909	931	ケイ	ケイ	かか(る), かかり	かか･る, かかり, -がかり, かか･わる	charge, connection, duty	person in charge, connection, duty, concern oneself
+掛	3	8	1027	11	455	1464	1559		カイ, ケイ	か(ける), か(かる), かかり	か･ける, -か･ける, か･け, -か･け, -が･け, か･かる, -か･かる, -が･かる, か･かり, -が･かり, かかり, -がかり	hang, spend, multiply	hang, suspend, depend, arrive at, tax, pour
+限	3	5	405	9	456	847	866	ゲン	ゲン	かぎ(る)	かぎ･る, かぎ･り, -かぎ･り	limit, restrict	limit, restrict, to best of ability
+欠	3	4	860	4	457	383	384	ケツ	ケツ, ケン	か(く), か(ける)	か･ける, か･く	lack	lack, gap, fail, yawning radical (no. 76)
+客	3	3	557	9	459	641	651	キャク, カク	キャク, カク			guest, customer	guest, visitor, customer, client
+格	3	5	281	10	460	643	653	カク, コウ	カク, コウ, キャク, ゴウ			status, rank, case	status, rank, capacity, character, case (law, grammar)
+確	3	5	252	15	461	603	613	カク	カク, コウ	たし(か), たし(かめる)	たし･か, たし･かめる	certain	assurance, firm, tight, hard, solid, confirm, clear, evident
 数	3	2	148	13	465	225	225	スウ, ス	スウ, ス, サク, ソク, シュ	かず, かぞ(える)	かず, かぞ･える, しばしば, せ･める, わずらわ･しい	number, count	number, strength, fate, law, figures
-形	3	2	418	7	466	395		ケイ, ギョウ	ケイ, ギョウ	かたち, かた	かた, -がた, かたち, なり	form, shape	shape, form, style
-難	3	6	330	18	471	557		ナン	ナン	かた(い), むずか(しい)	かた･い, -がた･い, むずか･しい, むづか･しい, むつか･しい, -にく･い	difficult, disaster	difficult, impossible, trouble, accident, defect
-勝	3	3	185	12	475	509		ショウ	ショウ	か(つ), まさ(る)	か･つ, -が･ち, まさ･る, すぐ･れる, かつ	win, excel	victory, win, prevail, excel
+形	3	2	418	7	466	395	399	ケイ, ギョウ	ケイ, ギョウ	かたち, かた	かた, -がた, かたち, なり	form, shape	shape, form, style
+難	3	6	330	18	471	557	566	ナン	ナン	かた(い), むずか(しい)	かた･い, -がた･い, むずか･しい, むづか･しい, むつか･しい, -にく･い	difficult	difficult, impossible, trouble, accident, defect
+勝	3	3	185	12	475	509	518	ショウ	ショウ	か(つ), まさ(る)	か･つ, -が･ち, まさ･る, すぐ･れる, かつ	win, excel	victory, win, prevail, excel
 活	3	2	171	9	476	237	237	カツ	カツ	い(きる), い(かす), い(ける)	い･きる, い･かす, い･ける	life, activity	lively, resuscitation, being helped, living
-割	3	6	318	12	477	519		カツ	カツ	わ(る), わ(れる), わり, さ(く)	わ･る, わり, わ･り, わ･れる, さ･く	divide, break, rate	proportion, comparatively, divide, cut, separate, split
-悲	3	3	1014	12	479	1034		ヒ	ヒ	かな(しい), かな(しむ)	かな･しい, かな･しむ	sad, lament	grieve, sad, deplore, regret
-必	3	4	265	5	480	520		ヒツ	ヒツ	かなら(ず)	かなら･ず	surely, invariably	invariably, certain, inevitable
-彼	3	8	648	8	481	977		ヒ	ヒ	かれ, かの	かれ, かの, か･の	he, that	he, that, the
-構	3	5	316	14	482	1010		コウ	コウ	かま(う), かま(える)	かま･える, かま･う	structure, posture, mind	posture, build, pretend
-神	3	3	347	9	483	310	310	シン, ジン	シン, ジン	かみ, かん, こう	かみ, かん-, こう-	god	gods, mind, soul
-髪	3	8	1474	14	484	1148		ハツ	ハツ	かみ	かみ	hair	hair of the head
-側	3	4	216	11	489	609		ソク	ソク	かわ	かわ, がわ, そば	side	side, lean, oppose, regret
+割	3	6	318	12	477	519	528	カツ	カツ	わ(る), わ(れる), わり, さ(く)	わ･る, わり, わ･り, わ･れる, さ･く	divide, split, proportion	proportion, comparatively, divide, cut, separate, split
+悲	3	3	1014	12	479	1034	1075	ヒ	ヒ	かな(しい), かな(しむ)	かな･しい, かな･しむ	sad, regret	grieve, sad, deplore, regret
+必	3	4	265	5	480	520	529	ヒツ	ヒツ	かなら(ず)	かなら･ず	surely, invariably	invariably, certain, inevitable
+彼	3	8	648	8	481	977	1010	ヒ	ヒ	かれ, かの	かれ, かの, か･の	he, that	he, that, the
+構	3	5	316	14	482	1010	1048	コウ	コウ	かま(う), かま(える)	かま･える, かま･う	build, set up, mind, care about	posture, build, pretend
+神	3	3	347	9	483	310	310	シン, ジン	シン, ジン	かみ	かみ, かん-, こう-	god	gods, mind, soul
+髪	3	8	1474	14	484	1148	1201	ハツ	ハツ	かみ	かみ	hair	hair of the head
+側	3	4	216	11	489	609	619	ソク	ソク	かわ	かわ, がわ, そば	side	side, lean, oppose, regret
 感	3	3	233	13	491	262	262	カン	カン			feeling, sensation	emotion, feeling, sensation
-完	3	4	595	7	492	613		カン	カン			complete, perfect	perfect, completion, end
-官	3	4	230	8	493	326	326	カン	カン			government	bureaucrat, the government, organ
-関	3	4	70	14	495	398		カン	カン	せき	せき, -ぜき, かか･わる, からくり, かんぬき	concern, barrier	connection, barrier, gateway, involve, concerning
-観	3	4	476	18	496	604		カン	カン		み･る, しめ･す	appearance, view	outlook, look, appearance, condition, view
-慣	3	5	1177	14	498	915		カン	カン	な(れる), な(らす)	な･れる, な･らす	custom, habit	accustomed, get used to, become experienced
-雪	3	2	1131	11	505	949		セツ	セツ	ゆき	ゆき	snow	snow
-晴	3	2	1022	12	506	662		セイ	セイ	は(れる), は(らす)	は･れる, は･れ, は･れ-, -ば･れ, は･らす	clear, fair	clear up
-予	3	3	180	4	511	393		ヨ	ヨ, シャ		あらかじ･め	previously, in advance	beforehand, previous, myself, I
-定	3	3	48	8	512	355		テイ, ジョウ	テイ, ジョウ	さだ(める), さだ(まる), さだ(か)	さだ･める, さだ･まる, さだ･か	decide, determine	determine, fix, establish, decide
+完	3	4	595	7	492	613	623	カン	カン			complete, perfect	perfect, completion, end
+官	3	4	230	8	493	326	326	カン	カン			government, bureaucrat	bureaucrat, the government, organ
+関	3	4	70	14	495	398	402	カン	カン	せき, かか(わる)	せき, -ぜき, かか･わる, からくり, かんぬき	connection, barrier	connection, barrier, gateway, involve, concerning
+観	3	4	476	18	496	604	614	カン	カン		み･る, しめ･す	outlook, appearance, view	outlook, look, appearance, condition, view
+慣	3	5	1177	14	498	915	937	カン	カン	な(れる), な(らす)	な･れる, な･らす	accustomed, get used to	accustomed, get used to, become experienced
+雪	3	2	1131	11	505	949	979	セツ	セツ	ゆき	ゆき	snow	snow
+晴	3	2	1022	12	506	662	673	セイ	セイ	は(れる), は(らす)	は･れる, は･れ, は･れ-, -ば･れ, は･らす	clear up	clear up
+予	3	3	180	4	511	393	397	ヨ	ヨ, シャ		あらかじ･め	previously, in advance	beforehand, previous, myself, I
+定	3	3	48	8	512	355	356	テイ, ジョウ	テイ, ジョウ	さだ(める), さだ(まる), さだ(か)	さだ･める, さだ･まる, さだ･か	decide, determine	determine, fix, establish, decide
 約	3	4	94	9	513	211	211	ヤク	ヤク		つづ･まる, つづ･める, つづま･やか	approximately, promise	promise, approximately, shrink
-末	3	4	456	5	514	305	305	マツ	マツ, バツ	すえ	すえ, うら, うれ	end	end, close, tip, powder, posterity
-達	3	4	500	12	515	448		タツ, ダチ	タツ, ダ	たち	-たち	reach, gain, achieve	accomplished, reach, arrive, attain
-願	3	4	894	19	516	581		ガン	ガン	ねが(う)	ねが･う, -ねがい	wish, desire, request	petition, request, vow, wish, hope
+末	3	4	456	5	514	305	305	マツ, バツ	マツ, バツ	すえ	すえ, うら, うれ	end	end, close, tip, powder, posterity
+達	3	4	500	12	515	448	455	タツ	タツ, ダ	たち	-たち	reach, arrive	accomplished, reach, arrive, attain
+願	3	4	894	19	516	581	590	ガン	ガン	ねが(う)	ねが･う, -ねがい	petition, request, desire	petition, request, vow, wish, hope
 葉	3	3	414	12	518	253	253	ヨウ	ヨウ	は	は	leaf, foliage	leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece
-払	3	8	813	5	519	582		フツ	フツ, ヒツ, ホツ	はら(う)	はら･う, -はら･い, -ばら･い	pay, sweep away	pay, clear out, prune, banish, dispose of
+払	3	8	813	5	519	582	591	フツ	フツ, ヒツ, ホツ	はら(う)	はら･う, -はら･い, -ばら･い	pay, sweep away	pay, clear out, prune, banish, dispose of
 調	3	3	87	15	521	342	342	チョウ	チョウ	しら(べる), ととの(う), ととの(える)	しら･べる, しら･べ, ととの･う, ととの･える	investigate, check, prepare	tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate
-探	3	6	930	11	522	535		タン	タン	さぐ(る), さが(す)	さぐ･る, さが･す	search, look for	grope, search, look for
+探	3	6	930	11	522	535	544	タン	タン	さぐ(る), さが(す)	さぐ･る, さが･す	search, look for	grope, search, look for
 記	3	2	149	10	524	371	372	キ	キ	しる(す)	しる･す	write/note down	scribe, account, narrative
-期	3	3	117	12	525	449		キ, ゴ	キ, ゴ			time, period, term	period, time, date, term
-喜	3	5	769	12	527	1143		キ	キ	よろこ(ぶ)	よろこ･ぶ, よろこ･ばす	joy, delight	rejoice, take pleasure in
-機	3	4	127	16	528	528		キ	キ	はた	はた	opportunity, machine, loom	loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion
-規	3	5	349	11	529	607		キ	キ			rule, standard	standard, measure
-寄	3	5	673	11	530	1361		キ	キ	よ(る), よ(せる)	よ･る, -よ･り, よ･せる	approach, meet, gather	draw near, stop in, bring near, gather, collect, send, forward
-議	3	4	25	20	532	292	292	ギ	ギ			consult, discuss	deliberation, consultation, debate, consideration
-寝	3	8	1034	13	533	1079		シン	シン	ね(る), ね(かす)	ね･る, ね･かす, い･ぬ, みたまや, や･める	go to bed, sleep	lie down, sleep, rest, bed, remain unsold
+期	3	3	117	12	525	449	456	キ, ゴ	キ, ゴ			time, period, term	period, time, date, term
+喜	3	5	769	12	527	1143	1196	キ	キ	よろこ(ぶ)	よろこ･ぶ, よろこ･ばす	rejoice, delight	rejoice, take pleasure in
+機	3	4	127	16	528	528	537	キ	キ	はた	はた	machine, loom, opportunity	loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion
+規	3	5	349	11	529	607	617	キ	キ			standard, measure	standard, measure
+寄	3	5	673	11	530	1361	1445	キ	キ	よ(る), よ(せる)	よ･る, -よ･り, よ･せる	draw near, gather, send	draw near, stop in, bring near, gather, collect, send, forward
+議	3	4	25	20	532	292	292	ギ	ギ			deliberation	deliberation, consultation, debate, consideration
+寝	3	8	1034	13	533	1079	1127	シン	シン	ね(る), ね(かす)	ね･る, ね･かす, い･ぬ, みたまや, や･める	go to bed, sleep	lie down, sleep, rest, bed, remain unsold
 取	3	3	122	8	534	65	65	シュ	シュ	と(る)	と･る, と･り, と･り-, とり, -ど･り	take	take, fetch, take up
-消	3	3	345	10	535	845		ショウ	ショウ	け(す), き(える)	き･える, け･す	extinguish, go out, disappear	extinguish, blow out, turn off, neutralize, cancel
-頼	3	8	708	16	536	1512		ライ	ライ	たの(む), たの(もしい), たよ(る)	たの･む, たの･もしい, たよ･る	request, ask, rely	trust, request
-伝	3	4	416	6	537	434		デン	デン, テン	つた(う), つた(える), つた(わる)	つた･わる, つた･える, つた･う, つだ･う, -づた･い, つて	tell, report, transmit	transmit, go along, walk along, follow, report, communicate, legend, tradition
+消	3	3	345	10	535	845	864	ショウ	ショウ	け(す), き(える)	き･える, け･す	extinguish, go out, disappear	extinguish, blow out, turn off, neutralize, cancel
+頼	3	8	708	16	536	1512	1613	ライ	ライ	たの(む), たの(もしい), たよ(る)	たの･む, たの･もしい, たよ･る	request, ask, rely	trust, request
+伝	3	4	416	6	537	434	440	デン	デン, テン	つた(える), つた(わる), つた(う)	つた･わる, つた･える, つた･う, つだ･う, -づた･い, つて	tell, report, transmit	transmit, go along, walk along, follow, report, communicate, legend, tradition
 利	3	4	203	7	541	329	329	リ	リ	き(く)	き･く	advantage, profit	profit, advantage, benefit
-刻	3	6	866	8	544	1211		コク	コク	きざ(む)	きざ･む, きざ･み	cut, chop, engrave	engrave, cut fine, chop, hash, mince, time, carving
+刻	3	6	866	8	544	1211	1274	コク	コク	きざ(む)	きざ･む, きざ･み	carve, chop, engrave	engrave, cut fine, chop, hash, mince, time, carving
 宿	3	3	701	11	547	179	179	シュク	シュク	やど, やど(る), やど(す)	やど, やど･る, やど･す	lodging, inn, shelter	inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling
-法	3	4	100	8	548	123	123	ホウ, ハツ	ホウ, ハッ, ホッ, フラン		のり	law	method, law, rule, principle, model, system
+法	3	4	100	8	548	123	123	ホウ, ハッ, ホッ	ホウ, ハッ, ホッ, フラン		のり	method, law	method, law, rule, principle, model, system
 局	3	3	286	7	551	170	170	キョク	キョク		つぼね	bureau, office	bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment
 部	3	3	36	11	552	86	86	ブ	ブ		-べ	part, section	section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine
-号	3	3	585	5	553	266	266	ゴウ	ゴウ		さけ･ぶ, よびな	number, title	nickname, number, item, title, pseudonym, name, call
-忘	3	6	1129	7	554	1374		ボウ	ボウ	わす(れる)	わす･れる	forget	forget
+号	3	3	585	5	553	266	266	ゴウ	ゴウ		さけ･ぶ, よびな	number, nickname	nickname, number, item, title, pseudonym, name, call
+忘	3	6	1129	7	554	1374	1461	ボウ	ボウ	わす(れる)	わす･れる	forget	forget
 両	3	3	247	6	557	200	200	リョウ	リョウ		てる, ふたつ	both	both, old Japanese coin, counter for carriages (e.g., in a train), two
-供	3	6	313	8	558	197	197	キョウ, ク	キョウ, ク, クウ, グ	とも, そな(える)	そな･える, とも, -ども	attendant, offer	submit, offer, present, serve (meal), accompany
-決	3	3	71	7	562	356		ケツ	ケツ	き(める), き(まる)	き･める, -ぎ･め, き･まる, さ･く	decide	decide, fix, agree upon, appoint
-君	3	3	947	7	563	793		クン	クン	きみ	きみ, -ぎみ	you, ruler	mister, you, ruler, male name suffix
-球	3	3	302	11	566	726		キュウ	キュウ	たま	たま	ball, sphere	ball, sphere
-求	3	4	220	7	567	724		キュウ	キュウ, グ	もと(める)	もと･める	want, request, demand, seek	request, want, wish for, require, demand
-給	3	4	615	12	570	346	346	キュウ	キュウ		たま･う, たも･う, -たま･え	supply	salary, wage, gift, allow, grant, bestow on
-静	3	4	764	14	572	663		セイ, ジョウ	セイ, ジョウ	しず(か), しず(まる), しず(める)	しず-, しず･か, しず･まる, しず･める	quite, peaceful	quiet
-婚	3	8	767	11	574	567		コン	コン			marriage	marriage
-式	3	3	251	6	575	525		シキ	シキ			ceremony, style, method	style, ceremony, rite, function, method, system, form, expression
-閉	3	6	951	11	576	397		ヘイ	ヘイ	し(める), し(まる), と(じる), と(ざす)	と･じる, と･ざす, し･める, し･まる, た･てる	close, shut	closed, shut
-招	3	5	840	8	577	455		ショウ	ショウ	まね(く)	まね･く	summon, invite	beckon, invite, summon, engage
-留	3	5	731	10	578	761		リュウ, ル	リュウ, ル	と(まる), と(める)	と･める, と･まる, とど･める, とど･まる, るうぶる	stay, fasten	detain, fasten, halt, stop
-吸	3	6	1054	6	581	1256		キュウ	キュウ	す(う)	す･う	inhale, suck, smoke	suck, imbibe, inhale, sip
-許	3	5	720	11	582	737		キョ	キョ	ゆる(す)	ゆる･す, もと	permit, pardon	permit, approve
+供	3	6	313	8	558	197	197	キョウ, ク	キョウ, ク, クウ, グ	そな(える), とも 	そな･える, とも, -ども	attendant, offer	submit, offer, present, serve (meal), accompany
+決	3	3	71	7	562	356	357	ケツ	ケツ	き(める), き(まる)	き･める, -ぎ･め, き･まる, さ･く	decide	decide, fix, agree upon, appoint
+君	3	3	947	7	563	793	807	クン	クン	きみ	きみ, -ぎみ	you, ruler	mister, you, ruler, male name suffix
+球	3	3	302	11	566	726	739	キュウ	キュウ	たま	たま	ball, sphere	ball, sphere
+求	3	4	220	7	567	724	737	キュウ	キュウ, グ	もと(める)	もと･める	want, request, demand	request, want, wish for, require, demand
+給	3	4	615	12	570	346	346	キュウ	キュウ		たま･う, たも･う, -たま･え	supply, salary	salary, wage, gift, allow, grant, bestow on
+静	3	4	764	14	572	663	674	セイ, ジョウ	セイ, ジョウ	しず(か), しず(まる), しず(める)	しず-, しず･か, しず･まる, しず･める	quiet, peaceful	quiet
+婚	3	8	767	11	574	567	576	コン	コン			marriage	marriage
+式	3	3	251	6	575	525	534	シキ	シキ			ceremony, style, method	style, ceremony, rite, function, method, system, form, expression
+閉	3	6	951	11	576	397	401	ヘイ	ヘイ	し(める), し(まる), と(じる), と(ざす)	と･じる, と･ざす, し･める, し･まる, た･てる	close, shut	closed, shut
+招	3	5	840	8	577	455	462	ショウ	ショウ	まね(く)	まね･く	summon, invite	beckon, invite, summon, engage
+留	3	5	731	10	578	761	774	リュウ, ル	リュウ, ル	と(まる), と(める)	と･める, と･まる, とど･める, とど･まる, るうぶる	detain, fasten, stop	detain, fasten, halt, stop
+吸	3	6	1054	6	581	1256	1327	キュウ	キュウ	す(う)	す･う	inhale, suck, smoke	suck, imbibe, inhale, sip
+許	3	5	720	11	582	737	750	キョ	キョ	ゆる(す)	ゆる･す, もと	permit, allow	permit, approve
 共	3	4	174	6	585	196	196	キョウ	キョウ	とも	とも, とも･に, -ども	together, both	together, both, neither, all, and, alike, with
-経	3	5	79	11	587	548		ケイ, キョウ	ケイ, キョウ, キン	へ(る)	へ･る, た･つ, たていと, はか･る, のり	longitude, pass, elapse	sutra, longitude, pass thru, expire, warp
-曲	3	3	810	6	594	366		キョク	キョク	ま(がる), ま(げる)	ま･がる, ま･げる, くま	music, melody, bend, curve	bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean
+経	3	5	79	11	587	548	557	ケイ, キョウ	ケイ, キョウ, キン	へ(る), た(つ)	へ･る, た･つ, たていと, はか･る, のり	longitude, pass, elapse, sutra	sutra, longitude, pass thru, expire, warp
+曲	3	3	810	6	594	366	367	キョク	キョク	ま(がる), ま(げる)	ま･がる, ま･げる, くま	music, melody, bend, curve	bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean
 向	3	3	182	6	595	199	199	コウ	コウ	む(く), む(ける), む(かう), む(こう)	む･く, む･い, -む･き, む･ける, -む･け, む･かう, む･かい, む･こう, む･こう-, むこ, むか･い	face, turn, opposite	yonder, facing, beyond, confront, defy, tend toward, approach
-渡	3	8	446	12	597	378		ト	ト	わた(る), わた(す)	わた･る, -わた･る, わた･す	cross, hand over	transit, ford, ferry, cross, import, deliver, diameter, migrate
-差	3	4	449	10	598	658		サ	サ	さ(す)	さ･す, さ･し	difference	distinction, difference, variation, discrepancy, margin, balance
-際	3	5	183	14	601	618		サイ	サイ	きわ	きわ, -ぎわ	edge, occasion	occasion, side, edge, verge, dangerous, adventurous, indecent, time, when
-点	3	2	165	9	604	169	169	テン	テン		つ･ける, つ･く, た･てる, さ･す, とぼ･す, とも･す, ぼち	point, dot	spot, point, mark, speck, decimal point
-勤	3	6	830	12	605	559		キン, ゴン	キン, ゴン	つと(める), つと(まる)	つと･める, -づと･め, つと･まる, いそ･しむ	serve, work	diligence, become employed, serve
-苦	3	3	623	8	606	545		ク	ク	くる(しい), くる(しむ), くる(しめる), にが(い), にが(る)	くる･しい, -ぐる･しい, くる･しむ, くる･しめる, にが･い, にが･る	suffer, bitter, painful	suffering, trial, worry, hardship, feel bitter, scowl
-具	3	3	629	8	609	420		グ	グ		そな･える, つぶさ･に	tool, ingredients	tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture
-偶	3	8	1602	11	610	1639		グウ	グウ		たま	couple, even, accidental	accidentally, even number, couple, man & wife, same kind
+渡	3	8	446	12	597	378	379	ト	ト	わた(る), わた(す)	わた･る, -わた･る, わた･す	cross, hand over	transit, ford, ferry, cross, import, deliver, diameter, migrate
+差	3	4	449	10	598	658	669	サ	サ	さ(す)	さ･す, さ･し	difference	distinction, difference, variation, discrepancy, margin, balance
+際	3	5	183	14	601	618	628	サイ	サイ	きわ	きわ, -ぎわ	occasion, edge, side	occasion, side, edge, verge, dangerous, adventurous, indecent, time, when
+点	3	2	165	9	604	169	169	テン	テン	つ(く), つ(ける)	つ･ける, つ･く, た･てる, さ･す, とぼ･す, とも･す, ぼち	point, dot	spot, point, mark, speck, decimal point
+勤	3	6	830	12	605	559	568	キン, ゴン	キン, ゴン	つと(める), つと(まる)	つと･める, -づと･め, つと･まる, いそ･しむ	serve, work	diligence, become employed, serve
+苦	3	3	623	8	606	545	554	ク	ク	くる(しい), くる(しむ), くる(しめる), にが(い), にが(る)	くる･しい, -ぐる･しい, くる･しむ, くる･しめる, にが･い, にが･る	suffer, bitter, painful	suffering, trial, worry, hardship, feel bitter, scowl
+具	3	3	629	8	609	420	426	グ	グ		そな･える, つぶさ･に	tool, ingredients	tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture
+偶	3	8	1602	11	610	1639	1752	グウ	グウ		たま	couple, even, accidental	accidentally, even number, couple, man & wife, same kind
 草	3	1	967	9	612	249	249	ソウ	ソウ	くさ	くさ, くさ-, -ぐさ	grass	grass, weeds, herbs, pasture, write, draft
-配	3	3	359	10	614	515		ハイ	ハイ	くば(る)	くば･る	distribute, deliver	distribute, spouse, exile, rationing
+配	3	3	359	10	614	515	524	ハイ	ハイ	くば(る)	くば･る	distribute, deliver	distribute, spouse, exile, rationing
 組	3	2	204	11	615	418	424	ソ	ソ	くみ, く(む)	く･む, くみ, -ぐみ	class, crew, assemble	association, braid, plait, construct, assemble, unite, cooperate, grapple
-暮	3	6	978	14	618	1428		ボ	ボ	く(れる), く(らす)	く･れる, く･らす	grow dark, live	evening, twilight, season's end, livelihood, make a living, spend time
-景	3	4	419	12	624	853		ケイ	ケイ			view, scene	scenery, view
-警	3	6	366	19	625	706		ケイ	ケイ		いまし･める	admonish, warn	admonish, commandment
-迎	3	8	625	7	627	1055		ゲイ	ゲイ	むか(える)	むか･える	meet, welcome, invite	welcome, meet, greet
-険	3	5	707	11	630	533		ケン	ケン	けわ(しい)	けわ･しい	steep, severe	precipitous, inaccessible place, impregnable position, steep place, sharp eyes
-件	3	5	212	6	631	732		ケン	ケン		くだん	matter, affair, case	affair, case, matter, item
+暮	3	6	978	14	618	1428	1517	ボ	ボ	く(れる), く(らす)	く･れる, く･らす	grow dark, livelihood	evening, twilight, season's end, livelihood, make a living, spend time
+景	3	4	419	12	624	853	872	ケイ	ケイ			view, scene	scenery, view
+警	3	6	366	19	625	706	719	ケイ	ケイ		いまし･める	admonish, warn	admonish, commandment
+迎	3	8	625	7	627	1055	1098	ゲイ	ゲイ	むか(える)	むか･える	meet, welcome	welcome, meet, greet
+険	3	5	707	11	630	533	542	ケン	ケン	けわ(しい)	けわ･しい	steep, severe	precipitous, inaccessible place, impregnable position, steep place, sharp eyes
+件	3	5	212	6	631	732	745	ケン	ケン		くだん	matter, affair, case	affair, case, matter, item
 権	3	6	156	15	634	335	335	ケン, ゴン	ケン, ゴン		おもり, かり, はか･る	authority, power, right	authority, power, rights
 原	3	2	172	10	636	136	136	ゲン	ゲン	はら	はら	original, plain, field	meadow, original, primitive, field, plain, prairie, tundra, wilderness
-呼	3	6	498	8	642	1254		コ	コ	よ(ぶ)	よ･ぶ	call, invite	call, call out to, invite
-互	3	8	914	4	644	907		ゴ	ゴ	たが(い)	たが･い, かたみ･に	mutual, each other	mutually, reciprocally, together
-幸	3	3	786	8	647	684		コウ	コウ	さいわ(い), さち, しあわ(せ)	さいわ･い, さち, しあわ･せ	happiness, good fortune	happiness, blessing, fortune
-港	3	3	495	12	648	669		コウ	コウ	みなと	みなと	harbor, port	harbor
-候	3	4	510	10	649	944		コウ	コウ	そうろう	そうろう	season, weather, serve	climate, season, weather, wait for, expect
-雑	3	5	839	14	653	575		ザツ, ゾウ	ザツ, ゾウ		まじ･える, まじ･る	miscellaneous, mix	miscellaneous
-辞	3	4	633	13	655	688		ジ	ジ	や(める)	や･める, いな･む	word, resign	resign, word, term, expression
-昨	3	4	226	9	656	361		サク	サク			past, yesterday	yesterday, previous
-礼	3	3	1185	5	659	620		レイ, ライ	レイ, ライ			courtesy, gratitude	salute, bow, ceremony, thanks, remuneration
-欲	3	6	902	11	660	1127		ヨク	ヨク	ほっ(する), ほ(しい)	ほっ･する, ほ･しい	greed, desire, want	longing, covetousness, greed, passion, desire, craving
-更	3	8	861	7	662	1008		コウ	コウ	さら, ふ(ける), ふ(かす)	さら, さら･に, ふ･ける, ふ･かす	anew, grow late	grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further
-告	3	5	188	7	670	690		コク	コク	つ(げる)	つ･げる	tell, inform	revelation, tell, inform, announce
-断	3	5	338	11	673	1024		ダン	ダン	ことわ(る), た(つ)	た･つ, ことわ･る, さだ･める	judgment, decline, cut off	severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting
-困	3	6	843	7	675	558		コン	コン	こま(る)	こま･る	be distressed	quandary, become distressed, annoyed
-込	3	8	675	5	676	776				こ(む), こ(める)	-こ･む, こ･む, こ･み, -こ･み, こ･める	be crowded, include	crowded, mixture, in bulk, included, (kokuji)
+呼	3	6	498	8	642	1254	1325	コ	コ	よ(ぶ)	よ･ぶ	call, invite	call, call out to, invite
+互	3	8	914	4	644	907	929	ゴ	ゴ	たが(い)	たが･い, かたみ･に	mutual, each other	mutually, reciprocally, together
+幸	3	3	786	8	647	684	697	コウ	コウ	さいわ(い), さち, しあわ(せ)	さいわ･い, さち, しあわ･せ	happiness, fortune	happiness, blessing, fortune
+港	3	3	495	12	648	669	680	コウ	コウ	みなと	みなと	harbor, port	harbor
+候	3	4	510	10	649	944	974	コウ	コウ	そうろう	そうろう	climate, season, weather	climate, season, weather, wait for, expect
+雑	3	5	839	14	653	575	584	ザツ, ゾウ	ザツ, ゾウ		まじ･える, まじ･る	miscellaneous, mix	miscellaneous
+辞	3	4	633	13	655	688	701	ジ	ジ	や(める)	や･める, いな･む	word, resign	resign, word, term, expression
+昨	3	4	226	9	656	361	362	サク	サク			past, yesterday	yesterday, previous
+礼	3	3	1185	5	659	620	630	レイ, ライ	レイ, ライ			thanks, gratitude	salute, bow, ceremony, thanks, remuneration
+欲	3	6	902	11	660	1127	1179	ヨク	ヨク	ほ(しい), ほっ(する)	ほっ･する, ほ･しい	greed, desire, want	longing, covetousness, greed, passion, desire, craving
+更	3	8	861	7	662	1008	1045	コウ	コウ	さら, ふ(ける), ふ(かす)	さら, さら･に, ふ･ける, ふ･かす	anew, grow late	grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further
+告	3	5	188	7	670	690	703	コク	コク	つ(げる)	つ･げる	tell, inform, announce	revelation, tell, inform, announce
+断	3	5	338	11	673	1024	1063	ダン	ダン	ことわ(る), た(つ)	た･つ, ことわ･る, さだ･める	judgment, decline, cut off	severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting
+困	3	6	843	7	675	558	567	コン	コン	こま(る)	こま･る	distressed	quandary, become distressed, annoyed
+込	3	8	675	5	676	776	790			こ(む), こ(める)	-こ･む, こ･む, こ･み, -こ･み, こ･める	be crowded, include	crowded, mixture, in bulk, included, (kokuji)
 米	3	2	61	6	677	224	224	ベイ, マイ	ベイ, マイ, メエトル	こめ	こめ, よね	rice, America	rice, USA, metre
-殺	3	5	581	10	678	576		サツ, サイ, セツ	サツ, サイ, セツ	ころ(す)	ころ･す, -ごろ･し, そ･ぐ	kill	kill, murder, butcher, slice off, split, diminish, reduce, spoil
-怖	3	8	1325	8	679	1814		フ	フ, ホ	こわ(い)	こわ･い, こわ･がる, お･じる, おそ･れる	frightening, dreadful	dreadful, be frightened, fearful
-職	3	5	305	18	683	385		ショク	ショク, ソク			employment, job	post, employment, work
-談	3	3	272	15	684	593		ダン	ダン			conversation	discuss, talk
+殺	3	5	581	10	678	576	585	サツ, サイ, セツ	サツ, サイ, セツ	ころ(す)	ころ･す, -ごろ･し, そ･ぐ	kill	kill, murder, butcher, slice off, split, diminish, reduce, spoil
+怖	3	8	1325	8	679	1814	1959	フ	フ, ホ	こわ(い)	こわ･い, こわ･がる, お･じる, おそ･れる	frightening, dreadful	dreadful, be frightened, fearful
+職	3	5	305	18	683	385	386	ショク	ショク, ソク			employment, job	post, employment, work
+談	3	3	272	15	684	593	603	ダン	ダン			discussion, conversation	discuss, talk
 申	3	3	492	5	688	309	309	シン	シン	もう(す)	もう･す, もう･し-, さる	say, be called	have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac
 働	3	4	417	13	689	232	232	ドウ	ドウ	はたら(く)	はたら･く	work, labor	work, (kokuji)
 付	3	4	322	5	690	192	192	フ	フ	つ(く), つ(ける)	つ･ける, -つ･ける, -づ･ける, つ･け, つ･け-, -つ･け, -づ･け, -づけ, つ･く, -づ･く, つ･き, -つ･き, -つき, -づ･き, -づき	attach, append	adhere, attach, refer to, append
-助	3	3	397	7	691	623		ジョ	ジョ	たす(ける), たす(かる)	たす･ける, たす･かる, す･ける, すけ	help, assist, rescue	help, rescue, assist
-連	3	4	30	10	692	440		レン	レン	つ(れる), つら(ねる), つら(なる)	つら･なる, つら･ねる, つ･れる, -づ･れ	group, take, line up	take along, lead, join, connect, party, gang, clique
-座	3	6	588	10	696	786		ザ	ザ	すわ(る)	すわ･る	sit, seat	squat, seat, cushion, gathering, sit
-才	3	2	1497	3	697	551		サイ	サイ			talent, genius	genius, years old, cubic shaku
+助	3	3	397	7	691	623	633	ジョ	ジョ	たす(ける), たす(かる), すけ	たす･ける, たす･かる, す･ける, すけ	help, assist, rescue	help, rescue, assist
+連	3	4	30	10	692	440	446	レン	レン	つ(れる), つら(ねる), つら(なる)	つら･なる, つら･ねる, つ･れる, -づ･れ	take, lead, group	take along, lead, join, connect, party, gang, clique
+座	3	6	588	10	696	786	800	ザ	ザ	すわ(る)	すわ･る	sit, seat	squat, seat, cushion, gathering, sit
+才	3	2	1497	3	697	551	560	サイ	サイ			talent, ability, age	genius, years old, cubic shaku
 最	3	4	82	12	699	263	263	サイ	サイ, シュ	もっと(も)	もっと･も, つま	most, extreme	utmost, most, extreme
-妻	3	5	691	8	700	671		サイ	サイ	つま	つま	wife	wife, spouse
-済	3	6	168	11	702	549		サイ	サイ, セイ	す(む), す(ます)	す･む, -ず･み, -ずみ, す･まない, す･ます, -す･ます, すく･う, な･す, わたし, わた･る	finish, settle	settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not
-歳	3	8	269	13	703	479		サイ, セイ	サイ, セイ		とし, とせ, よわい	year, age	year-end, age, occasion, opportunity
-財	3	5	494	10	704	553		ザイ, サイ	ザイ, サイ, ゾク		たから	wealth, property	property, money, wealth, assets
-罪	3	5	732	13	705	885		ザイ	ザイ	つみ	つみ	sin, crime, guilt	guilt, sin, crime, fault, blame, offense
-酒	3	3	1006	10	707	517		シュ	シュ	さけ, さか	さけ, さか-	sake, alcohol	sake, alcohol
-杯	3	8	1235	8	709	1155		ハイ	ハイ	さかずき	さかずき	sake cup	counter for cupfuls, wine glass, glass, toast
+妻	3	5	691	8	700	671	682	サイ	サイ	つま	つま	wife	wife, spouse
+済	3	6	168	11	702	549	558	サイ	サイ, セイ	す(む), す(ます)	す･む, -ず･み, -ずみ, す･まない, す･ます, -す･ます, すく･う, な･す, わたし, わた･る	finish, settle	settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not
+歳	3	8	269	13	703	479	487	サイ, セイ	サイ, セイ		とし, とせ, よわい	years old, year-end	year-end, age, occasion, opportunity
+財	3	5	494	10	704	553	562	ザイ, サイ	ザイ, サイ, ゾク		たから	money, wealth, property	property, money, wealth, assets
+罪	3	5	732	13	705	885	906	ザイ	ザイ	つみ	つみ	sin, crime, guilt	guilt, sin, crime, fault, blame, offense
+酒	3	3	1006	10	707	517	526	シュ	シュ	さけ, さか	さけ, さか-	sake, alcohol	sake, alcohol
+杯	3	8	1235	8	709	1155	1210	ハイ	ハイ	さかずき	さかずき	sake cup	counter for cupfuls, wine glass, glass, toast
 支	3	5	159	4	712	318	318	シ	シ	ささ(える)	ささ･える, つか･える, か･う	branch, support	branch, support, sustain, branch radical (no. 65)
-指	3	3	155	9	714	1041		シ	シ	ゆび, さ(す)	ゆび, さ･す, -さ･し	finger, point	finger, point to, indicate, put into, play (chess), measure (ruler)
-察	3	4	477	14	717	619		サツ	サツ			surmise, guess, understand	guess, presume, surmise, judge, understand
-様	3	3	493	14	718	403		ヨウ	ヨウ, ショウ	さま	さま, さん	condition, Mr., Ms.	Esq., way, manner, situation, polite suffix
-冷	3	4	667	7	719	832		レイ	レイ	つめ(たい), さ(める), さ(ます), ひ(える), ひ(やす)	つめ･たい, ひ･える, ひ･や, ひ･ややか, ひ･やす, ひ･やかす, さ･める, さ･ます	cold	cool, cold (beer, person), chill
-迷	3	5	942	9	721	967		メイ	メイ	まよ(う)	まよ･う	lose, go astray, vacillate	astray, be perplexed, in doubt, lost, err, illusion
+指	3	3	155	9	714	1041	1082	シ	シ	ゆび, さ(す)	ゆび, さ･す, -さ･し	finger, point	finger, point to, indicate, put into, play (chess), measure (ruler)
+察	3	4	477	14	717	619	629	サツ	サツ			surmise, guess, understand	guess, presume, surmise, judge, understand
+様	3	3	493	14	718	403	407	ヨウ	ヨウ, ショウ	さま	さま, さん	way, manner, (polite suffix)	Esq., way, manner, situation, polite suffix
+冷	3	4	667	7	719	832	851	レイ	レイ	つめ(たい), さ(める), さ(ます), ひ(える), ひ(やす)	つめ･たい, ひ･える, ひ･や, ひ･ややか, ひ･やす, ひ･やかす, さ･める, さ･ます	cold, chill	cool, cold (beer, person), chill
+迷	3	5	942	9	721	967	998	メイ	メイ	まよ(う)	まよ･う	perplexed, lost	astray, be perplexed, in doubt, lost, err, illusion
 全	3	3	75	6	724	89	89	ゼン	ゼン	まった(く), すべ(て)	まった･く, すべ･て	all, entire, whole	whole, entire, all, complete, fulfill
-然	3	4	401	12	725	651		ゼン, ネン	ゼン, ネン		しか, しか･り, しか･し, さ	as, like, so	sort of thing, so, if so, in that case, well
-残	3	4	380	10	728	650		ザン	ザン, サン	のこ(る), のこ(す)	のこ･る, のこ･す, そこな･う, のこ･り	remain, leave	remainder, leftover, balance
-散	3	4	758	12	729	767		サン	サン	ち(る), ち(らす), ち(らかる), ち(らかす)	ち･る, ち･らす, -ち･らす, ち･らかす, ち･らかる, ち･らばる, ばら, ばら･ける	scatter, disperse	scatter, disperse, spend, squander
-参	3	4	201	8	733	710		サン	サン, シン	まい(る)	まい･る, まい-, まじわる, みつ	come, go, visit	nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in
-賛	3	5	868	15	734	745		サン	サン		たす･ける, たた･える	praise, approve	approve, praise, title or inscription on picture, assist, agree with
-次	3	3	222	6	735	384		ジ, シ	ジ, シ	つぎ, つ(ぐ)	つ･ぐ, つぎ	next	next, order, sequence
+然	3	4	401	12	725	651	662	ゼン, ネン	ゼン, ネン		しか, しか･り, しか･し, さ	like, so, sort of thing	sort of thing, so, if so, in that case, well
+残	3	4	380	10	728	650	661	ザン	ザン, サン	のこ(る), のこ(す)	のこ･る, のこ･す, そこな･う, のこ･り	remain, leave behind	remainder, leftover, balance
+散	3	4	758	12	729	767	781	サン	サン	ち(る), ち(らす), ち(らかる), ち(らかす)	ち･る, ち･らす, -ち･らす, ち･らかす, ち･らかる, ち･らばる, ばら, ばら･ける	scatter, disperse	scatter, disperse, spend, squander
+参	3	4	201	8	733	710	723	サン	サン, シン	まい(る)	まい･る, まい-, まじわる, みつ	come, go, visit	nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in
+賛	3	5	868	15	734	745	758	サン	サン		たす･ける, たた･える	praise, agreement	approve, praise, title or inscription on picture, assist, agree with
+次	3	3	222	6	735	384	385	ジ, シ	ジ, シ	つぎ, つ(ぐ)	つ･ぐ, つぎ	next	next, order, sequence
 直	3	2	246	8	736	423	429	チョク, ジキ	チョク, ジキ, ジカ	なお(す), なお(る), ただ(ちに)	ただ･ちに, なお･す, -なお･す, なお･る, なお･き, す･ぐ	direct, honest, fix, immediately	straightaway, honesty, frankness, fix, repair
-歯	3	3	1106	12	737	478		シ	シ	は	よわい, は, よわ･い, よわい･する	tooth	tooth, cog
-示	3	5	237	5	739	615		ジ, シ	ジ, シ	しめ(す)	しめ･す	show, indicate	show, indicate, point out, express, display
-師	3	5	563	10	740	409		シ	シ		いくさ	teacher, army	expert, teacher, master, model, exemplar, army (incl. counter), war
-資	3	5	179	13	741	750		シ	シ			resources, funds, capital	assets, resources, capital, funds, data, be conducive to, contribute to
+歯	3	3	1106	12	737	478	486	シ	シ	は	よわい, は, よわ･い, よわい･する	tooth	tooth, cog
+示	3	5	237	5	739	615	625	ジ, シ	ジ, シ	しめ(す)	しめ･す	show, indicate	show, indicate, point out, express, display
+師	3	5	563	10	740	409	415	シ	シ		いくさ	teacher, army	expert, teacher, master, model, exemplar, army (incl. counter), war
+資	3	5	179	13	741	750	763	シ	シ			assets, resources, funds	assets, resources, capital, funds, data, be conducive to, contribute to
 路	3	3	529	13	743	151	151	ロ	ロ, ル	じ	-じ, みち	road, street	path, route, road, distance
-似	3	5	923	7	746	1486		ジ	ジ	に(る)	に･る, ひ･る	resemble, similar	becoming, resemble, counterfeit, imitate, suitable
-除	3	6	594	10	747	1065		ジョ, ジ	ジョ, ジ	のぞ(く)	のぞ･く, -よ･け	remove, exclude	exclude, division (x/3), remove, abolish, cancel, except
-飛	3	4	580	9	749	530		ヒ	ヒ	と(ぶ), と(ばす)	と･ぶ, と･ばす, -と･ばす	fly	fly, skip (pages), scatter
-流	3	3	280	10	752	247	247	リュウ, ル	リュウ, ル	なが(れる), なが(す)	なが･れる, なが･れ, なが･す, -なが･す	flow, current	current, a sink, flow, forfeit
-守	3	3	457	6	753	490		シュ, ス	シュ, ス	まも(る), もり	まも･る, まも･り, もり, -もり, かみ	protect, defend, obey	guard, protect, defend, obey
-増	3	5	231	14	755	712		ゾウ	ゾウ	ま(す), ふ(える), ふ(やす)	ま･す, ま･し, ふ･える, ふ･やす	increase, rise	increase, add, augment, gain, promote
-識	3	5	496	19	756	681		シキ	シキ		し･る, しる･す	know, discriminate	discriminating, know, write
+似	3	5	923	7	746	1486	1583	ジ	ジ	に(る)	に･る, ひ･る	resemble, similar	becoming, resemble, counterfeit, imitate, suitable
+除	3	6	594	10	747	1065	1112	ジョ, ジ	ジョ, ジ	のぞ(く)	のぞ･く, -よ･け	remove, exclude	exclude, division (x/3), remove, abolish, cancel, except
+飛	3	4	580	9	749	530	539	ヒ	ヒ	と(ぶ), と(ばす)	と･ぶ, と･ばす, -と･ばす	fly	fly, skip (pages), scatter
+流	3	3	280	10	752	247	247	リュウ, ル	リュウ, ル	なが(れる), なが(す)	なが･れる, なが･れ, なが･す, -なが･す	flow, current, pour	current, a sink, flow, forfeit
+守	3	3	457	6	753	490	499	シュ, ス	シュ, ス	まも(る), もり	まも･る, まも･り, もり, -もり, かみ	protect, defend, obey	guard, protect, defend, obey
+増	3	5	231	14	755	712	725	ゾウ	ゾウ	ま(す), ふ(える), ふ(やす)	ま･す, ま･し, ふ･える, ふ･やす	increase, augment	increase, add, augment, gain, promote
+識	3	5	496	19	756	681	694	シキ	シキ		し･る, しる･す	know, discriminate	discriminating, know, write
 実	3	3	68	8	760	203	203	ジツ	ジツ, シツ	み, みの(る)	み, みの･る, まこと, みの, みち･る	true, real, fruit, nut	reality, truth, seed, fruit, nut
-昔	3	3	1197	8	762	764		セキ, シャク	セキ, シャク	むかし	むかし	antiquity, long ago	once upon a time, antiquity, old times
-若	3	6	458	8	763	544		ジャク, ニャク	ジャク, ニャク, ニャ	わか(い), も(しくわ)	わか･い, わか-, も･しくわ, も･し, も･しくは, ごと･し	young	young, if, perhaps, possibly, low number, immature
+昔	3	3	1197	8	762	764	778	セキ, シャク	セキ, シャク	むかし	むかし	antiquity, long ago	once upon a time, antiquity, old times
+若	3	6	458	8	763	544	553	ジャク, ニャク	ジャク, ニャク, ニャ	わか(い), も(しくわ)	わか･い, わか-, も･しくわ, も･し, も･しくは, ごと･し	young	young, if, perhaps, possibly, low number, immature
 種	3	4	461	14	764	228	228	シュ	シュ	たね	たね, -ぐさ	kind, type, seed	species, kind, class, variety, seed
-船	3	2	713	11	767	376		セン	セン	ふね, ふな	ふね, ふな-	ship, boat	ship, boat
+船	3	2	713	11	767	376	377	セン	セン	ふね, ふな	ふね, ふな-	ship, boat	ship, boat
 術	3	5	350	11	770	187	187	ジュツ	ジュツ		すべ	art, technique, means	art, technique, skill, means, trick, resources, magic
-処	3	6	547	5	774	1137		ショ	ショ		ところ, -こ, お･る	deal with, manage, condemn	dispose, manage, deal with, sentence, condemn, act, behave, place
+処	3	6	547	5	774	1137	1189	ショ	ショ		ところ, -こ, お･る	deal with, manage, condemn	dispose, manage, deal with, sentence, condemn, act, behave, place
 成	3	4	116	6	778	261	261	セイ, ジョウ	セイ, ジョウ	な(る), な(す)	な･る, な･す, -な･す	become, grow, consist	turn into, become, get, grow, elapse, reach
-絶	3	5	784	12	779	742		ゼツ	ゼツ	た(える), た(やす), た(つ)	た･える, た･やす, た･つ	cut off, cease	discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled
-対	3	3	34	7	780	365		タイ, ツイ	タイ, ツイ		あいて, こた･える, そろ･い, つれあ･い, なら･ぶ, むか･う	against, pair	vis-a-vis, opposite, even, equal, versus, anti-, compare
-能	3	5	273	10	781	386		ノウ	ノウ		よ･く, あた･う	ability, capacity	ability, talent, skill, capacity
-速	3	3	576	10	782	502		ソク	ソク	はや(い), はや(める), すみ(やか)	はや･い, はや-, はや･める, すみ･やか	fast, quick	quick, fast
-類	3	4	678	18	783	226	226	ルイ	ルイ		たぐ･い	kind, sort, variety	sort, kind, variety, class, genus
-精	3	5	752	14	787	659		セイ, ショウ	セイ, ショウ		しら･げる, くわ･しい	spirit, soul, energy	refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill
-投	3	3	236	7	788	1021		トウ	トウ	な(げる)	な･げる, -な･げ	throw, abandon	throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss
-席	3	4	370	10	790	379		セキ	セキ		むしろ	seat, place	seat, mat, occasion, place
-性	3	5	104	8	798	98	98	セイ, ショウ	セイ, ショウ		さが	nature, sex	sex, gender, nature
-政	3	5	17	9	805	483		セイ, ショウ	セイ, ショウ	まつりごと	まつりごと, まん	politics, government	politics, government
-状	3	5	298	7	806	626		ジョウ	ジョウ			condition, letter	status quo, conditions, circumstances, form, appearance
-常	3	5	293	11	807	497		ジョウ	ジョウ	つね, とこ	つね, とこ-	usual, normal, always	usual, ordinary, normal, common, regular, continually, always, long-lasting
+絶	3	5	784	12	779	742	755	ゼツ	ゼツ	た(える), た(やす), た(つ)	た･える, た･やす, た･つ	die out, eradicate, cut off	discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled
+対	3	3	34	7	780	365	366	タイ, ツイ	タイ, ツイ		あいて, こた･える, そろ･い, つれあ･い, なら･ぶ, むか･う	opposite, against	vis-a-vis, opposite, even, equal, versus, anti-, compare
+能	3	5	273	10	781	386	387	ノウ	ノウ		よ･く, あた･う	ability, talent, Noh	ability, talent, skill, capacity
+速	3	3	576	10	782	502	511	ソク	ソク	はや(い), はや(まる), はや(める), すみ(やか)	はや･い, はや-, はや･める, すみ･やか	fast, quick	quick, fast
+類	3	4	678	18	783	226	226	ルイ	ルイ	たぐ(い)	たぐ･い	kind, sort, variety	sort, kind, variety, class, genus
+精	3	5	752	14	787	659	670	セイ, ショウ	セイ, ショウ		しら･げる, くわ･しい	spirit, energy, vitality	refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill
+投	3	3	236	7	788	1021	1060	トウ	トウ	な(げる)	な･げる, -な･げ	throw, abandon	throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss
+席	3	4	370	10	790	379	380	セキ	セキ		むしろ	seat, place	seat, mat, occasion, place
+性	3	5	104	8	798	98	98	セイ, ショウ	セイ, ショウ		さが	nature, sex, gender	sex, gender, nature
+政	3	5	17	9	805	483	492	セイ, ショウ	セイ, ショウ	まつりごと	まつりごと, まん	politics, government	politics, government
+状	3	5	298	7	806	626	636	ジョウ	ジョウ			condition, circumstances	status quo, conditions, circumstances, form, appearance
+常	3	5	293	11	807	497	506	ジョウ	ジョウ	つね, とこ	つね, とこ-	usual, normal, always	usual, ordinary, normal, common, regular, continually, always, long-lasting
 情	3	5	235	11	808	209	209	ジョウ, セイ	ジョウ, セイ	なさ(け)	なさ･け	emotion, circumstances	feelings, emotion, passion, sympathy, circumstances, facts
 続	3	4	141	13	811	243	243	ゾク	ゾク, ショク, コウ, キョウ	つづ(く), つづ(ける)	つづ･く, つづ･ける, つぐ･ない	continue	continue, series, sequel
-敗	3	4	516	11	812	511		ハイ	ハイ	やぶ(れる)	やぶ･れる	lose, defeated	failure, defeat, reversal
+敗	3	4	516	11	812	511	520	ハイ	ハイ	やぶ(れる)	やぶ･れる	failure, defeat	failure, defeat, reversal
 信	3	4	208	9	814	157	157	シン	シン			believe, trust, faith	faith, truth, fidelity, trust
-費	3	5	321	12	815	749		ヒ	ヒ	つい(やす), つい(える)	つい･やす, つい･える	spend, waste	expense, cost, spend, consume, waste
-段	3	6	479	9	819	362		ダン	ダン, タン			step, rank	grade, steps, stairs
-列	3	3	927	6	820	611		レツ	レツ, レ			line, row	file, row, rank, tier, column
-退	3	6	424	9	823	846		タイ	タイ	しりぞ(く), しりぞ(ける)	しりぞ･く, しりぞ･ける, ひ･く, の･く, の･ける, ど･く	retreat	retreat, withdraw, retire, resign, repel, expel, reject
-身	3	3	320	7	824	59	59	シン	シン	み	み	body, self	somebody, person, one's station in life
-深	3	3	484	11	825	536		シン	シン	ふか(い), ふか(める), ふか(まる)	ふか･い, -ぶか･い, ふか･まる, ふか･める, み-	deep	deep, heighten, intensify, strengthen
-吹	3	8	1133	7	831	1255		スイ	スイ	ふ(く)	ふ･く	blow	blow, breathe, puff, emit, smoke
-優	3	6	334	17	832	1033		ユウ	ユウ, ウ	すぐ(れる), やさ(しい)	やさ･しい, すぐ･れる, まさ･る	kind, gentle, excel	tenderness, excel, surpass, actor, superiority, gentleness
-背	3	6	696	9	834	1265		ハイ	ハイ	せ, せい, そむ(く), そむ(ける)	せ, せい, そむ･く, そむ･ける	back, height	stature, height, back, behind, disobey, defy, go back on, rebel
-制	3	5	108	8	835	427		セイ	セイ			system, control	system, law, rule
-積	3	4	541	16	838	656		セキ	セキ	つ(む), つ(もる), つ(もり)	つ･む, -づ･み, つ･もる, つ･もり	pile, heap, accumulate	volume, product (x*y), acreage, contents, pile up, stack, load, amass
-責	3	5	598	11	839	655		セキ	セキ	せ(める)	せ･める	duty, blame, torture	blame, condemn, censure
-祖	3	5	1226	9	845	622		ソ	ソ			ancestor	ancestor, pioneer, founder
+費	3	5	321	12	815	749	762	ヒ	ヒ	つい(やす), つい(える)	つい･やす, つい･える	spend, waste	expense, cost, spend, consume, waste
+段	3	6	479	9	819	362	363	ダン	ダン, タン			step, stairs, rank	grade, steps, stairs
+列	3	3	927	6	820	611	621	レツ	レツ, レ			row	file, row, rank, tier, column
+退	3	6	424	9	823	846	865	タイ	タイ	しりぞ(く), しりぞ(ける)	しりぞ･く, しりぞ･ける, ひ･く, の･く, の･ける, ど･く	retreat, repel	retreat, withdraw, retire, resign, repel, expel, reject
+身	3	3	320	7	824	59	59	シン	シン	み	み	body, person	somebody, person, one's station in life
+深	3	3	484	11	825	536	545	シン	シン	ふか(い), ふか(める), ふか(まる)	ふか･い, -ぶか･い, ふか･まる, ふか･める, み-	deep, intensify	deep, heighten, intensify, strengthen
+吹	3	8	1133	7	831	1255	1326	スイ	スイ	ふ(く)	ふ･く	blow	blow, breathe, puff, emit, smoke
+優	3	6	334	17	832	1033	1074	ユウ	ユウ, ウ	すぐ(れる), やさ(しい)	やさ･しい, すぐ･れる, まさ･る	kind, gentle, excel	tenderness, excel, surpass, actor, superiority, gentleness
+背	3	6	696	9	834	1265	1338	ハイ	ハイ	せ, せい, そむ(く), そむ(ける)	せ, せい, そむ･く, そむ･ける	back, height, disobey	stature, height, back, behind, disobey, defy, go back on, rebel
+制	3	5	108	8	835	427	433	セイ	セイ			system, regulations	system, law, rule
+積	3	4	541	16	838	656	667	セキ	セキ	つ(む), つ(もる)	つ･む, -づ･み, つ･もる, つ･もり	volume, pile up, accumulate	volume, product (x*y), acreage, contents, pile up, stack, load, amass
+責	3	5	598	11	839	655	666	セキ	セキ	せ(める)	せ･める	responsibility, blame, condemn	blame, condemn, censure
+祖	3	5	1226	9	845	622	632	ソ	ソ			ancestor	ancestor, pioneer, founder
 想	3	3	381	13	846	147	147	ソウ, ソ	ソウ, ソ		おも･う	idea, thought	concept, think, idea, thought
-窓	3	6	1186	11	848	698		ソウ	ソウ, ス	まど	まど, てんまど, けむだし	window	window, pane
-束	3	4	918	7	857	501		ソク	ソク	たば	たば, たば･ねる, つか, つか･ねる	bundle, sheaf	bundle, sheaf, ream, tie in bundles, govern, manage, control
-備	3	5	356	12	863	768		ビ	ビ	そな(える), そな(わる)	そな･える, そな･わる, つぶさ･に	provide, possess	equip, provision, preparation
-反	3	3	191	4	864	324	324	ハン, ホン, タン	ハン, ホン, タン, ホ	そ(る), そ(らす)	そ･る, そ･らす, かえ･す, かえ･る, -かえ･る	anti-, against	anti-
-存	3	6	577	6	866	269	269	ソン, ゾン	ソン, ゾン		ながら･える, あ･る, たも･つ, と･う	exist, know	exist, suppose, be aware of, believe, feel
+窓	3	6	1186	11	848	698	711	ソウ	ソウ, ス	まど	まど, てんまど, けむだし	window	window, pane
+束	3	4	918	7	857	501	510	ソク	ソク	たば	たば, たば･ねる, つか, つか･ねる	bundle, sheaf	bundle, sheaf, ream, tie in bundles, govern, manage, control
+備	3	5	356	12	863	768	782	ビ	ビ	そな(える), そな(わる)	そな･える, そな･わる, つぶさ･に	equip, prepare, provide	equip, provision, preparation
+反	3	3	191	4	864	324	324	ハン, ホン, タン	ハン, ホン, タン, ホ	そ(る), そ(らす)	そ･る, そ･らす, かえ･す, かえ･る, -かえ･る	anti-, warp	anti-
+存	3	6	577	6	866	269	269	ソン, ゾン	ソン, ゾン		ながら･える, あ･る, たも･つ, と･う	exist, believe	exist, suppose, be aware of, believe, feel
 平	3	3	128	5	868	202	202	ヘイ, ビョウ	ヘイ, ビョウ, ヒョウ	たい(ら), ひら	たい･ら, たい･らげる, ひら	flat, level	even, flat, peace
-倒	3	8	791	10	869	905		トウ	トウ	たお(れる), たお(す)	たお･れる, -だお･れ, たお･す, さかさま, さかさ, さかしま	fall, collapse, topple	overthrow, fall, collapse, drop, break down
+倒	3	8	791	10	869	905	927	トウ	トウ	たお(れる), たお(す)	たお･れる, -だお･れ, たお･す, さかさま, さかさ, さかしま	fall, collapse, topple	overthrow, fall, collapse, drop, break down
 宅	3	6	357	6	871	178	178	タク	タク			home, residence	home, house, residence, our house, my husband
-例	3	4	399	8	874	612		レイ	レイ	たと(える)	たと･える	example, custom	example, custom, usage, precedent
-単	3	4	586	9	876	300	300	タン	タン		ひとえ	single, simple	simple, one, single, merely
-恥	3	8	1575	10	878	1690		チ	チ	はじ, は(じる), は(じらう), は(ずかしい)	は･じる, はじ, は･じらう, は･ずかしい	shame, disgrace, shy	shame, dishonor
-捕	3	8	604	10	887	890		ホ	ホ	と(る), と(らえる), と(らわれる), つか(まる), つか(まえる)	と･らえる, と･らわれる, と･る, とら･える, とら･われる, つか･まえる, つか･まる	catch, arrest	catch, capture
-疲	3	8	1263	10	888	1321		ヒ	ヒ	つか(れる), つか(らす)	つか･れる, -づか･れ, つか･らす	tire, fatigue	exhausted, tire, weary
-突	3	8	521	8	889	898		トツ	トツ, カ	つ(く)	つ･く	thrust, poke	stab, protruding, thrust, pierce, prick, collision, sudden
-努	3	4	749	7	890	1595		ド	ド	つと(める)	つと･める	exert, strive	toil, diligent, as much as possible
-務	3	5	111	11	891	235	235	ム	ム	つと(める)	つと･める	duties	task, duties
-庭	3	3	816	10	894	1112		テイ	テイ	にわ	にわ	garden	courtyard, garden, yard
-程	3	5	514	12	896	417		テイ	テイ	ほど	ほど, -ほど	degree, extent	extent, degree, law, formula, distance, limits, amount
-適	3	5	670	14	898	415		テキ	テキ		かな･う	fit, suitable	suitable, occasional, rare, qualified, capable
-登	3	3	566	12	900	960		トウ, ト	トウ, ト, ドウ, ショウ, チョウ	のぼ(る)	のぼ･る, あ･がる	climb	ascend, climb up
-徒	3	4	817	10	901	430		ト	ト		いたずら, あだ	party, vain, useless	on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people
-途	3	8	717	10	902	1072		ト	ト		みち	way, road	route, way, road
-等	3	3	798	12	904	569		トウ	トウ	ひと(しい)	ひと･しい, など, -ら	equal, class	etc., and so forth, class (first), quality, equal, similar
-到	3	8	1032	8	907	904		トウ	トウ		いた･る	arrive, reach	arrival, proceed, reach, attain, result in
-逃	3	8	931	9	908	1566		トウ	トウ	に(げる), に(がす), のが(す), のが(れる)	に･げる, に･がす, のが･す, のが･れる	escape, flee	escape, flee, shirk, evade, set free
-盗	3	8	1051	11	909	1100		トウ	トウ	ぬす(む)	ぬす･む, ぬす･み	steal	steal, rob, pilfer
-富	3	4	644	12	919	713		フ, フウ	フ, フウ	とみ, と(む)	と･む, とみ	rich, wealth	wealth, enrich, abundant
-亡	3	6	661	3	922	672		ボウ, モウ	ボウ, モウ	な(い)	な･い, な･き-, ほろ･びる, ほろ･ぶ, ほろ･ぼす	die, dead	deceased, the late, dying, perish
-鳴	3	2	1279	14	923	925		メイ	メイ	な(く), な(る), な(らす)	な･く, な･る, な･らす	(animal) sound, ring	chirp, cry, bark, sound, ring, echo, honk
-任	3	5	217	6	929	334	334	ニン	ニン	まか(す), まか(せる)	まか･せる, まか･す	office, entrust	responsibility, duty, term, entrust to, appoint
-認	3	6	198	14	930	738		ニン	ニン	みと(める)	みと･める, したた･める	recognize, approve	acknowledge, witness, discern, recognize, appreciate, believe
-抜	3	8	726	7	931	1713		バツ	バツ, ハツ, ハイ	ぬ(く), ぬ(ける), ぬ(かる), ぬ(かす)	ぬ･く, -ぬ･く, ぬ･き, ぬ･ける, ぬ･かす, ぬ･かる	pull out, omit, surpass	slip out, extract, pull out, pilfer, quote, remove, omit
-眠	3	8	1315	10	933	849		ミン	ミン	ねむ(い), ねむ(る)	ねむ･る, ねむ･い	sleep, sleepy	sleep, die, sleepy
-念	3	4	390	8	934	579		ネン	ネン			thought, desire, attention	wish, sense, idea, thought, feeling, desire, attention
-望	3	4	470	11	937	673		ボウ, モウ	ボウ, モウ	のぞ(む)	のぞ･む, もち	hope, desire, expect	ambition, full moon, hope, desire, aspire to, expect
-破	3	5	590	10	938	665		ハ	ハ	やぶ(る), やぶ(れる)	やぶ･る, やぶ･れる, わ･れる	tear, break	rend, rip, tear, break, destroy, defeat, frustrate
-箱	3	3	1357	15	942	1091		ソウ	ソウ	はこ	はこ	box	box, chest, case, bin, railway car
-放	3	3	288	8	946	512		ホウ	ホウ	はな(す), はな(つ), はな(れる)	はな･す, -っぱな･し, はな･つ, はな･れる, こ･く, ほう･る	let go, release	set free, release, fire, shoot, emit, banish, liberate
-腹	3	6	1286	13	949	1271		フク	フク	はら	はら	belly, stomach, mind	abdomen, belly, stomach
-判	3	5	197	7	950	1026		ハン, バン	ハン, バン		わか･る	judge, stamp, seal	judgement, signature, stamp, seal
-晩	3	6	1424	12	953	736		バン	バン			evening, night	nightfall, night
-非	3	5	472	8	954	498		ヒ	ヒ		あら･ず	non-, un-, wrong	un-, mistake, negative, injustice, non-
-貧	3	5	1211	11	959	753		ヒン, ビン	ヒン, ビン	まず(しい)	まず･しい	poor	poverty, poor
-婦	3	5	671	11	962	316	316	フ	フ		よめ	woman, wife, lady	lady, woman, wife, bride
-舞	3	8	655	15	967	810		ブ	ブ	ま(う), まい	ま･う, -ま･う, まい	dance, flutter	dance, flit, circle, wheel
-福	3	3	467	13	969	1379		フク	フク			fortune, blessing	blessing, fortune, luck, wealth
-報	3	5	167	12	976	685		ホウ	ホウ	むく(いる)	むく･いる	news, report, reward	report, news, reward, retribution
+例	3	4	399	8	874	612	622	レイ	レイ	たと(える)	たと･える	example, custom	example, custom, usage, precedent
+単	3	4	586	9	876	300	300	タン	タン		ひとえ	simple, single	simple, one, single, merely
+恥	3	8	1575	10	878	1690	1805	チ	チ	はじ, は(じる), は(じらう), は(ずかしい)	は･じる, はじ, は･じらう, は･ずかしい	shame, disgrace, shy	shame, dishonor
+捕	3	8	604	10	887	890	911	ホ	ホ	と(る), と(らえる), と(らわれる), つか(まる), つか(まえる)	と･らえる, と･らわれる, と･る, とら･える, とら･われる, つか･まえる, つか･まる	catch, grasp	catch, capture
+疲	3	8	1263	10	888	1321	1403	ヒ	ヒ	つか(れる), つか(らす)	つか･れる, -づか･れ, つか･らす	tire, fatigue	exhausted, tire, weary
+突	3	8	521	8	889	898	920	トツ	トツ, カ	つ(く)	つ･く	thrust, poke	stab, protruding, thrust, pierce, prick, collision, sudden
+努	3	4	749	7	890	1595	1702	ド	ド	つと(める)	つと･める	toil, strive	toil, diligent, as much as possible
+務	3	5	111	11	891	235	235	ム	ム	つと(める), つと(まる)	つと･める	work, duties	task, duties
+庭	3	3	816	10	894	1112	1164	テイ	テイ	にわ	にわ	garden, courtyard	courtyard, garden, yard
+程	3	5	514	12	896	417	423	テイ	テイ	ほど	ほど, -ほど	degree, extent	extent, degree, law, formula, distance, limits, amount
+適	3	5	670	14	898	415	421	テキ	テキ		かな･う	suitable	suitable, occasional, rare, qualified, capable
+登	3	3	566	12	900	960	991	トウ, ト	トウ, ト, ドウ, ショウ, チョウ	のぼ(る)	のぼ･る, あ･がる	climb	ascend, climb up
+徒	3	4	817	10	901	430	436	ト	ト		いたずら, あだ	junior, vain, useless	on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people
+途	3	8	717	10	902	1072	1120	ト	ト		みち	way, road	route, way, road
+等	3	3	798	12	904	569	578	トウ	トウ	ひと(しい)	ひと･しい, など, -ら	equal, similar, class	etc., and so forth, class (first), quality, equal, similar
+到	3	8	1032	8	907	904	926	トウ	トウ		いた･る	arrive, reach	arrival, proceed, reach, attain, result in
+逃	3	8	931	9	908	1566	1669	トウ	トウ	に(げる), に(がす), のが(す), のが(れる)	に･げる, に･がす, のが･す, のが･れる	escape, flee	escape, flee, shirk, evade, set free
+盗	3	8	1051	11	909	1100	1151	トウ	トウ	ぬす(む)	ぬす･む, ぬす･み	steal	steal, rob, pilfer
+富	3	4	644	12	919	713	726	フ, フウ	フ, フウ	とみ, と(む)	と･む, とみ	wealth	wealth, enrich, abundant
+亡	3	6	661	3	922	672	684	ボウ, モウ	ボウ, モウ	な(い)	な･い, な･き-, ほろ･びる, ほろ･ぶ, ほろ･ぼす	dead, deceased	deceased, the late, dying, perish
+鳴	3	2	1279	14	923	925	948	メイ	メイ	な(く), な(る), な(らす)	な･く, な･る, な･らす	(animal) sound, ring	chirp, cry, bark, sound, ring, echo, honk
+任	3	5	217	6	929	334	334	ニン	ニン	まか(す), まか(せる)	まか･せる, まか･す	responsibility, entrust	responsibility, duty, term, entrust to, appoint
+認	3	6	198	14	930	738	751	ニン	ニン	みと(める)	みと･める, したた･める	recognize, approve of	acknowledge, witness, discern, recognize, appreciate, believe
+抜	3	8	726	7	931	1713	1830	バツ	バツ, ハツ, ハイ	ぬ(く), ぬ(ける), ぬ(かる), ぬ(かす)	ぬ･く, -ぬ･く, ぬ･き, ぬ･ける, ぬ･かす, ぬ･かる	pull out, omit, surpass	slip out, extract, pull out, pilfer, quote, remove, omit
+眠	3	8	1315	10	933	849	868	ミン	ミン	ねむ(い), ねむ(る)	ねむ･る, ねむ･い	sleep, sleepy	sleep, die, sleepy
+念	3	4	390	8	934	579	588	ネン	ネン			thought, idea, desire, attention	wish, sense, idea, thought, feeling, desire, attention
+望	3	4	470	11	937	673	685	ボウ, モウ	ボウ, モウ	のぞ(む)	のぞ･む, もち	hope, desire, expect	ambition, full moon, hope, desire, aspire to, expect
+破	3	5	590	10	938	665	676	ハ	ハ	やぶ(る), やぶ(れる)	やぶ･る, やぶ･れる, わ･れる	tear, break	rend, rip, tear, break, destroy, defeat, frustrate
+箱	3	3	1357	15	942	1091	1142	ソウ	ソウ	はこ	はこ	box	box, chest, case, bin, railway car
+放	3	3	288	8	946	512	521	ホウ	ホウ	はな(す), はな(つ), はな(れる), ほう(る)	はな･す, -っぱな･し, はな･つ, はな･れる, こ･く, ほう･る	let go, release, fire	set free, release, fire, shoot, emit, banish, liberate
+腹	3	6	1286	13	949	1271	1345	フク	フク	はら	はら	stomach, abdomen	abdomen, belly, stomach
+判	3	5	197	7	950	1026	1065	ハン, バン	ハン, バン		わか･る	judgment, stamp, seal	judgement, signature, stamp, seal
+晩	3	6	1424	12	953	736	749	バン	バン			nightfall	nightfall, night
+非	3	5	472	8	954	498	507	ヒ	ヒ		あら･ず	non-, un-, mistake	un-, mistake, negative, injustice, non-
+貧	3	5	1211	11	959	753	766	ヒン, ビン	ヒン, ビン	まず(しい)	まず･しい	poor	poverty, poor
+婦	3	5	671	11	962	316	316	フ	フ	よめ	よめ	woman, wife, lady	lady, woman, wife, bride
+舞	3	8	655	15	967	810	829	ブ	ブ	ま(う), まい	ま･う, -ま･う, まい	dance, flutter	dance, flit, circle, wheel
+福	3	3	467	13	969	1379	1466	フク	フク			fortune, blessing	blessing, fortune, luck, wealth
+報	3	5	167	12	976	685	698	ホウ	ホウ	むく(いる)	むく･いる	news, report, reward	report, news, reward, retribution
 満	3	4	515	12	984	201	201	マン	マン, バン	み(ちる), み(たす)	み･ちる, み･つ, み･たす	full	full, fullness, enough, satisfy
 未	3	4	650	5	985	306	306	ミ	ミ, ビ		いま･だ, ま･だ, ひつじ	not yet	un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac
-夢	3	5	943	13	987	811		ム	ム, ボウ	ゆめ	ゆめ, ゆめ･みる, くら･い	dream	dream, vision, illusion
-娘	3	8	1145	10	988	1752			ジョウ	むすめ	むすめ, こ	daughter, girl	daughter, girl
-戻	3	8	890	7	990	1238		レイ	レイ	もど(る), もど(す)	もど･す, もど･る	return, restore	re-, return, revert, resume, restore, go backwards
-由	3	3	325	5	991	363		ユ, ユウ, ユイ	ユ, ユウ, ユイ	よし	よし, よ･る	reason, cause, significance	wherefore, a reason
+夢	3	5	943	13	987	811	830	ム	ム, ボウ	ゆめ	ゆめ, ゆめ･みる, くら･い	dream	dream, vision, illusion
+娘	3	8	1145	10	988	1752	1876		ジョウ	むすめ	むすめ, こ	daughter, girl	daughter, girl
+戻	3	8	890	7	990	1238	1304	レイ	レイ	もど(る), もど(す)	もど･す, もど･る	return, restore	re-, return, revert, resume, restore, go backwards
+由	3	3	325	5	991	363	364	ユ, ユウ, ユイ	ユ, ユウ, ユイ	よし	よし, よ･る	reason	wherefore, a reason
 良	3	4	501	7	993	321	321	リョウ	リョウ	よ(い)	よ･い, -よ･い, い･い, -い･い	good	good, pleasing, skilled
-陽	3	3	1071	12	994	630		ヨウ	ヨウ		ひ	sun, positive	sunshine, yang principle, positive, male, heaven, daytime
-容	3	5	264	10	995	654		ヨウ	ヨウ		い･れる	appearance, content	contain, form, looks
+陽	3	3	1071	12	994	630	640	ヨウ	ヨウ		ひ	sun, positive	sunshine, yang principle, positive, male, heaven, daytime
+容	3	5	264	10	995	654	665	ヨウ	ヨウ		い･れる	content, form	contain, form, looks
 労	3	4	398	7	1008	233	233	ロウ	ロウ		ろう･する, いたわ･る, いた･ずき, ねぎら, つか･れる, ねぎら･う	labor, toil	labor, thank for, reward for, toil, trouble
-論	3	6	227	15	1010	293	293	ロン	ロン		あげつら･う	theory, discussion, argument	argument, discourse
+論	3	6	227	15	1010	293	293	ロン	ロン		あげつら･う	thesis, discussion, argument	argument, discourse
 他	3	3	543	5	1012	120	120	タ	タ	ほか	ほか	other, another	other, another, the others
 区	2	3	137	4	253	183	183	ク	ク, オウ, コウ			district, ward	ward, district
-軽	2	3	790	12	254	547		ケイ	ケイ, キョウ, キン	かる(い), かろ(やか)	かる･い, かろ･やか, かろ･んじる	light, insignificant	lightly, trifling, unimportant
+軽	2	3	790	12	254	547	556	ケイ	ケイ, キョウ, キン	かる(い), かろ(やか)	かる･い, かろ･やか, かろ･んじる	light, insignificant	lightly, trifling, unimportant
 県	2	3	140	9	255	194	194	ケン	ケン		か･ける	prefecture	prefecture
-菜	2	4	1327	11	259	931		サイ	サイ	な	な	vegetable	vegetable, side dish, greens
+菜	2	4	1327	11	259	931	958	サイ	サイ	な	な	vegetable	vegetable, side dish, greens
 弱	2	2	958	10	262	218	218	ジャク	ジャク	よわ(い), よわ(る), よわ(まる), よわ(める)	よわ･い, よわ･る, よわ･まる, よわ･める	weak	weak, frail
 森	2	1	609	12	267	128	128	シン	シン	もり	もり	woods, forest	forest, woods
 村	2	1	253	7	272	191	191	ソン	ソン	むら	むら	village	village, town
 短	2	3	689	12	274	215	215	タン	タン	みじか(い)	みじか･い	short	short, brevity, fault, defect, weak point
 池	2	2	827	6	275	119	119	チ	チ	いけ	いけ	pond	pond, cistern, pool, reservoir
-低	2	4	435	7	276	561		テイ	テイ	ひく(い), ひく(まる), ひく(める)	ひく･い, ひく･める, ひく･まる	low	lower, short, humble
+低	2	4	435	7	276	561	570	テイ	テイ	ひく(い), ひく(まる), ひく(める)	ひく･い, ひく･める, ひく･まる	low	lower, short, humble
 門	2	2	452	8	280	161	161	モン	モン	かど	かど, と	gate	gate, counter for cannons
-浅	2	4	1253	9	285	649		セン	セン	あさ(い)	あさ･い	shallow, superficial	shallow, superficial, frivolous, wretched, shameful
-預	2	6	981	13	286	394		ヨ	ヨ	あず(ける), あず(かる)	あず･ける, あず･かる	entrust, deposit	deposit, custody, leave with, entrust to
-汗	2	8	1502	6	287	1188		カン	カン	あせ	あせ	sweat, perspiration	sweat, perspire
-温	2	3	838	12	291	634		オン	オン	あたた(か), あたた(かい), あたた(める), あたた(まる), ぬる(い)	あたた･か, あたた･かい, あたた･まる, あたた･める, ぬく	warm, warmth, tepid	warm
-辺	2	4	428	5	294	775		ヘン	ヘン	あた(り), べ	あた･り, ほと･り, -べ	vicinity, neighborhood	environs, boundary, border, vicinity
-圧	2	5	718	5	296	1342		アツ	アツ, エン, オウ		お･す, へ･す, おさ･える, お･さえる	pressure	pressure, push, overwhelm, oppress, dominate
-厚	2	5	768	9	298	639		コウ	コウ	あつ(い)	あつ･い, あか	thick, kind, cordial	thick, heavy, rich, kind, cordial, brazen, shameless
-跡	2	8	953	13	299	1569		セキ	セキ	あと	あと	mark, trace, remains	tracks, mark, print, impression
-暴	2	5	692	15	300	1014		ボウ, バク	ボウ, バク	あば(く), あば(れる)	あば･く, あば･れる	violent, rage, disclose, expose	outburst, rave, fret, force, violence, cruelty, outrage
-浴	2	4	1136	10	301	1128		ヨク	ヨク	あ(びる), あ(びせる)	あ･びる, あ･びせる	bathe	bathe, be favored with, bask in
-油	2	3	690	8	303	364		ユ	ユ, ユウ	あぶら	あぶら	oil	oil, fat
-脂	2	8	1548	10	304	1042		シ	シ	あぶら	あぶら	fat	fat, grease, tallow, lard, rosin, gum, tar
-甘	2	8	1248	5	305	1492		カン	カン	あま(い), あま(える), あま(やかす)	あま･い, あま･える, あま･やかす, うま･い	sweet, indulgent	sweet, coax, pamper, be content, sugary
-編	2	5	591	15	307	682		ヘン	ヘン	あ(む)	あ･む, -あ･み	knit, compile	compilation, knit, plait, braid, twist, editing, completed poem, part of a book
-荒	2	8	1099	9	310	1377		コウ	コウ	あら(い), あ(れる), あ(らす)	あ･らす, あ･れる, あら･い, すさ･ぶ, すさ･む, あ･らし	rough, wild, violent	laid waste, rough, rude, wild
-改	2	4	147	7	312	514		カイ	カイ	あらた(める), あらた(まる)	あらた･める, あらた･まる	alter, renew, reform	reformation, change, modify, mend, renew, examine, inspect, search
-著	2	6	849	11	315	859		チョ	チョ, チャク	あらわ(す), いちじる(しい)	あらわ･す, いちじる･しい	write, remarkable, conspicuous	renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work
-委	2	3	187	8	317	466		イ	イ		ゆだ･ねる	entrust	committee, entrust to, leave to, devote, discard
-衣	2	4	1214	6	318	677		イ	イ, エ	ころも	ころも, きぬ, -ぎ	garment, clothes	garment, clothes, dressing
-囲	2	5	771	7	319	1194		イ	イ	かこ(む), かこ(う)	かこ･む, かこ･う, かこ･い	surround, enclose, besiege	surround, besiege, store, paling, enclosure, encircle, preserve, keep
-胃	2	6	1647	9	321	1268		イ	イ			stomach	stomach, paunch, crop, craw
-移	2	5	448	11	323	1121		イ	イ	うつ(る), うつ(す)	うつ･る, うつ･す	move, transfer, infect	shift, move, change, drift, catch (cold, fire), pass into
-依	2	8	906	8	324	678		イ, エ	イ, エ		よ･る	depend on	reliant, depend on, consequently, therefore, due to
-域	2	6	396	11	329	970		イキ	イキ			region, area	range, region, limits, stage, level
-勢	2	5	260	13	330	646		セイ	セイ, ゼイ	いきお(い)	いきお･い, はずみ	force, energy, vigor, trend	forces, energy, military strength
-勇	2	4	1319	9	334	1386		ユウ	ユウ	いさ(む)	いさ･む	brave	courage, cheer up, be in high spirits, bravery, heroism
-泉	2	6	1086	9	336	1192		セン	セン	いずみ	いずみ	spring, fountain	spring, fountain
-板	2	3	926	8	338	1047		ハン, バン	ハン, バン	いた	いた	board, plank	plank, board, plate, stage
+浅	2	4	1253	9	285	649	660	セン	セン	あさ(い)	あさ･い	shallow, superficial	shallow, superficial, frivolous, wretched, shameful
+預	2	6	981	13	286	394	398	ヨ	ヨ	あず(ける), あず(かる)	あず･ける, あず･かる	entrust, deposit	deposit, custody, leave with, entrust to
+汗	2	8	1502	6	287	1188	1247	カン	カン	あせ	あせ	sweat, perspiration	sweat, perspire
+温	2	3	838	12	291	634	644	オン	オン	あたた(か), あたた(かい), あたた(める), あたた(まる), ぬる(い)	あたた･か, あたた･かい, あたた･まる, あたた･める, ぬく	warm, warmth, tepid	warm
+辺	2	4	428	5	294	775	789	ヘン	ヘン	あた(り), べ	あた･り, ほと･り, -べ	vicinity, neighborhood	environs, boundary, border, vicinity
+圧	2	5	718	5	296	1342	1425	アツ	アツ, エン, オウ		お･す, へ･す, おさ･える, お･さえる	pressure	pressure, push, overwhelm, oppress, dominate
+厚	2	5	768	9	298	639	649	コウ	コウ	あつ(い)	あつ･い, あか	thick, kind, cordial	thick, heavy, rich, kind, cordial, brazen, shameless
+跡	2	8	953	13	299	1569	1673	セキ	セキ	あと	あと	mark, trace, remains	tracks, mark, print, impression
+暴	2	5	692	15	300	1014	1052	ボウ, バク	ボウ, バク	あば(く), あば(れる)	あば･く, あば･れる	violent, rage, disclose, expose	outburst, rave, fret, force, violence, cruelty, outrage
+浴	2	4	1136	10	301	1128	1180	ヨク	ヨク	あ(びる), あ(びせる)	あ･びる, あ･びせる	bathe	bathe, be favored with, bask in
+油	2	3	690	8	303	364	365	ユ	ユ, ユウ	あぶら	あぶら	oil	oil, fat
+脂	2	8	1548	10	304	1042	1083	シ	シ	あぶら	あぶら	fat	fat, grease, tallow, lard, rosin, gum, tar
+甘	2	8	1248	5	305	1492	1591	カン	カン	あま(い), あま(える), あま(やかす)	あま･い, あま･える, あま･やかす, うま･い	sweet, indulgent	sweet, coax, pamper, be content, sugary
+編	2	5	591	15	307	682	695	ヘン	ヘン	あ(む)	あ･む, -あ･み	knit, compile	compilation, knit, plait, braid, twist, editing, completed poem, part of a book
+荒	2	8	1099	9	310	1377	1464	コウ	コウ	あら(い), あ(れる), あ(らす)	あ･らす, あ･れる, あら･い, すさ･ぶ, すさ･む, あ･らし	rough, wild, violent	laid waste, rough, rude, wild
+改	2	4	147	7	312	514	523	カイ	カイ	あらた(める), あらた(まる)	あらた･める, あらた･まる	alter, renew, reform	reformation, change, modify, mend, renew, examine, inspect, search
+著	2	6	849	11	315	859	878	チョ	チョ, チャク	あらわ(す), いちじる(しい)	あらわ･す, いちじる･しい	write, remarkable, conspicuous	renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work
+委	2	3	187	8	317	466	474	イ	イ		ゆだ･ねる	entrust	committee, entrust to, leave to, devote, discard
+衣	2	4	1214	6	318	677	690	イ	イ, エ	ころも	ころも, きぬ, -ぎ	garment, clothes	garment, clothes, dressing
+囲	2	5	771	7	319	1194	1257	イ	イ	かこ(む), かこ(う)	かこ･む, かこ･う, かこ･い	surround, enclose, besiege	surround, besiege, store, paling, enclosure, encircle, preserve, keep
+胃	2	6	1647	9	321	1268	1342	イ	イ			stomach	stomach, paunch, crop, craw
+移	2	5	448	11	323	1121	1173	イ	イ	うつ(る), うつ(す)	うつ･る, うつ･す	move, transfer, infect	shift, move, change, drift, catch (cold, fire), pass into
+依	2	8	906	8	324	678	691	イ, エ	イ, エ		よ･る	depend on	reliant, depend on, consequently, therefore, due to
+域	2	6	396	11	329	970	1002	イキ	イキ			region, area	range, region, limits, stage, level
+勢	2	5	260	13	330	646	656	セイ	セイ, ゼイ	いきお(い)	いきお･い, はずみ	force, energy, vigor, trend	forces, energy, military strength
+勇	2	4	1319	9	334	1386	1474	ユウ	ユウ	いさ(む)	いさ･む	brave	courage, cheer up, be in high spirits, bravery, heroism
+泉	2	6	1086	9	336	1192	1253	セン	セン	いずみ	いずみ	spring, fountain	spring, fountain
+板	2	3	926	8	338	1047	1090	ハン, バン	ハン, バン	いた	いた	board, plank	plank, board, plate, stage
 糸	2	1	1488	6	342	242	242	シ	シ	いと	いと	thread	thread
-営	2	5	303	12	343	722		エイ	エイ	いとな(む)	いとな･む, いとな･み	manage, conduct	occupation, camp, perform, build, conduct (business)
-祈	2	8	1462	8	346	621		キ	キ	いの(る)	いの･る	pray	pray, wish
-岩	2	2	787	8	349	1345		ガン	ガン	いわ	いわ	rock, crag	boulder, rock, cliff
-祝	2	4	1184	9	350	851		シュク, シュウ	シュク, シュウ	いわ(う), いわ(い)	いわ･う	celebrate, congratulate	celebrate, congratulate
-印	2	4	682	6	351	1043		イン	イン	しるし	しるし, -じるし, しる･す	seal, stamp, sign, mark	stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India
-羽	2	2	748	6	353	590		ウ	ウ	は, はね	は, わ, はね	feather, wing	feathers, counter for birds, rabbits
-宇	2	6	883	6	354	990		ウ	ウ			heaven, universe	eaves, roof, house, heaven
-植	2	3	699	12	356	424		ショク	ショク	う(える), う(わる)	う･える, う･わる	plant	plant
-伺	2	8	2209	7	357	1761		シ	シ	うかが(う)	うかが･う	ask, visit, hear	pay respects, visit, ask, inquire, question, implore
-承	2	6	775	8	360	942		ショウ	ショウ, ジョウ	うけたまわ(る)	うけたまわ･る, う･ける	hear, be told	acquiesce, hear, listen to, be informed, receive
-薄	2	8	1009	16	362	1449		ハク	ハク	うす(い), うす(まる), うす(める)	うす･い, うす-, -うす, うす･める, うす･まる, うす･らぐ, うす･ら-, うす･れる, すすき	thin, weak, light	dilute, thin, weak (tea), pampas grass
-腕	2	8	1163	12	368	1299		ワン	ワン	うで	うで	arm, talent, ability	arm, ability, talent
-埋	2	8	1110	10	370	1826		マイ	マイ	う(まる), う(める)	う･める, う･まる, う･もれる, うず･める, うず･まる, い･ける	bury, fill up	bury, be filled up, embedded
-敬	2	6	1078	12	371	705		ケイ	ケイ, キョウ	うやま(う)	うやま･う	respect, revere	awe, respect, honor, revere
+営	2	5	303	12	343	722	735	エイ	エイ	いとな(む)	いとな･む, いとな･み	manage, conduct	occupation, camp, perform, build, conduct (business)
+祈	2	8	1462	8	346	621	631	キ	キ	いの(る)	いの･る	pray	pray, wish
+岩	2	2	787	8	349	1345	1428	ガン	ガン	いわ	いわ	rock, crag	boulder, rock, cliff
+祝	2	4	1184	9	350	851	870	シュク, シュウ	シュク, シュウ	いわ(う), いわ(い)	いわ･う	celebrate, congratulate	celebrate, congratulate
+印	2	4	682	6	351	1043	1086	イン	イン	しるし	しるし, -じるし, しる･す	seal, stamp, sign, mark	stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India
+羽	2	2	748	6	353	590	600	ウ	ウ	は, はね	は, わ, はね	feather, wing	feathers, counter for birds, rabbits
+宇	2	6	883	6	354	990	1027	ウ	ウ			heaven, universe	eaves, roof, house, heaven
+植	2	3	699	12	356	424	430	ショク	ショク	う(える), う(わる)	う･える, う･わる	plant	plant
+伺	2	8	2209	7	357	1761	1891	シ	シ	うかが(う)	うかが･う	ask, visit, hear	pay respects, visit, ask, inquire, question, implore
+承	2	6	775	8	360	942	972	ショウ	ショウ, ジョウ	うけたまわ(る)	うけたまわ･る, う･ける	hear, be told	acquiesce, hear, listen to, be informed, receive
+薄	2	8	1009	16	362	1449	1542	ハク	ハク	うす(い), うす(まる), うす(める)	うす･い, うす-, -うす, うす･める, うす･まる, うす･らぐ, うす･ら-, うす･れる, すすき	thin, weak, light	dilute, thin, weak (tea), pampas grass
+腕	2	8	1163	12	368	1299	1376	ワン	ワン	うで	うで	arm, talent, ability	arm, ability, talent
+埋	2	8	1110	10	370	1826	1975	マイ	マイ	う(まる), う(める)	う･める, う･まる, う･もれる, うず･める, うず･まる, い･ける	bury, fill up	bury, be filled up, embedded
+敬	2	6	1078	12	371	705	718	ケイ	ケイ, キョウ	うやま(う)	うやま･う	respect, revere	awe, respect, honor, revere
 裏	2	6	812	13	372	273	273	リ	リ	うら	うら	reverse side, back	back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side
-占	2	8	694	5	373	1706		セン	セン	し(める), うらな(う), うらな(い)	し･める, うらな･う	occupy, divine	fortune-telling, divining, forecasting, occupy, hold, have, get, take
-栄	2	4	920	9	377	723		エイ	エイ, ヨウ	さか(える), は(え), は(える)	さか･える, は･え, -ば･え, は･える, え	prosper, glory	flourish, prosperity, honor, glory, splendor
-永	2	5	846	5	378	1207		エイ	エイ	なが(い)	なが･い	long time, eternal	eternity, long, lengthy
-鋭	2	8	1395	15	379	1371		エイ	エイ	するど(い)	するど･い	sharp	pointed, sharpness, edge, weapon, sharp, violent
-液	2	5	1210	11	381	472		エキ	エキ			liquid, fluid	fluid, liquid, juice, sap, secretion
-枝	2	5	1401	8	382	870		シ	シ	えだ	えだ	branch	bough, branch, twig, limb, counter for branches
-塩	2	4	1148	13	387	1101		エン	エン	しお	しお	salt	salt
-延	2	6	747	8	389	1115		エン	エン	の(びる), の(べる), の(ばす)	の･びる, の･べる, の･べ, の･ばす	postpone, prolong	prolong, stretching
-汚	2	8	908	6	392	693		オ	オ	きたな(い), けが(す), よご(す)	けが･す, けが･れる, けが･らわしい, よご･す, よご･れる, きたな･い	dirty, soiled	dirty, pollute, disgrace, rape, defile
-黄	2	2	1240	11	398	780		オウ, コウ	コウ, オウ	き, こ	き, こ-	yellow	yellow
-央	2	3	582	5	399	351		オウ	オウ			center, middle	center, middle
-欧	2	8	421	8	401	1022		オウ	オウ		うた･う, は･く	Europe	Europe
-奥	2	8	1018	12	403	476		オウ	オウ	おく	おく, おく･まる, くま	interior, depths	heart, interior
-拝	2	6	1443	8	405	1201		ハイ	ハイ	おが(む)	おが･む, おろが･む	worship, pray	worship, adore, pray to
-補	2	6	332	12	406	889		ホ	ホ	おぎな(う)	おぎな･う	supply, compensate	supplement, supply, make good, offset, compensate, assistant, learner
-億	2	4	716	15	408	382		オク	オク			hundred million	hundred million, 10**8
-贈	2	8	1001	18	410	1364		ゾウ, ソウ	ゾウ, ソウ	おく(る)	おく･る	give, present	presents, send, give to, award to, confer on, presenting something
-幼	2	6	1227	5	411	1229		ヨウ	ヨウ	おさな(い)	おさな･い	very young, childish (12ura29)	infancy, childhood
-踊	2	8	1308	14	418	1558		ヨウ	ヨウ	おど(る), おど(り)	おど･る	dance	jump, dance, leap, skip
-各	2	4	243	6	419	642		カク	カク	おのおの	おのおの	each, every	each, every, either
-帯	2	4	746	10	420	963		タイ	タイ	おび, お(びる)	お･びる, おび	belt, region, wear	sash, belt, obi, zone, region
-荷	2	3	1230	10	430	391		カ	カ	に	に	load, cargo	baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight
-貨	2	4	822	11	433	752		カ	カ		たから	freight, goods, money	freight, goods, property
-課	2	4	455	15	434	488		カ	カ			lesson, section	chapter, lesson, section, department, division, counter for chapters (of a book)
-河	2	5	663	8	436	389		カ	カ	かわ	かわ	river	river
-菓	2	8	1719	11	437	1535		カ	カ			confectionery, cake	candy, cakes, fruit
+占	2	8	694	5	373	1706	1822	セン	セン	し(める), うらな(う), うらな(い)	し･める, うらな･う	occupy, divine	fortune-telling, divining, forecasting, occupy, hold, have, get, take
+栄	2	4	920	9	377	723	736	エイ	エイ, ヨウ	さか(える), は(え), は(える)	さか･える, は･え, -ば･え, は･える, え	prosper, glory	flourish, prosperity, honor, glory, splendor
+永	2	5	846	5	378	1207	1270	エイ	エイ	なが(い)	なが･い	long time, eternal	eternity, long, lengthy
+鋭	2	8	1395	15	379	1371	1458	エイ	エイ	するど(い)	するど･い	sharp	pointed, sharpness, edge, weapon, sharp, violent
+液	2	5	1210	11	381	472	480	エキ	エキ			liquid, fluid	fluid, liquid, juice, sap, secretion
+枝	2	5	1401	8	382	870	889	シ	シ	えだ	えだ	branch	bough, branch, twig, limb, counter for branches
+塩	2	4	1148	13	387	1101	1152	エン	エン	しお	しお	salt	salt
+延	2	6	747	8	389	1115	1167	エン	エン	の(びる), の(べる), の(ばす)	の･びる, の･べる, の･べ, の･ばす	postpone, prolong	prolong, stretching
+汚	2	8	908	6	392	693	706	オ	オ	きたな(い), けが(す), よご(す)	けが･す, けが･れる, けが･らわしい, よご･す, よご･れる, きたな･い	dirty, soiled	dirty, pollute, disgrace, rape, defile
+黄	2	2	1240	11	398	780	794	オウ, コウ	コウ, オウ	き, こ	き, こ-	yellow	yellow
+央	2	3	582	5	399	351	352	オウ	オウ			center, middle	center, middle
+欧	2	8	421	8	401	1022	1061	オウ	オウ		うた･う, は･く	Europe	Europe
+奥	2	8	1018	12	403	476	484	オウ	オウ	おく	おく, おく･まる, くま	interior, depths	heart, interior
+拝	2	6	1443	8	405	1201	1264	ハイ	ハイ	おが(む)	おが･む, おろが･む	worship, pray	worship, adore, pray to
+補	2	6	332	12	406	889	910	ホ	ホ	おぎな(う)	おぎな･う	supply, compensate	supplement, supply, make good, offset, compensate, assistant, learner
+億	2	4	716	15	408	382	383	オク	オク			hundred million	hundred million, 10**8
+贈	2	8	1001	18	410	1364	1451	ゾウ, ソウ	ゾウ, ソウ	おく(る)	おく･る	give, present	presents, send, give to, award to, confer on, presenting something
+幼	2	6	1227	5	411	1229	1293	ヨウ	ヨウ	おさな(い)	おさな･い	very young, childish (12ura29)	infancy, childhood
+踊	2	8	1308	14	418	1558	1661	ヨウ	ヨウ	おど(る), おど(り)	おど･る	dance	jump, dance, leap, skip
+各	2	4	243	6	419	642	652	カク	カク	おのおの	おのおの	each, every	each, every, either
+帯	2	4	746	10	420	963	994	タイ	タイ	おび, お(びる)	お･びる, おび	belt, region, wear	sash, belt, obi, zone, region
+荷	2	3	1230	10	430	391	393	カ	カ	に	に	load, cargo	baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight
+貨	2	4	822	11	433	752	765	カ	カ		たから	freight, goods, money	freight, goods, property
+課	2	4	455	15	434	488	497	カ	カ			lesson, section	chapter, lesson, section, department, division, counter for chapters (of a book)
+河	2	5	663	8	436	389	391	カ	カ	かわ	かわ	river	river
+菓	2	8	1719	11	437	1535	1636	カ	カ			confectionery, cake	candy, cakes, fruit
 貝	2	1	1787	7	439	240	240		バイ	かい	かい	shellfish	shellfish
-階	2	3	513	12	440	588		カイ	カイ		きざはし	stair, floor, story	storey, stair, counter for storeys of a building
-械	2	4	1321	11	441	529		カイ	カイ		かせ	machine	contraption, fetter, machine, instrument
-快	2	5	1074	7	442	1409		カイ	カイ	こころよ(い)	こころよ･い	pleasant	cheerful, pleasant, agreeable, comfortable
-灰	2	6	1717	6	444	1343		カイ	カイ	はい	はい	ashes	ashes, puckery juice, cremate
-介	2	8	617	4	445	453		カイ	カイ			mediate	jammed in, shellfish, mediate, concern oneself with
+階	2	3	513	12	440	588	597	カイ	カイ		きざはし	stair, floor, story	storey, stair, counter for storeys of a building
+械	2	4	1321	11	441	529	538	カイ	カイ		かせ	machine	contraption, fetter, machine, instrument
+快	2	5	1074	7	442	1409	1498	カイ	カイ	こころよ(い)	こころよ･い	pleasant	cheerful, pleasant, agreeable, comfortable
+灰	2	6	1717	6	444	1343	1426	カイ	カイ	はい	はい	ashes	ashes, puckery juice, cremate
+介	2	8	617	4	445	453	460	カイ	カイ			mediate	jammed in, shellfish, mediate, concern oneself with
 省	2	4	548	9	450	145	145	セイ, ショウ	セイ, ショウ	かえり(みる), はぶ(く)	かえり･みる, はぶ･く	ministry, omit	focus, government ministry, conserve
-替	2	8	979	12	452	744		タイ	タイ	か(える), か(わる)	か･える, か･え-, か･わる	replace	exchange, spare, substitute, per-
-換	2	8	687	12	453	1586		カン	カン	か(える), か(わる)	か･える, -か･える, か･わる	exchange, replace	interchange, period, change, convert, replace, renew
-角	2	2	805	7	458	473		カク	カク	かど, つの	かど, つの	angle, corner, horn	angle, corner, square, horn, antlers
-革	2	6	249	9	462	1075		カク	カク	かわ	かわ	reform, leather	leather, skin, reform, become serious
-額	2	5	407	18	463	838		ガク	ガク	ひたい	ひたい	amount, forehead	forehead, tablet, plaque, framed picture, sum, amount, volume
-賢	2	8	1159	16	464	1288		ケン	ケン	かしこ(い)	かしこ･い	wise, intelligent	intelligent, wise, wisdom, cleverness
-型	2	5	482	9	467	888		ケイ	ケイ	かた	かた, -がた	model, form, type	mould, type, model
-片	2	6	1076	4	468	1045		ヘン	ヘン	かた	かた-, かた	one side, fragment	one-sided, leaf, sheet, right-side kata radical (no. 91)
-肩	2	8	1215	8	469	1264		ケン	ケン	かた	かた	shoulder	shoulder
-固	2	4	750	8	470	972		コ	コ	かた(い), かた(まる), かた(める)	かた･める, かた･まる, かた･まり, かた･い	hard, solid, firm	harden, set, clot, curdle
-硬	2	8	1101	12	472	1009		コウ	コウ	かた(い)	かた･い	hard, solid, firm	stiff, hard
-傾	2	8	938	13	474	1441		ケイ	ケイ	かたむ(く), かたむ(ける)	かたむ･く, かたむ･ける, かたぶ･く, かた･げる, かし･げる	lean, incline	lean, incline, tilt, trend, wane, sink, ruin, bias
-担	2	6	422	8	478	1274		タン	タン	かつ(ぐ), にな(う)	かつ･ぐ, にな･う	bear, shoulder, trick	shouldering, carry, raise, bear
-辛	2	8	1607	7	485	1487		シン	シン	から(い)	から･い, つら･い, -づら･い, かのと	hot, spicy, hard	spicy, bitter, hot, acrid
-枯	2	8	1749	9	486	974		コ	コ	か(れる), か(らす)	か･れる, か･らす	wither	wither, die, dry up, be seasoned
-絡	2	8	806	12	487	840		ラク	ラク	から(む), から(まる)	から･む, から･まる	entwine	entwine, coil around, get caught in
-皮	2	3	1092	5	488	975		ヒ	ヒ	かわ	かわ	skin	pelt, skin, hide, leather, skin radical (no. 107)
-乾	2	8	1453	11	490	1190		カン	カン, ケン	かわ(く), かわ(かす)	かわ･く, かわ･かす, ほ･す, ひ･る, いぬい	dry, parch	drought, dry, dessicate, drink up, heaven, emperor
+替	2	8	979	12	452	744	757	タイ	タイ	か(える), か(わる)	か･える, か･え-, か･わる	replace	exchange, spare, substitute, per-
+換	2	8	687	12	453	1586	1693	カン	カン	か(える), か(わる)	か･える, -か･える, か･わる	exchange, replace	interchange, period, change, convert, replace, renew
+角	2	2	805	7	458	473	481	カク	カク	かど, つの	かど, つの	angle, corner, horn	angle, corner, square, horn, antlers
+革	2	6	249	9	462	1075	1123	カク	カク	かわ	かわ	reform, leather	leather, skin, reform, become serious
+額	2	5	407	18	463	838	857	ガク	ガク	ひたい	ひたい	amount, forehead	forehead, tablet, plaque, framed picture, sum, amount, volume
+賢	2	8	1159	16	464	1288	1362	ケン	ケン	かしこ(い)	かしこ･い	wise, intelligent	intelligent, wise, wisdom, cleverness
+型	2	5	482	9	467	888	909	ケイ	ケイ	かた	かた, -がた	model, form, type	mould, type, model
+片	2	6	1076	4	468	1045	1088	ヘン	ヘン	かた	かた-, かた	one side, fragment	one-sided, leaf, sheet, right-side kata radical (no. 91)
+肩	2	8	1215	8	469	1264	1337	ケン	ケン	かた	かた	shoulder	shoulder
+固	2	4	750	8	470	972	1004	コ	コ	かた(い), かた(まる), かた(める)	かた･める, かた･まる, かた･まり, かた･い	hard, solid, firm	harden, set, clot, curdle
+硬	2	8	1101	12	472	1009	1046	コウ	コウ	かた(い)	かた･い	hard, solid, firm	stiff, hard
+傾	2	8	938	13	474	1441	1533	ケイ	ケイ	かたむ(く), かたむ(ける)	かたむ･く, かたむ･ける, かたぶ･く, かた･げる, かし･げる	lean, incline	lean, incline, tilt, trend, wane, sink, ruin, bias
+担	2	6	422	8	478	1274	1348	タン	タン	かつ(ぐ), にな(う)	かつ･ぐ, にな･う	bear, shoulder, trick	shouldering, carry, raise, bear
+辛	2	8	1607	7	485	1487	1584	シン	シン	から(い)	から･い, つら･い, -づら･い, かのと	hot, spicy, hard	spicy, bitter, hot, acrid
+枯	2	8	1749	9	486	974	1007	コ	コ	か(れる), か(らす)	か･れる, か･らす	wither	wither, die, dry up, be seasoned
+絡	2	8	806	12	487	840	859	ラク	ラク	から(む), から(まる)	から･む, から･まる	entwine	entwine, coil around, get caught in
+皮	2	3	1092	5	488	975	1008	ヒ	ヒ	かわ	かわ	skin	pelt, skin, hide, leather, skin radical (no. 107)
+乾	2	8	1453	11	490	1190	1249	カン	カン, ケン	かわ(く), かわ(かす)	かわ･く, かわ･かす, ほ･す, ひ･る, いぬい	dry, parch	drought, dry, dessicate, drink up, heaven, emperor
 管	2	4	517	14	494	328	328	カン	カン	くだ	くだ	pipe, tube, control	pipe, tube, wind instrument, drunken talk, control, jurisdiction
-刊	2	5	855	5	497	585		カン	カン			publish	publish, carve, engrave
-干	2	6	1349	3	499	584		カン	カン	ひ(る), ほ(す)	ほ･す, ほ･し-, -ぼ･し, ひ･る	dry	dry, parch, ebb, recede, interfere, intercede
-巻	2	6	944	9	500	507		カン	カン, ケン	ま(く), まき	ま･く, まき, ま･き	roll, volume	scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)
-簡	2	6	983	18	501	1533		カン	カン, ケン		えら･ぶ, ふだ	simple	simplicity, brevity
-缶	2	8	1543	6	502	1649		カン	カン		かま	can	tin can, container, jar radical (no. 121)
-患	2	8	796	11	503	1315		カン	カン	わずら(う)	わずら･う	illness, suffer	afflicted, disease, suffer from, be ill
-丸	2	2	542	3	504	644		ガン	ガン	まる, まる(い), まる(める)	まる, まる･める, まる･い	round	round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away
-涼	2	8	1783	11	507	1204		リョウ	リョウ	すず(しい), すず(む)	すず･しい, すず･む, すず･やか, うす･い, ひや･す, まことに	cool, refreshing	refreshing, nice and cool
-季	2	4	842	8	508	465		キ	キ			season	seasons
-岸	2	3	556	8	510	586		ガン	ガン	きし	きし	shore, coast	beach
-泊	2	8	1233	8	520	1177		ハク	ハク	と(まる), と(める)	と･まる, と･める	lodge, stay	overnight stay, put up at, ride at anchor
-含	2	8	466	7	523	1249		ガン	ガン	ふく(む), ふく(める)	ふく･む, ふく･める	contain, include, hold	contain, include, hold in the mouth, bear in mind, understand, cherish
-希	2	4	896	7	526	676		キ	キ, ケ		まれ, こいねが･う	hope, rare	hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal
-机	2	6	1671	6	531	1305		キ	キ	つくえ	つくえ	desk	desk, table
-材	2	4	565	7	538	552		ザイ	ザイ			material, talent	lumber, log, timber, wood, materials, ingredients, talent
-焼	2	4	982	12	539	920		ショウ	ショウ	や(く), や(ける)	や･く, や･き, や･き-, -や･き, や･ける	burn, roast, bake	bake, burning
-技	2	5	434	7	540	871		ギ	ギ	わざ	わざ	technique, skill	skill, art, craft, ability, feat, performance, vocation, arts
-効	2	5	538	8	542	816		コウ	コウ	き(く)	き･く, ききめ, なら･う	effect, efficient	merit, efficacy, efficiency, benefit
-兆	2	4	1174	6	543	1562		チョウ	チョウ	きざ(し), きざ(す)	きざ･す, きざ･し	sign, symptom, trillion	portent, 10**12, trillion, sign, omen, symptoms
-築	2	5	821	16	545	1603		チク	チク	きず(く)	きず･く	build, construct, erect	fabricate, build, construct
-競	2	4	610	20	546	852		キョウ, ケイ	キョウ, ケイ	きそ(う), せ(る)	きそ･う, せ･る, くら･べる	compete, vie	emulate, compete with, bid, sell at auction, bout, contest, race
-郵	2	6	917	11	550	524		ユウ	ユウ			mail	mail, stagecoach stop
-卒	2	4	772	8	555	787		ソツ	ソツ, シュツ		そっ･する, お･える, お･わる, ついに, にわか	soldier, end	graduate, soldier, private, die
-包	2	4	954	5	556	804		ホウ	ホウ	つつ(む)	つつ･む, くる･む	wrap, pack	wrap, pack up, cover, conceal
-航	2	5	665	10	559	823		コウ	コウ			navigation	navigate, sail, cruise, fly
-喫	2	8	1347	12	560	1240		キツ	キツ		の･む	eat, drink, smoke	consume, eat, drink, smoke, receive (a blow)
-詰	2	8	1020	13	561	1142		キツ	キツ, キチ	つ(む), つ(める), つ(まる)	つ･める, つ･め, -づ･め, つ･まる, つ･む	cram, shorten	packed, close, pressed, reprove, rebuke, blame
-逆	2	5	683	9	564	444		ギャク	ギャク, ゲキ	さか, さか(らう)	さか, さか･さ, さか･らう	reverse, opposite	inverted, reverse, opposite, wicked
-練	2	3	788	14	571	743		レン	レン	ね(る)	ね･る, ね･り	knead, train, polish	practice, gloss, train, drill, polish, refine
-久	2	5	688	3	579	1210		キュウ, ク	キュウ, ク	ひさ(しい)	ひさ･しい	long time	long time, old story
-旧	2	5	549	5	580	1216		キュウ	キュウ		ふる･い, もと	old, former	old times, old things, old friend, former, ex-
-清	2	4	705	11	583	660		セイ, ショウ	セイ, ショウ, シン	きよ(い), きよ(まる), きよ(める)	きよ･い, きよ･まる, きよ･める	pure, clean, clear	pure, purify, cleanse, exorcise, Manchu dynasty
-橋	2	3	553	16	584	597		キョウ	キョウ	はし	はし	bridge	bridge
+刊	2	5	855	5	497	585	594	カン	カン			publish	publish, carve, engrave
+干	2	6	1349	3	499	584	593	カン	カン	ひ(る), ほ(す)	ほ･す, ほ･し-, -ぼ･し, ひ･る	dry	dry, parch, ebb, recede, interfere, intercede
+巻	2	6	944	9	500	507	516	カン	カン, ケン	ま(く), まき	ま･く, まき, ま･き	roll, volume	scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)
+簡	2	6	983	18	501	1533	1634	カン	カン, ケン		えら･ぶ, ふだ	simple	simplicity, brevity
+缶	2	8	1543	6	502	1649	1762	カン	カン		かま	can	tin can, container, jar radical (no. 121)
+患	2	8	796	11	503	1315	1395	カン	カン	わずら(う)	わずら･う	illness, suffer	afflicted, disease, suffer from, be ill
+丸	2	2	542	3	504	644	654	ガン	ガン	まる, まる(い), まる(める)	まる, まる･める, まる･い	round	round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away
+涼	2	8	1783	11	507	1204	1267	リョウ	リョウ	すず(しい), すず(む)	すず･しい, すず･む, すず･やか, うす･い, ひや･す, まことに	cool, refreshing	refreshing, nice and cool
+季	2	4	842	8	508	465	473	キ	キ			season	seasons
+岸	2	3	556	8	510	586	595	ガン	ガン	きし	きし	shore, coast	beach
+泊	2	8	1233	8	520	1177	1235	ハク	ハク	と(まる), と(める)	と･まる, と･める	lodge, stay	overnight stay, put up at, ride at anchor
+含	2	8	466	7	523	1249	1317	ガン	ガン	ふく(む), ふく(める)	ふく･む, ふく･める	contain, include, hold	contain, include, hold in the mouth, bear in mind, understand, cherish
+希	2	4	896	7	526	676	689	キ	キ, ケ		まれ, こいねが･う	hope, rare	hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal
+机	2	6	1671	6	531	1305	1384	キ	キ	つくえ	つくえ	desk	desk, table
+材	2	4	565	7	538	552	561	ザイ	ザイ			material, talent	lumber, log, timber, wood, materials, ingredients, talent
+焼	2	4	982	12	539	920	942	ショウ	ショウ	や(く), や(ける)	や･く, や･き, や･き-, -や･き, や･ける	burn, roast, bake	bake, burning
+技	2	5	434	7	540	871	891	ギ	ギ	わざ	わざ	technique, skill	skill, art, craft, ability, feat, performance, vocation, arts
+効	2	5	538	8	542	816	835	コウ	コウ	き(く)	き･く, ききめ, なら･う	effect, efficient	merit, efficacy, efficiency, benefit
+兆	2	4	1174	6	543	1562	1665	チョウ	チョウ	きざ(し), きざ(す)	きざ･す, きざ･し	sign, symptom, trillion	portent, 10**12, trillion, sign, omen, symptoms
+築	2	5	821	16	545	1603	1710	チク	チク	きず(く)	きず･く	build, construct, erect	fabricate, build, construct
+競	2	4	610	20	546	852	871	キョウ, ケイ	キョウ, ケイ	きそ(う), せ(る)	きそ･う, せ･る, くら･べる	compete, vie	emulate, compete with, bid, sell at auction, bout, contest, race
+郵	2	6	917	11	550	524	533	ユウ	ユウ			mail	mail, stagecoach stop
+卒	2	4	772	8	555	787	801	ソツ	ソツ, シュツ		そっ･する, お･える, お･わる, ついに, にわか	soldier, end	graduate, soldier, private, die
+包	2	4	954	5	556	804	819	ホウ	ホウ	つつ(む)	つつ･む, くる･む	wrap, pack	wrap, pack up, cover, conceal
+航	2	5	665	10	559	823	842	コウ	コウ			navigation	navigate, sail, cruise, fly
+喫	2	8	1347	12	560	1240	1306	キツ	キツ		の･む	eat, drink, smoke	consume, eat, drink, smoke, receive (a blow)
+詰	2	8	1020	13	561	1142	1195	キツ	キツ, キチ	つ(む), つ(める), つ(まる)	つ･める, つ･め, -づ･め, つ･まる, つ･む	cram, shorten	packed, close, pressed, reprove, rebuke, blame
+逆	2	5	683	9	564	444	451	ギャク	ギャク, ゲキ	さか, さか(らう)	さか, さか･さ, さか･らう	reverse, opposite	inverted, reverse, opposite, wicked
+練	2	3	788	14	571	743	756	レン	レン	ね(る)	ね･る, ね･り	knead, train, polish	practice, gloss, train, drill, polish, refine
+久	2	5	688	3	579	1210	1273	キュウ, ク	キュウ, ク	ひさ(しい)	ひさ･しい	long time	long time, old story
+旧	2	5	549	5	580	1216	1279	キュウ	キュウ		ふる･い, もと	old, former	old times, old things, old friend, former, ex-
+清	2	4	705	11	583	660	671	セイ, ショウ	セイ, ショウ, シン	きよ(い), きよ(まる), きよ(める)	きよ･い, きよ･まる, きよ･める	pure, clean, clear	pure, purify, cleanse, exorcise, Manchu dynasty
+橋	2	3	553	16	584	597	607	キョウ	キョウ	はし	はし	bridge	bridge
 協	2	4	121	8	586	234	234	キョウ	キョウ			cooperate	co-, cooperation
-境	2	5	346	14	588	864		キョウ, ケイ	キョウ, ケイ	さかい	さかい	boundary	boundary, border, region
-胸	2	6	1144	10	589	1283		キョウ	キョウ	むね, むな	むね, むな-	breast, chest	bosom, breast, chest, heart, feelings
-叫	2	8	1426	6	590	1252		キョウ	キョウ	さけ(ぶ)	さけ･ぶ	shout, cry out	shout, exclaim, yell
-況	2	8	490	8	591	850		キョウ	キョウ		まし･て, いわ･んや, おもむき	conditions, situation	condition, situation
-挟	2	8	1870	9	593	1354		キョウ	キョウ, ショウ	はさ(む), はさ(まる)	はさ･む, はさ･まる, わきばさ･む, さしはさ･む	put between, insert	pinch, between
-緑	2	3	1180	14	596	537		リョク, ロク	リョク, ロク	みどり	みどり	green	green
+境	2	5	346	14	588	864	883	キョウ, ケイ	キョウ, ケイ	さかい	さかい	boundary	boundary, border, region
+胸	2	6	1144	10	589	1283	1357	キョウ	キョウ	むね, むな	むね, むな-	breast, chest	bosom, breast, chest, heart, feelings
+叫	2	8	1426	6	590	1252	1321	キョウ	キョウ	さけ(ぶ)	さけ･ぶ	shout, cry out	shout, exclaim, yell
+況	2	8	490	8	591	850	869	キョウ	キョウ		まし･て, いわ･んや, おもむき	conditions, situation	condition, situation
+挟	2	8	1870	9	593	1354	1437	キョウ	キョウ, ショウ	はさ(む), はさ(まる)	はさ･む, はさ･まる, わきばさ･む, さしはさ･む	put between, insert	pinch, between
+緑	2	3	1180	14	596	537	546	リョク, ロク	リョク, ロク	みどり	みどり	green	green
 極	2	4	460	12	599	336	336	キョク, ゴク	キョク, ゴク	きわ(める), きわ(まる), きわ(み)	きわ･める, きわ･まる, きわ･まり, きわ･み, き･める, -ぎ･め, き･まる	extreme, pole	poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48
 玉	2	1	737	5	600	295	295	ギョク	ギョク	たま	たま, たま-, -だま	gem, jewel, sphere	jewel, ball
-均	2	5	715	7	602	805		キン	キン		なら･す	equal, even	level, average
-禁	2	5	681	13	603	482		キン	キン			prohibit	prohibition, ban, forbid
-庫	2	3	852	10	607	825		コ, ク	コ, ク		くら	storehouse	warehouse, storehouse
-紅	2	6	1299	9	608	820		コウ, ク	コウ, ク	くれない, べに	べに, くれない, あか･い	crimson, rouge, lipstick	crimson, deep red
-隅	2	8	1601	12	611	1640		グウ	グウ	すみ	すみ	corner, nook	corner, nook
-掘	2	8	1257	11	613	1803		クツ	クツ	ほ(る)	ほ･る	dig	dig, delve, excavate
-曇	2	8	1899	16	616	637		ドン	ドン	くも(る)	くも･る	cloudy	cloudy weather, cloud up
-蔵	2	6	468	15	617	1286		ゾウ	ゾウ, ソウ	くら	くら, おさ･める, かく･れる	warehouse, storehouse	storehouse, hide, own, have, possess
-比	2	5	329	4	619	798		ヒ	ヒ	くら(べる)	くら･べる	compare	compare, race, ratio, Philippines
-訓	2	4	1134	10	620	771		クン	クン, キン		おし･える, よ･む, くん･ずる	instruct, teach	instruction, Japanese character reading, explanation, read
-軍	2	4	189	9	621	438		グン	グン		いくさ	army, troops	army, force, troops, war, battle
-群	2	4	1012	13	622	794		グン	グン	む(れ), む(れる)	む･れる, む･れ, むら, むら･がる	group, crowd	flock, group, crowd, herd, swarm, cluster
+均	2	5	715	7	602	805	820	キン	キン		なら･す	equal, even	level, average
+禁	2	5	681	13	603	482	491	キン	キン			prohibit	prohibition, ban, forbid
+庫	2	3	852	10	607	825	844	コ, ク	コ, ク		くら	storehouse	warehouse, storehouse
+紅	2	6	1299	9	608	820	839	コウ, ク	コウ, ク	くれない, べに	べに, くれない, あか･い	crimson, rouge, lipstick	crimson, deep red
+隅	2	8	1601	12	611	1640	1753	グウ	グウ	すみ	すみ	corner, nook	corner, nook
+掘	2	8	1257	11	613	1803	1941	クツ	クツ	ほ(る)	ほ･る	dig	dig, delve, excavate
+曇	2	8	1899	16	616	637	647	ドン	ドン	くも(る)	くも･る	cloudy	cloudy weather, cloud up
+蔵	2	6	468	15	617	1286	1360	ゾウ	ゾウ, ソウ	くら	くら, おさ･める, かく･れる	warehouse, storehouse	storehouse, hide, own, have, possess
+比	2	5	329	4	619	798	812	ヒ	ヒ	くら(べる)	くら･べる	compare	compare, race, ratio, Philippines
+訓	2	4	1134	10	620	771	785	クン	クン, キン		おし･える, よ･む, くん･ずる	instruct, teach	instruction, Japanese character reading, explanation, read
+軍	2	4	189	9	621	438	444	グン	グン		いくさ	army, troops	army, force, troops, war, battle
+群	2	4	1012	13	622	794	808	グン	グン	む(れ), む(れる)	む･れる, む･れ, むら, むら･がる	group, crowd	flock, group, crowd, herd, swarm, cluster
 毛	2	2	1179	4	623	287	287	モウ	モウ	け	け	hair, fur, down	fur, hair, feather, down
-芸	2	4	719	7	626	435		ゲイ	ゲイ, ウン		う･える, のり, わざ	art, skill	technique, art, craft, performance, acting, trick, stunt
-劇	2	6	662	15	628	797		ゲキ	ゲキ			drama, play	drama, play
-血	2	3	832	6	629	789		ケツ	ケツ	ち	ち	blood	blood
-券	2	6	583	8	632	506		ケン	ケン			ticket, coupon, certificate	ticket
-軒	2	8	1416	10	635	1187		ケン	ケン	のき	のき	eaves	flats, counter for houses, eaves
-減	2	5	261	12	637	715		ゲン	ゲン	へ(る), へ(らす)	へ･る, へ･らす	decrease, diminish	dwindle, decrease, reduce, decline, curtail, get hungry
-粉	2	5	1484	10	638	1701		フン	フン	こ, こな	デシメートル, こ, こな	flour, powder	flour, powder, dust
+芸	2	4	719	7	626	435	441	ゲイ	ゲイ, ウン		う･える, のり, わざ	art, skill	technique, art, craft, performance, acting, trick, stunt
+劇	2	6	662	15	628	797	811	ゲキ	ゲキ			drama, play	drama, play
+血	2	3	832	6	629	789	803	ケツ	ケツ	ち	ち	blood	blood
+券	2	6	583	8	632	506	515	ケン	ケン			ticket, coupon, certificate	ticket
+軒	2	8	1416	10	635	1187	1246	ケン	ケン	のき	のき	eaves	flats, counter for houses, eaves
+減	2	5	261	12	637	715	728	ゲン	ゲン	へ(る), へ(らす)	へ･る, へ･らす	decrease, diminish	dwindle, decrease, reduce, decline, curtail, get hungry
+粉	2	5	1484	10	638	1701	1817	フン	フン	こ, こな	デシメートル, こ, こな	flour, powder	flour, powder, dust
 戸	2	2	575	4	639	152	152	コ	コ	と	と	door	door, counter for houses, door radical (no. 63)
-湖	2	3	1344	12	640	467		コ	コ	みずうみ	みずうみ	lake	lake
-個	2	5	451	10	641	973		コ	コ, カ			individual	individual, counter for articles
-雇	2	8	975	12	643	1553		コ	コ	やと(う)	やと･う	employ, hire	employ, hire
+湖	2	3	1344	12	640	467	475	コ	コ	みずうみ	みずうみ	lake	lake
+個	2	5	451	10	641	973	1005	コ	コ, カ			individual	individual, counter for articles
+雇	2	8	975	12	643	1553	1655	コ	コ	やと(う)	やと･う	employ, hire	employ, hire
 恋	2	8	1296	10	645	258	258	レン	レン	こい, こい(しい)	こ･う, こい, こい･しい	love, yearn	romance, in love, yearn for, miss, darling
-濃	2	8	1200	16	646	957		ノウ	ノウ	こ(い)	こ･い	thick, dark, strong	concentrated, thick, dark, undiluted
-耕	2	5	1568	10	650	1196		コウ	コウ	たがや(す)	たがや･す	till, plow, cultivate	till, plow, cultivate
-鉱	2	5	1376	13	651	1604		コウ	コウ		あらがね	ore, mine	mineral, ore
-誌	2	6	851	14	654	574		シ	シ			journal, magazine	document, records
-講	2	5	653	17	661	783		コウ	コウ			lecture, club	lecture, club, association
-肯	2	8	1813	8	663	1262		コウ	コウ		がえんじ･る	assent, consent	agreement, consent, comply with
-郊	2	8	1304	9	664	817		コウ	コウ			suburb, outskirts	outskirts, suburbs, rural area
-被	2	8	431	10	665	976		ヒ	ヒ	こうむ(る), かぶ(る)	こうむ･る, おお･う, かぶ･る, かぶ･せる	suffer, receive	incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving
-超	2	8	597	12	666	1000		チョウ	チョウ	こ(す), こ(える)	こ･える, こ･す	super, surpass	transcend, super-, ultra-
-氷	2	3	1450	5	667	1206		ヒョウ	ヒョウ	こおり, ひ	こおり, ひ, こお･る	ice	icicle, ice, hail, freeze, congeal
-凍	2	8	1284	10	668	1205		トウ	トウ	こお(る), こご(える)	こお･る, こご･える, こご･る, い･てる, し･みる	freeze	frozen, congeal, refrigerate
-谷	2	2	508	7	669	653		コク	コク	たに	たに, きわ･まる	valley	valley
-腰	2	8	1306	13	671	1298		ヨウ	ヨウ	こし	こし	loins, hips	loins, hips, waist, low wainscoting
-骨	2	6	936	10	672	1266		コツ	コツ	ほね	ほね	bone	skeleton, bone, remains, frame
-細	2	2	537	11	674	695		サイ	サイ	ほそ(い), ほそ(る), こま(か), こま(かい)	ほそ･い, ほそ･る, こま･か, こま･かい	small, slender, fine	dainty, get thin, taper, slender, narrow, detailed, precise
+濃	2	8	1200	16	646	957	987	ノウ	ノウ	こ(い)	こ･い	thick, dark, strong	concentrated, thick, dark, undiluted
+耕	2	5	1568	10	650	1196	1259	コウ	コウ	たがや(す)	たがや･す	till, plow, cultivate	till, plow, cultivate
+鉱	2	5	1376	13	651	1604	1711	コウ	コウ		あらがね	ore, mine	mineral, ore
+誌	2	6	851	14	654	574	583	シ	シ			journal, magazine	document, records
+講	2	5	653	17	661	783	797	コウ	コウ			lecture, club	lecture, club, association
+肯	2	8	1813	8	663	1262	1334	コウ	コウ		がえんじ･る	assent, consent	agreement, consent, comply with
+郊	2	8	1304	9	664	817	836	コウ	コウ			suburb, outskirts	outskirts, suburbs, rural area
+被	2	8	431	10	665	976	1009	ヒ	ヒ	こうむ(る), かぶ(る)	こうむ･る, おお･う, かぶ･る, かぶ･せる	suffer, receive	incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving
+超	2	8	597	12	666	1000	1037	チョウ	チョウ	こ(す), こ(える)	こ･える, こ･す	super, surpass	transcend, super-, ultra-
+氷	2	3	1450	5	667	1206	1269	ヒョウ	ヒョウ	こおり, ひ	こおり, ひ, こお･る	ice	icicle, ice, hail, freeze, congeal
+凍	2	8	1284	10	668	1205	1268	トウ	トウ	こお(る), こご(える)	こお･る, こご･える, こご･る, い･てる, し･みる	freeze	frozen, congeal, refrigerate
+谷	2	2	508	7	669	653	664	コク	コク	たに	たに, きわ･まる	valley	valley
+腰	2	8	1306	13	671	1298	1373	ヨウ	ヨウ	こし	こし	loins, hips	loins, hips, waist, low wainscoting
+骨	2	6	936	10	672	1266	1340	コツ	コツ	ほね	ほね	bone	skeleton, bone, remains, frame
+細	2	2	537	11	674	695	708	サイ	サイ	ほそ(い), ほそ(る), こま(か), こま(かい)	ほそ･い, ほそ･る, こま･か, こま･かい	small, slender, fine	dainty, get thin, taper, slender, narrow, detailed, precise
 根	2	3	620	10	680	314	314	コン	コン	ね	ね, -ね	root, origin	root, radical, head (pimple)
-混	2	5	824	11	681	799		コン	コン	ま(ぜる), ま(ざる), ま(じる)	ま･じる, -ま･じり, ま･ざる, ま･ぜる, こ･む	mix, blend	mix, blend, confuse
-接	2	5	523	11	685	486		セツ	セツ, ショウ	つ(ぐ)	つ･ぐ	touch, contact, join	touch, contact, adjoin, piece together
-専	2	6	506	9	686	600		セン	セン	もっぱ(ら)	もっぱ･ら	entirely, exclusively	specialty, exclusive, mainly, solely
-査	2	5	184	9	693	624		サ	サ			investigate	investigate
-砂	2	6	1146	9	694	1151		サ, シャ	サ, シャ	すな	すな	sand	sand
-再	2	5	275	6	695	782		サイ, サ	サイ, サ	ふたた(び)	ふたた･び	once more, again	again, twice, second time
-祭	2	3	1124	11	698	617		サイ	サイ	まつ(る), まつ(り)	まつ･る, まつ･り, まつり	deify, worship, festival	ritual, offer prayers, celebrate, deify, enshrine, worship
-採	2	5	607	11	701	933		サイ	サイ	と(る)	と･る	take on, pick, gather	pick, take, fetch, take up
-坂	2	3	865	7	706	443		ハン	ハン	さか	さか	slope, hill	slope, incline, hill
-捜	2	8	592	10	708	989		ソウ	ソウ, シュ, シュウ	さが(す)	さが･す	search, look for	search, look for, locate
-咲	2	8	1534	9	710	927			ショウ	さ(く)	さ･く, -ざき	bloom	blossom, bloom
-冊	2	6	1313	5	711	1158		サツ, サク	サツ, サク		ふみ	book, volume	tome, counter for books, volume
-刺	2	8	1031	8	713	881		シ	シ	さ(す), さ(さる)	さ･す, さ･さる, さ･し, さし, とげ	stab, stick	thorn, pierce, stab, prick, sting, calling card
-札	2	4	921	5	715	1157		サツ	サツ	ふだ	ふだ	paper money, card, label	tag, paper money, counter for bonds, placard, bid
-刷	2	4	1352	8	716	1044		サツ	サツ	す(る)	す･る, -ず･り, -ずり, は･く	print	printing, print, brush
-皿	2	3	1812	5	720	1097			ベイ	さら	さら	plate, dish	dish, a helping, plate
-拾	2	3	1479	9	726	1445		シュウ, ジュウ	シュウ, ジュウ	ひろ(う)	ひろ･う	pick up, find, gather	pick up, gather, find, go on foot, ten
-捨	2	6	1266	11	727	1444		シャ	シャ	す(てる)	す･てる	throw away, abandon	discard, throw away, abandon, resign, reject, sacrifice
-仲	2	4	919	6	730	1347		チュウ	チュウ	なか	なか	relationship	go-between, relationship
-触	2	8	904	13	731	874		ショク	ショク	さわ(る), ふ(れる)	ふ･れる, さわ･る, さわ	touch, feel	contact, touch, feel, hit, proclaim, announce, conflict
-算	2	2	361	14	732	747		サン	サン	そろ	そろ	calculate	calculate, divining, number, abacus, probability
+混	2	5	824	11	681	799	813	コン	コン	ま(ぜる), ま(ざる), ま(じる)	ま･じる, -ま･じり, ま･ざる, ま･ぜる, こ･む	mix, blend	mix, blend, confuse
+接	2	5	523	11	685	486	495	セツ	セツ, ショウ	つ(ぐ)	つ･ぐ	touch, contact, join	touch, contact, adjoin, piece together
+専	2	6	506	9	686	600	610	セン	セン	もっぱ(ら)	もっぱ･ら	entirely, exclusively	specialty, exclusive, mainly, solely
+査	2	5	184	9	693	624	634	サ	サ			investigate	investigate
+砂	2	6	1146	9	694	1151	1204	サ, シャ	サ, シャ	すな	すな	sand	sand
+再	2	5	275	6	695	782	796	サイ, サ	サイ, サ	ふたた(び)	ふたた･び	once more, again	again, twice, second time
+祭	2	3	1124	11	698	617	627	サイ	サイ	まつ(る), まつ(り)	まつ･る, まつ･り, まつり	deify, worship, festival	ritual, offer prayers, celebrate, deify, enshrine, worship
+採	2	5	607	11	701	933	960	サイ	サイ	と(る)	と･る	take on, pick, gather	pick, take, fetch, take up
+坂	2	3	865	7	706	443	449	ハン	ハン	さか	さか	slope, hill	slope, incline, hill
+捜	2	8	592	10	708	989	1026	ソウ	ソウ, シュ, シュウ	さが(す)	さが･す	search, look for	search, look for, locate
+咲	2	8	1534	9	710	927	951		ショウ	さ(く)	さ･く, -ざき	bloom	blossom, bloom
+冊	2	6	1313	5	711	1158	1213	サツ, サク	サツ, サク		ふみ	book, volume	tome, counter for books, volume
+刺	2	8	1031	8	713	881	902	シ	シ	さ(す), さ(さる)	さ･す, さ･さる, さ･し, さし, とげ	stab, stick	thorn, pierce, stab, prick, sting, calling card
+札	2	4	921	5	715	1157	1212	サツ	サツ	ふだ	ふだ	paper money, card, label	tag, paper money, counter for bonds, placard, bid
+刷	2	4	1352	8	716	1044	1087	サツ	サツ	す(る)	す･る, -ず･り, -ずり, は･く	print	printing, print, brush
+皿	2	3	1812	5	720	1097	1148		ベイ	さら	さら	plate, dish	dish, a helping, plate
+拾	2	3	1479	9	726	1445	1538	シュウ, ジュウ	シュウ, ジュウ	ひろ(う)	ひろ･う	pick up, find, gather	pick up, gather, find, go on foot, ten
+捨	2	6	1266	11	727	1444	1537	シャ	シャ	す(てる)	す･てる	throw away, abandon	discard, throw away, abandon, resign, reject, sacrifice
+仲	2	4	919	6	730	1347	1430	チュウ	チュウ	なか	なか	relationship	go-between, relationship
+触	2	8	904	13	731	874	894	ショク	ショク	さわ(る), ふ(れる)	ふ･れる, さわ･る, さわ	touch, feel	contact, touch, feel, hit, proclaim, announce, conflict
+算	2	2	361	14	732	747	760	サン	サン	そろ	そろ	calculate	calculate, divining, number, abacus, probability
 史	2	5	511	5	738	332	332	シ	シ			history	history, chronicle
-詞	2	6	1636	12	742	843		シ	シ		ことば	words	part of speech, words, poetry
+詞	2	6	1636	12	742	843	862	シ	シ		ことば	words	part of speech, words, poetry
 寺	2	2	879	6	744	41	41	ジ	ジ	てら	てら	temple	Buddhist temple
-児	2	4	679	7	745	1217		ジ, ニ	ジ, ニ, ゲイ		こ, -こ, -っこ	child, infant	newborn babe, child, young of animals
+児	2	4	679	7	745	1217	1280	ジ, ニ	ジ, ニ, ゲイ		こ, -こ, -っこ	child, infant	newborn babe, child, young of animals
 鉄	2	3	672	13	750	312	312	テツ	テツ	くろがね	くろがね	iron	iron
-将	2	6	634	10	754	627		ショウ	ショウ, ソウ		まさ･に, はた, まさ, ひきい･る, もって	commander, general	leader, commander, general, admiral, or, and again, soon, from now on, just about
-滴	2	8	2019	14	757	1446		テキ	テキ	しずく, したた(る)	しずく, したた･る	drop, trickle	drip, drop
-沈	2	8	1271	7	758	936		チン	チン, ジン	しず(む), しず(める)	しず･む, しず･める	sink	sink, be submerged, subside, be depressed, aloes
-湿	2	8	1517	12	759	1169		シツ	シツ, シュウ	しめ(る), しめ(す)	しめ･る, しめ･す, うるお･う, うるお･す	dampen, moisten	damp, wet, moist
+将	2	6	634	10	754	627	637	ショウ	ショウ, ソウ		まさ･に, はた, まさ, ひきい･る, もって	commander, general	leader, commander, general, admiral, or, and again, soon, from now on, just about
+滴	2	8	2019	14	757	1446	1539	テキ	テキ	しずく, したた(る)	しずく, したた･る	drop, trickle	drip, drop
+沈	2	8	1271	7	758	936	964	チン	チン, ジン	しず(む), しず(める)	しず･む, しず･める	sink	sink, be submerged, subside, be depressed, aloes
+湿	2	8	1517	12	759	1169	1226	シツ	シツ, シュウ	しめ(る), しめ(す)	しめ･る, しめ･す, うるお･う, うるお･す	dampen, moisten	damp, wet, moist
 島	2	3	245	10	761	286	286	トウ	トウ	しま	しま	island	island
 州	2	3	386	6	765	195	195	シュウ	シュウ, ス	す	す	state, province, sandbank	state, province
 周	2	4	562	8	766	91	91	シュウ	シュウ	まわ(り)	まわ･り	lap, circumference, surroundings	circumference, circuit, lap
-柔	2	8	1187	9	768	774		ジュウ, ニュウ	ジュウ, ニュウ	やわ(らかい)	やわ･らか, やわ･らかい, やわ, やわ･ら	soft, tender	tender, weakness, gentleness, softness
-述	2	5	379	8	769	968		ジュツ	ジュツ	の(べる)	の･べる	state, mention, explain	mention, state, speak, relate
-順	2	4	779	12	771	769		ジュン	ジュン			order, turn, obey	obey, order, turn, right, docility, occasion
-準	2	5	425	13	772	778		ジュン	ジュン		じゅん･じる, じゅん･ずる, なぞら･える, のり, ひと･しい, みずもり	semi-, quasi-, correspond	semi-, correspond to, proportionate to, conform, imitate
-純	2	6	1044	10	773	965		ジュン	ジュン			pure	genuine, purity, innocence, net (profit)
-署	2	6	725	13	775	860		ショ	ショ			government office	signature, govt office, police station
-諸	2	6	658	15	776	861		ショ	ショ		もろ	all, many, various	various, many, several, together
-章	2	3	990	11	777	857		ショウ	ショウ			chapter, badge	badge, chapter, composition, poem, design
-尊	2	6	1181	12	786	704		ソン	ソン	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	たっと･い, とうと･い, たっと･ぶ, とうと･ぶ	respect, precious, honor	revered, valuable, precious, noble, exalted
-般	2	8	649	10	791	1096		ハン	ハン			general, kind	carrier, carry, all, general, sort, kind
-象	2	5	394	12	794	739		ショウ, ゾウ	ショウ, ゾウ		かたど･る	image, elephant	elephant, pattern after, imitate, image, shape, sign (of the times)
-照	2	4	1004	13	795	998		ショウ	ショウ	て(る), て(らす), て(れる)	て･る, て･らす, て･れる	shine, illuminate	illuminate, shine, compare, bashful
-賞	2	5	426	15	797	500		ショウ	ショウ		ほ･める	prize, praise, reward	prize, reward, praise
-装	2	6	657	12	799	1328		ソウ, ショウ	ソウ, ショウ	よそお(う)	よそお･う, よそお･い	dress, pretend	attire, dress, pretend, disguise, profess
-召	2	8	1540	5	800	995		ショウ	ショウ	め(す)	め･す	summon, eat, drink, wear	seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)
-床	2	8	1175	7	801	826		ショウ	ショウ	とこ, ゆか	とこ, ゆか	floor, bed	bed, counter for beds, floor, padding, tatami
-昇	2	8	826	8	802	1777		ショウ	ショウ	のぼ(る)	のぼ･る	rise, promote	rise up
-紹	2	8	963	11	803	456		ショウ	ショウ			introduce	introduce, inherit, help
-星	2	2	844	9	804	730		セイ, ショウ	セイ, ショウ	ほし	ほし, -ぼし	star	star, spot, dot, mark
-城	2	4	795	9	809	720		ジョウ	ジョウ, セイ	しろ	しろ	castle	castle
-蒸	2	6	1552	13	810	943		ジョウ	ジョウ, セイ	む(す), む(れる), む(らす)	む･す, む･れる, む･らす	steam, sultry	steam, heat, sultry, foment, get musty
-量	2	4	469	12	816	411		リョウ	リョウ	はか(る)	はか･る	quantity, measure, weigh	quantity, measure, weight, amount, consider, estimate, surmise
-袋	2	8	1125	11	817	1329		タイ	タイ, ダイ	ふくろ	ふくろ	bag, sack	sack, bag, pouch
-湯	2	3	1356	12	818	632		トウ	トウ	ゆ	ゆ	hot water, bath	hot water, bath, hot spring
-畳	2	8	1665	12	822	1087		ジョウ	ジョウ, チョウ	たたみ, たた(む)	たた･む, たたみ, かさ･なる	tatami, fold	tatami mat, counter for tatami mats, fold, shut up, do away with
-臣	2	4	1249	7	826	835		シン, ジン	シン, ジン			subject, retainer	retainer, subject
+柔	2	8	1187	9	768	774	788	ジュウ, ニュウ	ジュウ, ニュウ	やわ(らかい)	やわ･らか, やわ･らかい, やわ, やわ･ら	soft, tender	tender, weakness, gentleness, softness
+述	2	5	379	8	769	968	1000	ジュツ	ジュツ	の(べる)	の･べる	state, mention, explain	mention, state, speak, relate
+順	2	4	779	12	771	769	783	ジュン	ジュン			order, turn, obey	obey, order, turn, right, docility, occasion
+準	2	5	425	13	772	778	792	ジュン	ジュン		じゅん･じる, じゅん･ずる, なぞら･える, のり, ひと･しい, みずもり	semi-, quasi-, correspond	semi-, correspond to, proportionate to, conform, imitate
+純	2	6	1044	10	773	965	996	ジュン	ジュン			pure	genuine, purity, innocence, net (profit)
+署	2	6	725	13	775	860	879	ショ	ショ			government office	signature, govt office, police station
+諸	2	6	658	15	776	861	880	ショ	ショ		もろ	all, many, various	various, many, several, together
+章	2	3	990	11	777	857	876	ショウ	ショウ			chapter, badge	badge, chapter, composition, poem, design
+尊	2	6	1181	12	786	704	717	ソン	ソン	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	たっと･い, とうと･い, たっと･ぶ, とうと･ぶ	respect, precious, honor	revered, valuable, precious, noble, exalted
+般	2	8	649	10	791	1096	1147	ハン	ハン			general, kind	carrier, carry, all, general, sort, kind
+象	2	5	394	12	794	739	752	ショウ, ゾウ	ショウ, ゾウ		かたど･る	image, elephant	elephant, pattern after, imitate, image, shape, sign (of the times)
+照	2	4	1004	13	795	998	1035	ショウ	ショウ	て(る), て(らす), て(れる)	て･る, て･らす, て･れる	shine, illuminate	illuminate, shine, compare, bashful
+賞	2	5	426	15	797	500	509	ショウ	ショウ		ほ･める	prize, praise, reward	prize, reward, praise
+装	2	6	657	12	799	1328	1411	ソウ, ショウ	ソウ, ショウ	よそお(う)	よそお･う, よそお･い	dress, pretend	attire, dress, pretend, disguise, profess
+召	2	8	1540	5	800	995	1032	ショウ	ショウ	め(す)	め･す	summon, eat, drink, wear	seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)
+床	2	8	1175	7	801	826	845	ショウ	ショウ	とこ, ゆか	とこ, ゆか	floor, bed	bed, counter for beds, floor, padding, tatami
+昇	2	8	826	8	802	1777	1909	ショウ	ショウ	のぼ(る)	のぼ･る	rise, promote	rise up
+紹	2	8	963	11	803	456	463	ショウ	ショウ			introduce	introduce, inherit, help
+星	2	2	844	9	804	730	743	セイ, ショウ	セイ, ショウ	ほし	ほし, -ぼし	star	star, spot, dot, mark
+城	2	4	795	9	809	720	733	ジョウ	ジョウ, セイ	しろ	しろ	castle	castle
+蒸	2	6	1552	13	810	943	973	ジョウ	ジョウ, セイ	む(す), む(れる), む(らす)	む･す, む･れる, む･らす	steam, sultry	steam, heat, sultry, foment, get musty
+量	2	4	469	12	816	411	417	リョウ	リョウ	はか(る)	はか･る	quantity, measure, weigh	quantity, measure, weight, amount, consider, estimate, surmise
+袋	2	8	1125	11	817	1329	1412	タイ	タイ, ダイ	ふくろ	ふくろ	bag, sack	sack, bag, pouch
+湯	2	3	1356	12	818	632	642	トウ	トウ	ゆ	ゆ	hot water, bath	hot water, bath, hot spring
+畳	2	8	1665	12	822	1087	1138	ジョウ	ジョウ, チョウ	たたみ, たた(む)	たた･む, たたみ, かさ･なる	tatami, fold	tatami mat, counter for tatami mats, fold, shut up, do away with
+臣	2	4	1249	7	826	835	854	シン, ジン	シン, ジン			subject, retainer	retainer, subject
 針	2	6	505	10	827	341	341	シン	シン	はり	はり	needle	needle, pin, staple, stinger
-伸	2	8	730	7	828	1108		シン	シン	の(びる), の(ばす)	の･びる, の･ばす, の･べる, の･す	stretch, lengthen, extend	expand, stretch, extend, lengthen, increase
-震	2	8	893	15	830	953		シン	シン	ふる(う), ふる(える)	ふる･う, ふる･える, ふる･わせる, ふる･わす	tremble, shake	quake, shake, tremble, quiver, shiver
-炭	2	3	1307	9	833	1344		タン	タン	すみ	すみ	coal	charcoal, coal
-税	2	5	289	12	837	399		ゼイ	ゼイ			tax	tax, duty
-績	2	5	820	17	840	1117		セキ	セキ			achievements	exploits, achievements, unreeling cocoons
-隻	2	8	1546	10	841	1311		セキ	セキ			one (of a pair), (counter for boats)	vessels, counter for ships, fish, birds, arrows, one of a pair
-籍	2	8	907	20	842	1198		セキ	セキ			register, membership	enroll, domiciliary register, membership
-設	2	5	145	11	843	577		セツ	セツ	もう(ける)	もう･ける	set up, prepare, establish	establishment, provision, prepare
+伸	2	8	730	7	828	1108	1160	シン	シン	の(びる), の(ばす)	の･びる, の･ばす, の･べる, の･す	stretch, lengthen, extend	expand, stretch, extend, lengthen, increase
+震	2	8	893	15	830	953	983	シン	シン	ふる(う), ふる(える)	ふる･う, ふる･える, ふる･わせる, ふる･わす	tremble, shake	quake, shake, tremble, quiver, shiver
+炭	2	3	1307	9	833	1344	1427	タン	タン	すみ	すみ	coal	charcoal, coal
+税	2	5	289	12	837	399	403	ゼイ	ゼイ			tax	tax, duty
+績	2	5	820	17	840	1117	1169	セキ	セキ			achievements	exploits, achievements, unreeling cocoons
+隻	2	8	1546	10	841	1311	1390	セキ	セキ			one (of a pair), (counter for boats)	vessels, counter for ships, fish, birds, arrows, one of a pair
+籍	2	8	907	20	842	1198	1261	セキ	セキ			register, membership	enroll, domiciliary register, membership
+設	2	5	145	11	843	577	586	セツ	セツ	もう(ける)	もう･ける	set up, prepare, establish	establishment, provision, prepare
 線	2	2	382	15	844	299	299	セン	セン		すじ	line	line, track
-総	2	5	129	14	847	697		ソウ	ソウ		す･べて, すべ･て, ふさ	general, total	general, whole, all, full, total
-層	2	6	801	14	849	1367		ソウ	ソウ			layer, stratum	stratum, social class, layer, story, floor
-双	2	8	1029	4	850	1594		ソウ	ソウ	ふた	ふた, たぐい, ならぶ, ふたつ	pair, both	pair, set, comparison, counter for pairs
-掃	2	8	1255	11	851	1080		ソウ	ソウ, シュ	は(く)	は･く	sweep	sweep, brush
-燥	2	8	1819	17	852	1656		ソウ	ソウ		はしゃ･ぐ	dry up, parch	parch, dry up
-造	2	5	429	10	853	691		ゾウ	ゾウ	つく(る)	つく･る, つく･り, -づく･り	make, produce, build	create, make, structure, physique
-像	2	5	856	14	854	740		ゾウ	ゾウ			image, picture, statue	statue, picture, image, figure, portrait
-臓	2	6	991	19	855	1287		ゾウ	ゾウ		はらわた	viscera	entrails, viscera, bowels
-憎	2	8	1808	14	856	1365		ゾウ	ゾウ	にく(む), にく(い), にく(らしい), にく(しみ)	にく･む, にく･い, にく･らしい, にく･しみ	hate	hate, detest
-則	2	5	753	9	858	608		ソク	ソク		のっと･る, のり, すなわち	rule, law	rule, law, follow, based on, model after
-測	2	5	761	12	859	610		ソク	ソク	はか(る)	はか･る	measure	fathom, plan, scheme, measure
-底	2	4	867	8	860	562		テイ	テイ	そこ	そこ	bottom	bottom, sole, depth, bottom price, base, kind, sort
-損	2	5	807	13	861	350		ソン	ソン	そこ(なう), そこ(ねる)	そこ･なう, そこな･う, -そこ･なう, そこ･ねる, -そこ･ねる	loss, damage	damage, loss, disadvantage, hurt, injure
-孫	2	4	1388	10	865	910		ソン	ソン	まご	まご	grandchild	grandchild, descendants
+総	2	5	129	14	847	697	710	ソウ	ソウ		す･べて, すべ･て, ふさ	general, total	general, whole, all, full, total
+層	2	6	801	14	849	1367	1454	ソウ	ソウ			layer, stratum	stratum, social class, layer, story, floor
+双	2	8	1029	4	850	1594	1701	ソウ	ソウ	ふた	ふた, たぐい, ならぶ, ふたつ	pair, both	pair, set, comparison, counter for pairs
+掃	2	8	1255	11	851	1080	1128	ソウ	ソウ, シュ	は(く)	は･く	sweep	sweep, brush
+燥	2	8	1819	17	852	1656	1770	ソウ	ソウ		はしゃ･ぐ	dry up, parch	parch, dry up
+造	2	5	429	10	853	691	704	ゾウ	ゾウ	つく(る)	つく･る, つく･り, -づく･り	make, produce, build	create, make, structure, physique
+像	2	5	856	14	854	740	753	ゾウ	ゾウ			image, picture, statue	statue, picture, image, figure, portrait
+臓	2	6	991	19	855	1287	1361	ゾウ	ゾウ		はらわた	viscera	entrails, viscera, bowels
+憎	2	8	1808	14	856	1365	1452	ゾウ	ゾウ	にく(む), にく(い), にく(らしい), にく(しみ)	にく･む, にく･い, にく･らしい, にく･しみ	hate	hate, detest
+則	2	5	753	9	858	608	618	ソク	ソク		のっと･る, のり, すなわち	rule, law	rule, law, follow, based on, model after
+測	2	5	761	12	859	610	620	ソク	ソク	はか(る)	はか･る	measure	fathom, plan, scheme, measure
+底	2	4	867	8	860	562	571	テイ	テイ	そこ	そこ	bottom	bottom, sole, depth, bottom price, base, kind, sort
+損	2	5	807	13	861	350	351	ソン	ソン	そこ(なう), そこ(ねる)	そこ･なう, そこな･う, -そこ･なう, そこ･ねる, -そこ･ねる	loss, damage	damage, loss, disadvantage, hurt, injure
+孫	2	4	1388	10	865	910	932	ソン	ソン	まご	まご	grandchild	grandchild, descendants
 宝	2	6	1139	8	870	296	296	ホウ	ホウ	たから	たから	treasure	treasure, wealth, valuables
-濯	2	8	1698	17	872	1561		タク	タク		すす･ぐ, ゆす･ぐ	wash, rinse	laundry, wash, pour on, rinse
+濯	2	8	1698	17	872	1561	1664	タク	タク		すす･ぐ, ゆす･ぐ	wash, rinse	laundry, wash, pour on, rinse
 竹	2	1	593	6	873	129	129	チク	チク	たけ	たけ	bamboo	bamboo
-卵	2	6	1342	7	875	1058		ラン	ラン	たまご	たまご	egg	egg, ovum, spawn, roe
-乳	2	6	1289	8	877	939		ニュウ	ニュウ	ちち, ち	ちち, ち	milk, breast	milk, breasts
-畜	2	8	1824	10	879	1223		チク	チク			livestock	livestock, domestic fowl and animals
-虫	2	1	1351	6	880	873		チュウ	チュウ, キ	むし	むし	insect, bug	insect, bug, temper
-柱	2	3	1119	9	881	598		チュウ	チュウ	はしら	はしら	pillar, column, pole	pillar, post, cylinder, support
-駐	2	8	955	15	883	599		チュウ	チュウ			stop, reside	stop-over, reside in, resident
-貯	2	5	1100	12	884	762		チョ	チョ		た･める, たくわ･える	save, store	savings, store, lay in, keep, wear mustache
-庁	2	6	793	5	885	763		チョウ	チョウ, テイ		やくしょ	government office	government office
-珍	2	8	1330	9	886	1215		チン	チン	めずら(しい)	めずら･しい, たから	rare	rare, curious, strange
-募	2	8	809	12	892	1430		ボ	ボ	つの(る)	つの･る	raise, invite	recruit, campaign, gather (contributions), enlist, grow violent
-粒	2	8	1635	11	893	1700		リュウ	リュウ	つぶ	つぶ	grain	grains, drop, counter for tiny particles
-停	2	5	733	11	895	1185		テイ	テイ		と･める, と･まる	stop, halt	halt, stopping
-泥	2	8	1589	8	897	1621		デイ	デイ, ナイ, デ, ニ	どろ	どろ, なず･む	mud	mud, mire, adhere to, be attached to
-殿	2	8	1199	13	899	1130		デン, テン	デン, テン	との, どの	との, -どの	palace, lord	Mr., hall, mansion, palace, temple, lord
-塗	2	8	1414	13	903	1073		ト	ト	ぬ(る)	ぬ･る, ぬ･り, まみ･れる	coat, paint	paint, plaster, daub, smear, coating
-灯	2	4	1605	6	905	1333		トウ	トウ	ひ	ひ, ほ-, ともしび, とも･す, あかり	lamp, light	lamp, a light, light, counter for lights
-党	2	6	39	10	906	495		トウ	トウ		なかま, むら	party, faction	party, faction, clique
-筒	2	8	1631	12	910	1472		トウ	トウ	つつ	つつ	pipe, tube	cylinder, pipe, tube, gun barrel, sleeve
-塔	2	8	1708	12	911	1840		トウ	トウ			tower	pagoda, tower, steeple
-童	2	3	1138	12	912	410		ドウ	ドウ	わらべ	わらべ	child	juvenile, child
-銅	2	5	1505	14	913	1605		ドウ	ドウ		あかがね	copper	copper
-導	2	5	354	15	914	703		ドウ	ドウ	みちび(く)	みちび･く	lead, guide	guidance, leading, conduct, usher
-溶	2	8	1364	13	915	1392		ヨウ	ヨウ	と(く), と(ける), と(かす)	と･ける, と･かす, と･く	melt, dissolve	melt, dissolve, thaw
-毒	2	5	1419	8	916	522		ドク	ドク			poison	poison, virus, venom, germ, harm, injury, spite
-届	2	6	939	8	918	992			カイ	とど(く), とど(ける)	とど･ける, -とど･け, とど･く	reach, arrive, deliver	deliver, reach, arrive, report, notify, forward
-鈍	2	8	1574	12	920	966		ドン	ドン	にぶ(い), にぶ(る)	にぶ･い, にぶ･る, にぶ-, なま･る, なまく･ら	dull, blunt, sluggish	dull, slow, foolish, blunt
+卵	2	6	1342	7	875	1058	1103	ラン	ラン	たまご	たまご	egg	egg, ovum, spawn, roe
+乳	2	6	1289	8	877	939	969	ニュウ	ニュウ	ちち, ち	ちち, ち	milk, breast	milk, breasts
+畜	2	8	1824	10	879	1223	1287	チク	チク			livestock	livestock, domestic fowl and animals
+虫	2	1	1351	6	880	873	893	チュウ	チュウ, キ	むし	むし	insect, bug	insect, bug, temper
+柱	2	3	1119	9	881	598	608	チュウ	チュウ	はしら	はしら	pillar, column, pole	pillar, post, cylinder, support
+駐	2	8	955	15	883	599	609	チュウ	チュウ			stop, reside	stop-over, reside in, resident
+貯	2	5	1100	12	884	762	775	チョ	チョ		た･める, たくわ･える	save, store	savings, store, lay in, keep, wear mustache
+庁	2	6	793	5	885	763	777	チョウ	チョウ, テイ		やくしょ	government office	government office
+珍	2	8	1330	9	886	1215	1278	チン	チン	めずら(しい)	めずら･しい, たから	rare	rare, curious, strange
+募	2	8	809	12	892	1430	1519	ボ	ボ	つの(る)	つの･る	raise, invite	recruit, campaign, gather (contributions), enlist, grow violent
+粒	2	8	1635	11	893	1700	1816	リュウ	リュウ	つぶ	つぶ	grain	grains, drop, counter for tiny particles
+停	2	5	733	11	895	1185	1244	テイ	テイ		と･める, と･まる	stop, halt	halt, stopping
+泥	2	8	1589	8	897	1621	1729	デイ	デイ, ナイ, デ, ニ	どろ	どろ, なず･む	mud	mud, mire, adhere to, be attached to
+殿	2	8	1199	13	899	1130	1182	デン, テン	デン, テン	との, どの	との, -どの	palace, lord	Mr., hall, mansion, palace, temple, lord
+塗	2	8	1414	13	903	1073	1121	ト	ト	ぬ(る)	ぬ･る, ぬ･り, まみ･れる	coat, paint	paint, plaster, daub, smear, coating
+灯	2	4	1605	6	905	1333	1416	トウ	トウ	ひ	ひ, ほ-, ともしび, とも･す, あかり	lamp, light	lamp, a light, light, counter for lights
+党	2	6	39	10	906	495	504	トウ	トウ		なかま, むら	party, faction	party, faction, clique
+筒	2	8	1631	12	910	1472	1569	トウ	トウ	つつ	つつ	pipe, tube	cylinder, pipe, tube, gun barrel, sleeve
+塔	2	8	1708	12	911	1840	1991	トウ	トウ			tower	pagoda, tower, steeple
+童	2	3	1138	12	912	410	416	ドウ	ドウ	わらべ	わらべ	child	juvenile, child
+銅	2	5	1505	14	913	1605	1712	ドウ	ドウ		あかがね	copper	copper
+導	2	5	354	15	914	703	716	ドウ	ドウ	みちび(く)	みちび･く	lead, guide	guidance, leading, conduct, usher
+溶	2	8	1364	13	915	1392	1481	ヨウ	ヨウ	と(く), と(ける), と(かす)	と･ける, と･かす, と･く	melt, dissolve	melt, dissolve, thaw
+毒	2	5	1419	8	916	522	531	ドク	ドク			poison	poison, virus, venom, germ, harm, injury, spite
+届	2	6	939	8	918	992	1029		カイ	とど(く), とど(ける)	とど･ける, -とど･け, とど･く	reach, arrive, deliver	deliver, reach, arrive, report, notify, forward
+鈍	2	8	1574	12	920	966	997	ドン	ドン	にぶ(い), にぶ(る)	にぶ･い, にぶ･る, にぶ-, なま･る, なまく･ら	dull, blunt, sluggish	dull, slow, foolish, blunt
 無	2	4	274	12	921	93	93	ム, ブ	ム, ブ	な(い)	な･い	without, nothing	nothingness, none, ain't, nothing, nil, not
-波	2	3	740	8	924	666		ハ	ハ	なみ	なみ	wave	waves, billows, Poland
-並	2	6	599	8	925	1165		ヘイ	ヘイ, ホウ	なみ, なら(ぶ), なら(べる), なら(び に)	な･み, なみ, なら･べる, なら･ぶ, なら･びに	line up, arrange, average	row, and, besides, as well as, line up, rank with, rival, equal
-涙	2	8	1381	10	926	1239		ルイ	ルイ, レイ	なみだ	なみだ	tears	tears, sympathy
-悩	2	8	1084	10	927	1279		ノウ	ノウ	なや(む), なや(ます)	なや･む, なや･ます, なや･ましい, なやみ	suffer, worry	trouble, worry, in pain, distress, illness
-軟	2	8	1269	11	928	1788		ナン	ナン	やわ(らか), やわ(らかい)	やわ･らか, やわ･らかい	soft	soft
-布	2	5	877	5	932	675		フ	フ, ホ		ぬの, し･く, きれ	cloth	linen, cloth, spread, distribute
-燃	2	5	948	16	935	652		ネン	ネン	も(える), も(やす), も(す)	も･える, も･やす, も･す	burn	burn, blaze, glow
-農	2	3	385	13	936	369		ノウ	ノウ			farming, agriculture	agriculture, farmers
+波	2	3	740	8	924	666	677	ハ	ハ	なみ	なみ	wave	waves, billows, Poland
+並	2	6	599	8	925	1165	1222	ヘイ	ヘイ, ホウ	なみ, なら(ぶ), なら(べる), なら(び に)	な･み, なみ, なら･べる, なら･ぶ, なら･びに	line up, arrange, average	row, and, besides, as well as, line up, rank with, rival, equal
+涙	2	8	1381	10	926	1239	1305	ルイ	ルイ, レイ	なみだ	なみだ	tears	tears, sympathy
+悩	2	8	1084	10	927	1279	1353	ノウ	ノウ	なや(む), なや(ます)	なや･む, なや･ます, なや･ましい, なやみ	suffer, worry	trouble, worry, in pain, distress, illness
+軟	2	8	1269	11	928	1788	1922	ナン	ナン	やわ(らか), やわ(らかい)	やわ･らか, やわ･らかい	soft	soft
+布	2	5	877	5	932	675	688	フ	フ, ホ		ぬの, し･く, きれ	cloth	linen, cloth, spread, distribute
+燃	2	5	948	16	935	652	663	ネン	ネン	も(える), も(やす), も(す)	も･える, も･やす, も･す	burn	burn, blaze, glow
+農	2	3	385	13	936	369	370	ノウ	ノウ			farming, agriculture	agriculture, farmers
 倍	2	3	714	10	939	87	87	バイ	バイ			times, double	double, twice, times, fold
 麦	2	2	1615	7	940	270	270	バク	バク	むぎ	むぎ	wheat, barley	barley, wheat
-爆	2	8	735	19	941	1015		バク	バク		は･ぜる	explode	bomb, burst open, pop, split
+爆	2	8	735	19	941	1015	1053	バク	バク		は･ぜる	explode	bomb, burst open, pop, split
 畑	2	3	1176	9	943	36	36			はた, はたけ	はた, はたけ, -ばたけ	field, farm	farm, field, garden, one's specialty, (kokuji)
-肌	2	8	1559	6	944	1306			キ	はだ	はだ	skin, temperament	texture, skin, body, grain
-鼻	2	3	1632	14	945	813		ビ	ビ	はな	はな	nose	nose, snout
-幅	2	8	641	12	947	1380		フク	フク	はば	はば	width, breadth	hanging scroll, width
+肌	2	8	1559	6	944	1306	1385		キ	はだ	はだ	skin, temperament	texture, skin, body, grain
+鼻	2	3	1632	14	945	813	832	ビ	ビ	はな	はな	nose	nose, snout
+幅	2	8	641	12	947	1380	1467	フク	フク	はば	はば	width, breadth	hanging scroll, width
 林	2	1	656	8	948	127	127	リン	リン	はやし	はやし	woods, grove	grove, forest
-版	2	5	802	8	951	1046		ハン	ハン			printing, edition	printing block, printing plate, edition, impression, label
-販	2	8	627	11	952	1048		ハン	ハン			sell	marketing, sell, trade
-匹	2	8	1384	4	955	1500		ヒツ	ヒツ	ひき	ひき	equal, comparable, (counter for small animals)	equal, head, counter for small animals, roll of cloth
+版	2	5	802	8	951	1046	1089	ハン	ハン			printing, edition	printing block, printing plate, edition, impression, label
+販	2	8	627	11	952	1048	1091	ハン	ハン			sell	marketing, sell, trade
+匹	2	8	1384	4	955	1500	1599	ヒツ	ヒツ	ひき	ひき	equal, comparable, (counter for small animals)	equal, head, counter for small animals, roll of cloth
 筆	2	3	1132	12	956	130	130	ヒツ	ヒツ	ふで	ふで	brush, writing	writing brush, writing, painting brush, handwriting
-兵	2	4	522	7	957	784		ヘイ, ヒョウ	ヘイ, ヒョウ		つわもの	soldier	soldier, private, troops, army, warfare, strategy, tactics
-秒	2	3	1015	9	958	1152		ビョウ	ビョウ			second	second (1/60 minute)
-瓶	2	8	1528	11	960	1161		ビン	ビン		かめ, へい	bottle, jar	bottle, vial, jar, jug, vat, urn
-府	2	4	170	8	961	504		フ	フ			prefecture, government office	borough, urban prefecture, govt office, representative body, storehouse
-符	2	8	1798	11	963	505		フ	フ			sign, mark, charm	token, sign, mark, tally, charm
-普	2	8	757	12	964	1166		フ	フ		あまね･く, あまねし	general, universal	universal, wide(ly), generally, Prussia
-膚	2	8	1679	15	965	1269		フ	フ		はだ	skin	skin, body, grain, texture, disposition
-武	2	5	387	8	966	1031		ブ, ム	ブ, ム		たけ, たけ･し	military	warrior, military, chivalry, arms
-封	2	8	1143	9	968	1463		フウ, ホウ	フウ, ホウ			seal	seal, closing
-副	2	4	360	11	970	714		フク	フク			secondary, duplicate	vice-, assistant, aide, duplicate, copy
-復	2	5	438	12	971	917		フク	フク		また	return, restore	restore, return to, revert, resume
-複	2	5	915	14	972	916		フク	フク			compound, double	duplicate, double, compound, multiple
-防	2	5	331	7	973	513		ボウ	ボウ	ふせ(ぐ)	ふせ･ぐ	prevent, protect	ward off, defend, protect, resist
-沸	2	8	1709	8	974	1792		フツ	フツ	わ(く), わ(かす)	わ･く, わ･かす	boil, seethe	seethe, boil, ferment, uproar, breed
-仏	2	5	819	4	975	583		ブツ	ブツ, フツ	ほとけ	ほとけ	Buddha, France	Buddha, the dead, France
-豊	2	5	762	13	977	959		ホウ	ホウ, ブ	ゆた(か)	ゆた･か, とよ	rich, abundant	bountiful, excellent, rich
-貿	2	5	652	12	978	760		ボウ	ボウ			trade	trade, exchange
-棒	2	6	1455	12	979	1543		ボウ	ボウ			stick, pole, rod	rod, stick, cane, pole, club, line
-坊	2	8	1832	7	980	1858		ボウ, ボツ	ボウ, ボッ			boy, priest	boy, priest's residence, priest
-帽	2	8	1742	12	981	1105		ボウ	ボウ, モウ		ずきん, おお･う	hat, cap	cap, headgear
-磨	2	8	1608	16	982	1531		マ	マ	みが(く)	みが･く, す･る	polish, brush	grind, polish, scour, improve, brush (teeth)
-枚	2	6	911	8	983	1156		マイ	マイ, バイ			(counter for thin, flat objects)	sheet of..., counter for flat thin objects or sheets
-乱	2	6	755	7	986	689		ラン	ラン, ロン	みだ(れる), みだ(す)	みだ･れる, みだ･る, みだ･す, みだ, おさ･める, わた･る	rebellion, disorder	riot, war, disorder, disturb
-綿	2	5	1495	14	989	1191		メン	メン	わた	わた	cotton	cotton
-輸	2	5	371	16	992	546		ユ	ユ, シュ			transport	transport, send, be inferior
-翌	2	6	1070	11	996	592		ヨク	ヨク			next, following	the following, next
-略	2	5	774	11	997	841		リャク	リャク		ほぼ, はぶ･く, おか･す, おさ･める, はかりごと, はか･る	abbreviation, omission	abbreviation, omission, outline, shorten, capture, plunder
-陸	2	4	736	11	998	647		リク	リク, ロク		おか	land	land, six
-律	2	6	992	9	999	667		リツ, リチ	リツ, リチ, レツ			law, regulation, rhythm	rhythm, law, regulation, gauge, control
-領	2	5	138	14	1000	834		リョウ	リョウ		えり	territory, rule	jurisdiction, dominion, territory, fief, reign
-了	2	8	792	2	1001	941		リョウ	リョウ			finish, understand	complete, finish
-療	2	8	600	17	1002	1322		リョウ	リョウ			treat, cure	heal, cure
-輪	2	4	693	15	1003	1164		リン	リン	わ	わ	wheel, ring, circle	wheel, ring, circle, link, loop, counter for wheels and flowers
-令	2	4	804	5	1004	831		レイ	レイ			order, command	orders, laws, command, decree, good
-零	2	8	1217	13	1005	1823		レイ	レイ		ぜろ, こぼ･す, こぼ･れる	zero	zero, spill, overflow, nothing, cipher
-齢	2	8	770	17	1006	833		レイ	レイ		よわい, とし	age	age
-歴	2	5	632	14	1007	480		レキ	レキ, レッキ			continuation, passage of time	curriculum, continuation, passage of time
-録	2	4	546	16	1009	538		ロク	ロク		しる･す, と･る	record	record
-湾	2	8	545	12	1011	670		ワン	ワン		いりえ	bay	gulf, bay, inlet
-団	2	5	213	6	1013	491		ダン, トン	ダン, トン		かたまり, まる･い	group, association	group, association
-舟	2	8	1786	6	1014	1094		シュウ	シュウ	ふね, ふな	ふね, ふな-, -ぶね	ship, boat	boat, ship
-雲	2	2	1256	12	1015	636		ウン	ウン	くも	くも, -ぐも	cloud	cloud
-巨	2	8	892	5	1016	1293		キョ	キョ			big, gigantic	gigantic, big, large, great
-漁	2	4	1094	14	1035	699		ギョ, リョウ	ギョ, リョウ	あさ(る)	あさ･る	fishing	fishing, fishery
-暑	1	3	1442	12	264	638		ショ	ショ	あつ(い)	あつ･い	hot	sultry, hot, summer heat
-葬	1	8	754	12	278	812		ベン, ビン	ソウ	たよ(り)	ほうむ･る	convenience, mail	interment, bury, shelve
-暖	1	6	1371	13	292	635		ダン	ダン, ノン	あたた(かい), あたた(める), あたた(まる)	あたた･か, あたた･かい, あたた･まる, あたた･める	warm	warmth
-器	1	4	525	15	367	527		キ	キ	うつわ	うつわ	container, capacity	utensil, vessel, receptacle, implement, instrument, ability, container, tool, set
-誘	1	8	993	14	426	1684		コウ, キョウ	ユウ	か, かお(り), かお(る)	さそ･う, いざな･う	fragrance, aroma	entice, lead, tempt, invite, ask, call for, seduce, allure
-堅	1	8	1049	12	473	1289		ケン	ケン	かた(い)	かた･い, -がた･い	hard, solid, firm	strict, hard, solid, tough, tight, reliable
-節	1	4	934	13	509	464		セツ, セチ	セツ, セチ	ふし	ふし, -ぶし, のっと	time, season, paragraph	node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody
-授	1	5	535	11	549	602		ジュ	ジュ	さず(ける), さず(かる)	さず･ける, さず･かる	grant, teach	impart, instruct, grant, confer
-級	1	3	785	9	565	568		キュウ	キュウ			grade, class	class, rank, grade
-泣	1	4	1380	8	568	1236		キュウ	キュウ	な(く)	な･く	cry	cry, weep, moan
-救	1	5	799	11	569	725		キュウ	キュウ	すく(う)	すく･う	rescue, save	salvation, save, help, rescue, reclaim
-結	1	4	162	12	573	485		ケツ	ケツ, ケチ	むす(ぶ), ゆ(う), ゆ(わう)	むす･ぶ, ゆ･う, ゆ･わえる	tie, bind, conclude	tie, bind, contract, join, organize, do up hair, fasten
-狭	1	8	1346	9	592	1353		キョウ	キョウ, コウ	せま(い), せば(まる), せば(める)	せま･い, せば･める, せば･まる, さ	narrow, small	cramped, narrow, contract, tight
-検	1	5	290	12	633	531		ケン	ケン		しら･べる	inspect, examine	examination, investigate
-描	1	8	876	11	652	1469		ビョウ	ビョウ	ねこ	えが･く, か･く	cat	sketch, compose, write, draw, paint
-派	1	6	164	9	657	912		ハ	ハ			group, faction, sect	faction, group, party, clique, sect, school
-誕	1	6	1024	15	658	1116		タン	タン			birth	nativity, be born, declension, lie, be arbitrary
-就	1	6	624	12	682	934		シュウ, ジュ	シュウ, ジュ	つ(く), つ(ける)	つ･く, つ･ける	engage, employ	concerning, settle, take position, depart, study, per
-攻	1	8	532	7	687	819		コウ	コウ	せ(める)	せ･める	attack, assault	aggression, attack, criticize, polish
-惑	1	8	777	12	722	969		ワク	ワク	まど(う)	まど･う	perplex, tempt	beguile, delusion, perplexity
+兵	2	4	522	7	957	784	798	ヘイ, ヒョウ	ヘイ, ヒョウ		つわもの	soldier	soldier, private, troops, army, warfare, strategy, tactics
+秒	2	3	1015	9	958	1152	1207	ビョウ	ビョウ			second	second (1/60 minute)
+瓶	2	8	1528	11	960	1161	1217	ビン	ビン		かめ, へい	bottle, jar	bottle, vial, jar, jug, vat, urn
+府	2	4	170	8	961	504	513	フ	フ			prefecture, government office	borough, urban prefecture, govt office, representative body, storehouse
+符	2	8	1798	11	963	505	514	フ	フ			sign, mark, charm	token, sign, mark, tally, charm
+普	2	8	757	12	964	1166	1223	フ	フ		あまね･く, あまねし	general, universal	universal, wide(ly), generally, Prussia
+膚	2	8	1679	15	965	1269	1343	フ	フ		はだ	skin	skin, body, grain, texture, disposition
+武	2	5	387	8	966	1031	1071	ブ, ム	ブ, ム		たけ, たけ･し	military	warrior, military, chivalry, arms
+封	2	8	1143	9	968	1463	1558	フウ, ホウ	フウ, ホウ			seal	seal, closing
+副	2	4	360	11	970	714	727	フク	フク			secondary, duplicate	vice-, assistant, aide, duplicate, copy
+復	2	5	438	12	971	917	939	フク	フク		また	return, restore	restore, return to, revert, resume
+複	2	5	915	14	972	916	938	フク	フク			compound, double	duplicate, double, compound, multiple
+防	2	5	331	7	973	513	522	ボウ	ボウ	ふせ(ぐ)	ふせ･ぐ	prevent, protect	ward off, defend, protect, resist
+沸	2	8	1709	8	974	1792	1928	フツ	フツ	わ(く), わ(かす)	わ･く, わ･かす	boil, seethe	seethe, boil, ferment, uproar, breed
+仏	2	5	819	4	975	583	592	ブツ	ブツ, フツ	ほとけ	ほとけ	Buddha, France	Buddha, the dead, France
+豊	2	5	762	13	977	959	989	ホウ	ホウ, ブ	ゆた(か)	ゆた･か, とよ	rich, abundant	bountiful, excellent, rich
+貿	2	5	652	12	978	760	773	ボウ	ボウ			trade	trade, exchange
+棒	2	6	1455	12	979	1543	1645	ボウ	ボウ			stick, pole, rod	rod, stick, cane, pole, club, line
+坊	2	8	1832	7	980	1858	2014	ボウ, ボツ	ボウ, ボッ			boy, priest	boy, priest's residence, priest
+帽	2	8	1742	12	981	1105	1157	ボウ	ボウ, モウ		ずきん, おお･う	hat, cap	cap, headgear
+磨	2	8	1608	16	982	1531	1632	マ	マ	みが(く)	みが･く, す･る	polish, brush	grind, polish, scour, improve, brush (teeth)
+枚	2	6	911	8	983	1156	1211	マイ	マイ, バイ			(counter for thin, flat objects)	sheet of..., counter for flat thin objects or sheets
+乱	2	6	755	7	986	689	702	ラン	ラン, ロン	みだ(れる), みだ(す)	みだ･れる, みだ･る, みだ･す, みだ, おさ･める, わた･る	rebellion, disorder	riot, war, disorder, disturb
+綿	2	5	1495	14	989	1191	1251	メン	メン	わた	わた	cotton	cotton
+輸	2	5	371	16	992	546	555	ユ	ユ, シュ			transport	transport, send, be inferior
+翌	2	6	1070	11	996	592	602	ヨク	ヨク			next, following	the following, next
+略	2	5	774	11	997	841	860	リャク	リャク		ほぼ, はぶ･く, おか･す, おさ･める, はかりごと, はか･る	abbreviation, omission	abbreviation, omission, outline, shorten, capture, plunder
+陸	2	4	736	11	998	647	657	リク	リク, ロク		おか	land	land, six
+律	2	6	992	9	999	667	678	リツ, リチ	リツ, リチ, レツ			law, regulation, rhythm	rhythm, law, regulation, gauge, control
+領	2	5	138	14	1000	834	853	リョウ	リョウ		えり	territory, rule	jurisdiction, dominion, territory, fief, reign
+了	2	8	792	2	1001	941	971	リョウ	リョウ			finish, understand	complete, finish
+療	2	8	600	17	1002	1322	1404	リョウ	リョウ			treat, cure	heal, cure
+輪	2	4	693	15	1003	1164	1221	リン	リン	わ	わ	wheel, ring, circle	wheel, ring, circle, link, loop, counter for wheels and flowers
+令	2	4	804	5	1004	831	850	レイ	レイ			order, command	orders, laws, command, decree, good
+零	2	8	1217	13	1005	1823	1972	レイ	レイ		ぜろ, こぼ･す, こぼ･れる	zero	zero, spill, overflow, nothing, cipher
+齢	2	8	770	17	1006	833	852	レイ	レイ		よわい, とし	age	age
+歴	2	5	632	14	1007	480	489	レキ	レキ, レッキ			continuation, passage of time	curriculum, continuation, passage of time
+録	2	4	546	16	1009	538	547	ロク	ロク		しる･す, と･る	record	record
+湾	2	8	545	12	1011	670	681	ワン	ワン		いりえ	bay	gulf, bay, inlet
+団	2	5	213	6	1013	491	500	ダン, トン	ダン, トン		かたまり, まる･い	group, association	group, association
+舟	2	8	1786	6	1014	1094	1145	シュウ	シュウ	ふね, ふな	ふね, ふな-, -ぶね	ship, boat	boat, ship
+雲	2	2	1256	12	1015	636	646	ウン	ウン	くも	くも, -ぐも	cloud	cloud
+巨	2	8	892	5	1016	1293	1368	キョ	キョ			big, gigantic	gigantic, big, large, great
+漁	2	4	1094	14	1035	699	712	ギョ, リョウ	ギョ, リョウ	あさ(る)	あさ･る	fishing	fishing, fishery
+暑	1	3	1442	12	264	638	648	ショ	ショ	あつ(い)	あつ･い	hot	sultry, hot, summer heat
+葬	1	8	754	12	278	812	831	ベン, ビン	ソウ	たよ(り)	ほうむ･る	convenience, mail	interment, bury, shelve
+暖	1	6	1371	13	292	635	645	ダン	ダン, ノン	あたた(かい), あたた(める), あたた(まる)	あたた･か, あたた･かい, あたた･まる, あたた･める	warm	warmth
+器	1	4	525	15	367	527	536	キ	キ	うつわ	うつわ	container, capacity	utensil, vessel, receptacle, implement, instrument, ability, container, tool, set
+誘	1	8	993	14	426	1684	1799	コウ, キョウ	ユウ	か, かお(り), かお(る)	さそ･う, いざな･う	fragrance, aroma	entice, lead, tempt, invite, ask, call for, seduce, allure
+堅	1	8	1049	12	473	1289	1363	ケン	ケン	かた(い)	かた･い, -がた･い	hard, solid, firm	strict, hard, solid, tough, tight, reliable
+節	1	4	934	13	509	464	472	セツ, セチ	セツ, セチ	ふし	ふし, -ぶし, のっと	time, season, paragraph	node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody
+授	1	5	535	11	549	602	612	ジュ	ジュ	さず(ける), さず(かる)	さず･ける, さず･かる	grant, teach	impart, instruct, grant, confer
+級	1	3	785	9	565	568	577	キュウ	キュウ			grade, class	class, rank, grade
+泣	1	4	1380	8	568	1236	1300	キュウ	キュウ	な(く)	な･く	cry	cry, weep, moan
+救	1	5	799	11	569	725	738	キュウ	キュウ	すく(う)	すく･う	rescue, save	salvation, save, help, rescue, reclaim
+結	1	4	162	12	573	485	494	ケツ	ケツ, ケチ	むす(ぶ), ゆ(う), ゆ(わう)	むす･ぶ, ゆ･う, ゆ･わえる	tie, bind, conclude	tie, bind, contract, join, organize, do up hair, fasten
+狭	1	8	1346	9	592	1353	1436	キョウ	キョウ, コウ	せま(い), せば(まる), せば(める)	せま･い, せば･める, せば･まる, さ	narrow, small	cramped, narrow, contract, tight
+検	1	5	290	12	633	531	540	ケン	ケン		しら･べる	inspect, examine	examination, investigate
+描	1	8	876	11	652	1469	1566	ビョウ	ビョウ	ねこ	えが･く, か･く	cat	sketch, compose, write, draw, paint
+派	1	6	164	9	657	912	934	ハ	ハ			group, faction, sect	faction, group, party, clique, sect, school
+誕	1	6	1024	15	658	1116	1168	タン	タン			birth	nativity, be born, declension, lie, be arbitrary
+就	1	6	624	12	682	934	961	シュウ, ジュ	シュウ, ジュ	つ(く), つ(ける)	つ･く, つ･ける	engage, employ	concerning, settle, take position, depart, study, per
+攻	1	8	532	7	687	819	838	コウ	コウ	せ(める)	せ･める	attack, assault	aggression, attack, criticize, polish
+惑	1	8	777	12	722	969	1001	ワク	ワク	まど(う)	まど･う	perplex, tempt	beguile, delusion, perplexity
 句	1	5	1244	5	723	337	337	ク	ク			phrase, verse	phrase, clause, sentence, passage, paragraph, counter for haiku
-環	1	8	409	17	748	865		カン	カン	わ	わ	ring, surround	ring, circle, link, wheel
-災	1	5	976	7	751	1335		サイ	サイ	わざわ(い)	わざわ･い	misfortune, disaster	disaster, calamity, woe, curse, evil
-健	1	4	572	11	784	893		ケン	ケン	すこ(やか)	すこ･やか	health, strength	healthy, health, strength, persistence
-康	1	4	760	11	785	894		コウ	コウ			peace, ease	ease, peace
-驚	1	8	1141	22	789	1778		キョウ	キョウ	おどろ(く), おどろ(かす)	おどろ･く, おどろ･かす	surprise, amaze	wonder, be surprised, frightened, amazed
-輩	1	8	1365	15	792	1037		ハイ	ハイ		-ばら, やから, やかい, ともがら	fellow, colleague	comrade, fellow, people, companions
-謝	1	5	1028	17	796	901		シャ	シャ	あやま(る)	あやま･る	apologize, thank	apologize, thank, refuse
-功	1	4	857	5	813	818		コウ, ク	コウ, ク		いさお	merits, success	achievement, merits, success, honor, credit
-統	1	5	125	12	821	830		トウ	トウ	す(べる)	す･べる, ほび･る	govern, link	overall, relationship, ruling, governing
-激	1	6	560	16	829	1017		ゲキ	ゲキ	はげ(しい)	はげ･しい	violent, fierce, intense	violent, get excited, enraged, chafe, incite
-製	1	5	488	14	836	428		セイ	セイ			make, produce, manufacture	made in..., manufacture
-率	1	5	383	11	862	788		ソツ, リツ	ソツ, リツ, シュツ	ひき(いる)	ひき･いる	rate, proportion, lead	ratio, rate, proportion, %, factor, lead, spearhead, command
-第	1	3	160	11	867	404		ダイ	ダイ, テイ			#, rank	No., residence
-宙	1	6	1005	8	882	991		チュウ	チュウ			midair, space	mid-air, air, space, sky, memorization, interval of time
+環	1	8	409	17	748	865	884	カン	カン	わ	わ	ring, surround	ring, circle, link, wheel
+災	1	5	976	7	751	1335	1418	サイ	サイ	わざわ(い)	わざわ･い	misfortune, disaster	disaster, calamity, woe, curse, evil
+健	1	4	572	11	784	893	914	ケン	ケン	すこ(やか)	すこ･やか	health, strength	healthy, health, strength, persistence
+康	1	4	760	11	785	894	916	コウ	コウ			peace, ease	ease, peace
+驚	1	8	1141	22	789	1778	1910	キョウ	キョウ	おどろ(く), おどろ(かす)	おどろ･く, おどろ･かす	surprise, amaze	wonder, be surprised, frightened, amazed
+輩	1	8	1365	15	792	1037	1078	ハイ	ハイ		-ばら, やから, やかい, ともがら	fellow, colleague	comrade, fellow, people, companions
+謝	1	5	1028	17	796	901	923	シャ	シャ	あやま(る)	あやま･る	apologize, thank	apologize, thank, refuse
+功	1	4	857	5	813	818	837	コウ, ク	コウ, ク		いさお	merits, success	achievement, merits, success, honor, credit
+統	1	5	125	12	821	830	849	トウ	トウ	す(べる)	す･べる, ほび･る	govern, link	overall, relationship, ruling, governing
+激	1	6	560	16	829	1017	1056	ゲキ	ゲキ	はげ(しい)	はげ･しい	violent, fierce, intense	violent, get excited, enraged, chafe, incite
+製	1	5	488	14	836	428	434	セイ	セイ			make, produce, manufacture	made in..., manufacture
+率	1	5	383	11	862	788	802	ソツ, リツ	ソツ, リツ, シュツ	ひき(いる)	ひき･いる	rate, proportion, lead	ratio, rate, proportion, %, factor, lead, spearhead, command
+第	1	3	160	11	867	404	408	ダイ	ダイ, テイ			#, rank	No., residence
+宙	1	6	1005	8	882	991	1028	チュウ	チュウ			midair, space	mid-air, air, space, sky, memorization, interval of time
 独	1	5	365	9	917	219	219	ドク	ドク, トク	ひと(り)	ひと･り	alone, Germany	single, alone, spontaneously, Germany
 汽	1	2	2020	7	1017	135	135	キ	キ			steam	vapor, steam
 弓	1	2	1802	3	1018	212	212	キュウ	キュウ	ゆみ	ゆみ	bow	bow, bow (archery, violin)
 矢	1	2	1294	5	1019	213	213	シ	シ	や	や	arrow	dart, arrow
 刀	1	2	1794	2	1020	37	37	トウ	トウ	かたな	かたな, そり	sword, knife	sword, saber, knife
 里	1	2	1096	7	1021	142	142	リ	リ	さと	さと	village, parents' house	ri, village, parent's home, league
-宮	1	3	367	10	1022	721		キュウ, グウ, ク	キュウ, グウ, ク, クウ	みや	みや	shrine, palace	Shinto shrine, constellations, palace, princess
-昭	1	3	697	9	1023	997		ショウ	ショウ			bright, shine, clear	shining, bright
-整	1	3	478	16	1024	503		セイ	セイ	ととの(える), ととの(う)	ととの･える, ととの･う	arrange, prepare	organize, arranging, tune, tone, meter, key (music)
-豆	1	3	1422	7	1025	958		トウ, ズ	トウ, ズ	まめ	まめ, まめ-	bean, pea	beans, pea, midget
-帳	1	3	1459	11	1026	1107		チョウ	チョウ		とばり	notebook	notebook, account book, album, curtain, veil, net, tent
-笛	1	3	1928	11	1027	1471		テキ	テキ	ふえ	ふえ	flute, whistle	flute, clarinet, pipe, whistle, bagpipe, piccolo
+宮	1	3	367	10	1022	721	734	キュウ, グウ, ク	キュウ, グウ, ク, クウ	みや	みや	shrine, palace	Shinto shrine, constellations, palace, princess
+昭	1	3	697	9	1023	997	1034	ショウ	ショウ			bright, shine, clear	shining, bright
+整	1	3	478	16	1024	503	512	セイ	セイ	ととの(える), ととの(う)	ととの･える, ととの･う	arrange, prepare	organize, arranging, tune, tone, meter, key (music)
+豆	1	3	1422	7	1025	958	988	トウ, ズ	トウ, ズ	まめ	まめ, まめ-	bean, pea	beans, pea, midget
+帳	1	3	1459	11	1026	1107	1159	チョウ	チョウ		とばり	notebook	notebook, account book, album, curtain, veil, net, tent
+笛	1	3	1928	11	1027	1471	1568	テキ	テキ	ふえ	ふえ	flute, whistle	flute, clarinet, pipe, whistle, bagpipe, piccolo
 丁	1	3	1312	2	1028	184	184	チョウ, テイ	チョウ, テイ, チン, トウ, チ		ひのと	even number, (quantifier)	street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign
 案	1	4	206	10	1029	106	106	アン	アン		つくえ	idea, plan, proposal	plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench
 街	1	4	891	12	1030	186	186	ガイ, カイ	ガイ, カイ	まち	まち	town, street	boulevard, street, town
-芽	1	4	1691	8	1031	1455		ガ	ガ	め	め	bud, sprout, germ	bud, sprout, spear, germ
-径	1	4	1435	8	1032	1475		ケイ	ケイ		みち, こみち, さしわたし, ただちに	path, diameter	diameter, path, method
+芽	1	4	1691	8	1031	1455	1549	ガ	ガ	め	め	bud, sprout, germ	bud, sprout, spear, germ
+径	1	4	1435	8	1032	1475	1572	ケイ	ケイ		みち, こみち, さしわたし, ただちに	path, diameter	diameter, path, method
 郡	1	4	965	10	1033	193	193	グン	グン		こおり	county, district	county, district
-挙	1	4	257	10	1034	801		キョ	キョ	あ(げる), あ(がる)	あ･げる, あ･がる, こぞ･る	arrest, enumerate	raise, plan, project, behavior, actions
-紀	1	5	780	9	1036	372		キ	キ			narrative, history, period	chronicle, account, narrative, history, annals, geologic period
-旗	1	4	1190	14	1037	1006		キ	キ	はた	はた	flag, banner	national flag, banner, standard
-士	1	5	526	3	1038	572		シ	シ		さむらい	gentleman, samurai	gentleman, scholar, samurai, samurai radical (no. 33)
-司	1	4	759	5	1039	842		シ	シ		つかさど･る	administer, direct, rule	director, official, govt office, rule, administer
-唱	1	4	1123	11	1040	1646		ショウ	ショウ	とな(える)	とな･える	chant, recite, advocate	chant, recite, call upon, yell
-松	1	4	471	8	1041	696		ショウ	ショウ	まつ	まつ	pine	pine tree
-隊	1	4	605	12	1042	795		タイ	タイ			party, squad, unit	regiment, party, company, squad
-巣	1	4	1588	11	1043	1538		ソウ	ソウ	す	す, す･くう	nest, hive, den, cobweb	nest, rookery, hive, cobweb, den
-倉	1	4	1114	10	1044	1307		ソウ	ソウ	くら	くら	warehouse, storehouse	godown, warehouse, storehouse, cellar, treasury
-腸	1	6	1807	13	1045	1270		チョウ	チョウ	はらわた	はらわた, わた	intestines, entrails	intestines, guts, bowels, viscera
-典	1	4	1055	8	1046	367		テン	テン, デン		ふみ, のり	law, code, ceremony	code, ceremony, law, rule
-牧	1	4	1360	8	1047	731		ボク	ボク	まき	まき	pasture	breed, care for, shepherd, feed, pasture
-標	1	4	686	15	1048	923		ヒョウ	ヒョウ		しるべ, しるし	sign, mark	signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target
-票	1	4	489	11	1049	922		ヒョウ	ヒョウ			vote, ballot	ballot, label, ticket, sign
-博	1	4	794	12	1050	601		ハク, バク	ハク, バク			extensive, broad	Dr., command, esteem, win acclaim, Ph.D., exposition, fair
-養	1	4	888	15	1051	402		ヨウ	ヨウ, リョウ	やしな(う)	やしな･う	rear, foster, develop	foster, bring up, rear, develop, nurture
-脈	1	5	1477	10	1052	913		ミャク	ミャク		すじ	pulse, vein, hope	vein, pulse, hope
-基	1	5	241	11	1053	450		キ	キ	もと, もとい	もと, もとい	foundation, basis	fundamentals, radical (chem), counter for machines, foundation
-眼	1	5	1527	11	1054	848		ガン, ゲン	ガン, ゲン	まなこ	まなこ, め	eye, eyeball	eyeball
-幹	1	5	364	13	1055	1189		カン	カン	みき	みき	trunk, main	tree trunk, main part, talent, capability
-衛	1	5	400	16	1056	815		エイ	エイ, エ			defend, protect	defense, protection
-益	1	5	674	10	1057	716		エキ, ヤク	エキ, ヤク	ま(す)	ま･す	profit, gain, advantage	benefit, gain, profit, advantage
-往	1	5	1421	8	1058	918		オウ	オウ		い･く, いにしえ, さき･に, ゆ･く	go, travel	journey, travel, chase away, let go, going, before, formerly
-応	1	5	266	7	1059	827		オウ	オウ, ヨウ, -ノウ	こた(える)	あた･る, まさに, こた･える	answer, reply, comply	apply, answer, yes, OK, reply, accept
-恩	1	6	1418	10	1060	555		オン	オン			favor, kindness, gratitude	grace, kindness, goodness, favor, mercy, blessing, benefit
-仮	1	5	1039	6	1061	1049		カ, ケ	カ, ケ	かり	かり, かり-	temporary, provisional, interim	sham, temporary, interim, assumed (name), informal
-価	1	5	250	8	1062	421		カ	カ, ケ	あたい	あたい	price, value	value, price
-賀	1	4	1056	12	1063	756		ガ	ガ			congratulations	congratulations, joy
+挙	1	4	257	10	1034	801	815	キョ	キョ	あ(げる), あ(がる)	あ･げる, あ･がる, こぞ･る	arrest, enumerate	raise, plan, project, behavior, actions
+紀	1	5	780	9	1036	372	373	キ	キ			narrative, history, period	chronicle, account, narrative, history, annals, geologic period
+旗	1	4	1190	14	1037	1006	1043	キ	キ	はた	はた	flag, banner	national flag, banner, standard
+士	1	5	526	3	1038	572	581	シ	シ		さむらい	gentleman, samurai	gentleman, scholar, samurai, samurai radical (no. 33)
+司	1	4	759	5	1039	842	861	シ	シ		つかさど･る	administer, direct, rule	director, official, govt office, rule, administer
+唱	1	4	1123	11	1040	1646	1759	ショウ	ショウ	とな(える)	とな･える	chant, recite, advocate	chant, recite, call upon, yell
+松	1	4	471	8	1041	696	709	ショウ	ショウ	まつ	まつ	pine	pine tree
+隊	1	4	605	12	1042	795	809	タイ	タイ			party, squad, unit	regiment, party, company, squad
+巣	1	4	1588	11	1043	1538	1640	ソウ	ソウ	す	す, す･くう	nest, hive, den, cobweb	nest, rookery, hive, cobweb, den
+倉	1	4	1114	10	1044	1307	1386	ソウ	ソウ	くら	くら	warehouse, storehouse	godown, warehouse, storehouse, cellar, treasury
+腸	1	6	1807	13	1045	1270	1344	チョウ	チョウ	はらわた	はらわた, わた	intestines, entrails	intestines, guts, bowels, viscera
+典	1	4	1055	8	1046	367	368	テン	テン, デン		ふみ, のり	law, code, ceremony	code, ceremony, law, rule
+牧	1	4	1360	8	1047	731	744	ボク	ボク	まき	まき	pasture	breed, care for, shepherd, feed, pasture
+標	1	4	686	15	1048	923	945	ヒョウ	ヒョウ		しるべ, しるし	sign, mark	signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target
+票	1	4	489	11	1049	922	944	ヒョウ	ヒョウ			vote, ballot	ballot, label, ticket, sign
+博	1	4	794	12	1050	601	611	ハク, バク	ハク, バク			extensive, broad	Dr., command, esteem, win acclaim, Ph.D., exposition, fair
+養	1	4	888	15	1051	402	406	ヨウ	ヨウ, リョウ	やしな(う)	やしな･う	rear, foster, develop	foster, bring up, rear, develop, nurture
+脈	1	5	1477	10	1052	913	935	ミャク	ミャク		すじ	pulse, vein, hope	vein, pulse, hope
+基	1	5	241	11	1053	450	457	キ	キ	もと, もとい	もと, もとい	foundation, basis	fundamentals, radical (chem), counter for machines, foundation
+眼	1	5	1527	11	1054	848	867	ガン, ゲン	ガン, ゲン	まなこ	まなこ, め	eye, eyeball	eyeball
+幹	1	5	364	13	1055	1189	1248	カン	カン	みき	みき	trunk, main	tree trunk, main part, talent, capability
+衛	1	5	400	16	1056	815	834	エイ	エイ, エ			defend, protect	defense, protection
+益	1	5	674	10	1057	716	729	エキ, ヤク	エキ, ヤク	ま(す)	ま･す	profit, gain, advantage	benefit, gain, profit, advantage
+往	1	5	1421	8	1058	918	940	オウ	オウ		い･く, いにしえ, さき･に, ゆ･く	go, travel	journey, travel, chase away, let go, going, before, formerly
+応	1	5	266	7	1059	827	846	オウ	オウ, ヨウ, -ノウ	こた(える)	あた･る, まさに, こた･える	answer, reply, comply	apply, answer, yes, OK, reply, accept
+恩	1	6	1418	10	1060	555	564	オン	オン			favor, kindness, gratitude	grace, kindness, goodness, favor, mercy, blessing, benefit
+仮	1	5	1039	6	1061	1049	1092	カ, ケ	カ, ケ	かり	かり, かり-	temporary, provisional, interim	sham, temporary, interim, assumed (name), informal
+価	1	5	250	8	1062	421	427	カ	カ, ケ	あたい	あたい	price, value	value, price
+賀	1	4	1056	12	1063	756	769	ガ	ガ			congratulations	congratulations, joy
 故	1	5	612	9	1064	173	173	コ	コ	ゆえ	ゆえ, ふる･い, もと	reason, cause, circumstances	happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently
-潔	1	5	1595	15	1065	1241		ケツ	ケツ	いさぎよ(い)	いさぎよ･い	clean, pure, righteous	undefiled, pure, clean, righteous, gallant
-興	1	5	734	16	1066	368		キョウ, コウ	コウ, キョウ	おこ(る), おこ(す)	おこ･る, おこ･す	interest, entertain, retrieve	entertain, revive, retrieve, interest, pleasure
-飼	1	5	1392	13	1067	1762		シ	シ	か(う)	か･う	raise, keep, feed	domesticate, raise, keep, feed
-酸	1	5	1218	14	1068	516		サン	サン	す(い)	す･い	acid, sour	acid, bitterness, sour, tart
-桜	1	5	1237	10	1069	928		オウ	オウ, ヨウ	さくら	さくら	cherry tree	cherry
-護	1	5	351	20	1070	1312		ゴ	ゴ	まも(る)	まも･る	defend, protect	safeguard, protect
-条	1	5	363	7	1071	564		ジョウ	ジョウ, チョウ, デキ		えだ, すじ	article, clause, streak	article, clause, counter for articles, clauses, paragraphs, etc., twig, item, stripe, streak
-織	1	5	608	18	1072	680		シキ, ショク	ショク, シキ	お(る)	お･る, お･り, おり, -おり, -お･り	weave, fabric	weave, fabric
-序	1	5	1160	7	1073	770		ジョ	ジョ	つい(で)	つい･で, ついで	beginning, preface, order	preface, beginning, order, precedence, occasion, chance, incidentally
-証	1	5	306	12	1074	484		ショウ	ショウ	あかし	あかし	proof, evidence, certificate	evidence, proof, certificate
-修	1	5	603	10	1075	945		シュウ, シュ	シュウ, シュ	おさ(める), おさ(まる)	おさ･める, おさ･まる	study, master, discipline	discipline, conduct oneself well, study, master
-舎	1	5	1170	8	1076	791		シャ	シャ, セキ		やど･る	house, hut	cottage, inn, hut, house, mansion
-態	1	5	353	14	1077	387		タイ	タイ	わざ(と)	わざ･と	condition, appearance	attitude, condition, figure, appearance, voice (of verbs)
-属	1	5	912	12	1078	1637		ゾク	ゾク, ショク		さかん, つく, やから	genus, belong	belong, genus, subordinate official, affiliated
+潔	1	5	1595	15	1065	1241	1307	ケツ	ケツ	いさぎよ(い)	いさぎよ･い	clean, pure, righteous	undefiled, pure, clean, righteous, gallant
+興	1	5	734	16	1066	368	369	キョウ, コウ	コウ, キョウ	おこ(る), おこ(す)	おこ･る, おこ･す	interest, entertain, retrieve	entertain, revive, retrieve, interest, pleasure
+飼	1	5	1392	13	1067	1762	1892	シ	シ	か(う)	か･う	raise, keep, feed	domesticate, raise, keep, feed
+酸	1	5	1218	14	1068	516	525	サン	サン	す(い)	す･い	acid, sour	acid, bitterness, sour, tart
+桜	1	5	1237	10	1069	928	952	オウ	オウ, ヨウ	さくら	さくら	cherry tree	cherry
+護	1	5	351	20	1070	1312	1391	ゴ	ゴ	まも(る)	まも･る	defend, protect	safeguard, protect
+条	1	5	363	7	1071	564	573	ジョウ	ジョウ, チョウ, デキ		えだ, すじ	article, clause, streak	article, clause, counter for articles, clauses, paragraphs, etc., twig, item, stripe, streak
+織	1	5	608	18	1072	680	693	シキ, ショク	ショク, シキ	お(る)	お･る, お･り, おり, -おり, -お･り	weave, fabric	weave, fabric
+序	1	5	1160	7	1073	770	784	ジョ	ジョ	つい(で)	つい･で, ついで	beginning, preface, order	preface, beginning, order, precedence, occasion, chance, incidentally
+証	1	5	306	12	1074	484	493	ショウ	ショウ	あかし	あかし	proof, evidence, certificate	evidence, proof, certificate
+修	1	5	603	10	1075	945	975	シュウ, シュ	シュウ, シュ	おさ(める), おさ(まる)	おさ･める, おさ･まる	study, master, discipline	discipline, conduct oneself well, study, master
+舎	1	5	1170	8	1076	791	805	シャ	シャ, セキ		やど･る	house, hut	cottage, inn, hut, house, mansion
+態	1	5	353	14	1077	387	388	タイ	タイ	わざ(と)	わざ･と	condition, appearance	attitude, condition, figure, appearance, voice (of verbs)
+属	1	5	912	12	1078	1637	1750	ゾク	ゾク, ショク		さかん, つく, やから	genus, belong	belong, genus, subordinate official, affiliated
 素	1	5	660	10	1079	271	271	ソ, ス	ソ, ス		もと	element, naked	elementary, principle, naked, uncovered
-厳	1	6	638	17	1080	822		ゲン, ゴン	ゲン, ゴン	きび(しい), おごそ(か)	おごそ･か, きび･しい, いか･めしい, いつくし	strict, severe, solemn	stern, strictness, severity, rigidity
-舌	1	6	1830	6	1081	1259		ゼツ	ゼツ	した	した	tongue	tongue, reed, clapper
-銭	1	6	1008	14	1082	648		セン	セン, ゼン	ぜに	ぜに, すき	money	coin, .01 yen, money
-徳	1	4	1091	14	1083	1038		トク	トク			virtue, benevolence	benevolence, virtue, goodness, commanding respect
-張	1	5	403	11	1084	1106		チョウ	チョウ	は(る)	は･る, -は･り, -ば･り	stretch, spread	lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)
-提	1	5	254	12	1085	628		テイ	テイ, チョウ, ダイ	さ(げる)	さ･げる	carry, propose	propose, take along, carry in hand
-敵	1	6	1205	15	1086	416		テキ	テキ	かたき	かたき, あだ, かな･う	enemy, foe, opponent	enemy, foe, opponent
-墓	1	5	1337	13	1087	1429		ボ	ボ	はか	はか	grave, tomb	grave, tomb
-弁	1	5	619	5	1088	711		ベン	ベン, ヘン		かんむり, わきま･える, わ･ける, はなびら, あらそ･う	dialect, discrimination, petal, valve	valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap
-保	1	5	146	9	1089	489		ホ	ホ, ホウ	たも(つ)	たも･つ	keep, preserve, maintain	protect, guarantee, keep, preserve, sustain, support
-肥	1	5	1469	8	1090	1723		ヒ	ヒ	こえ, こ(える), こ(やす), こ(やし)	こ･える, こえ, こ･やす, こ･やし, ふと･る	fertile, manure	fertilizer, get fat, fertile, manure, pamper
-俵	1	6	1481	10	1091	1890		ヒョウ	ヒョウ	たわら	たわら	bag, sack, bale	bag, bale, sack, counter for bags
-評	1	5	454	12	1092	1028		ヒョウ	ヒョウ			comment, criticism	evaluate, criticism, comment
-遺	1	6	647	15	1093	1172		イ, ユイ	イ, ユイ		のこ･す	bequeath, leave behind	bequeath, leave behind, reserve
-株	1	6	432	10	1094	741			シュ	かぶ	かぶ	share, stock, stump	stocks, stump, shares, stock, counter for small plants
-看	1	6	1060	9	1095	1316		カン	カン		み･る	see, watch over	watch over, see
-拡	1	6	611	8	1096	1113		カク	カク, コウ	ひろ(げる)	ひろ･がる, ひろ･げる, ひろ･める	expand, extend, enlarge	broaden, extend, expand, enlarge
-閣	1	6	444	14	1097	837		カク	カク			tower, palace, cabinet	tower, tall building, palace
-沿	1	6	1121	8	1098	1607		エン	エン	そ(う)	そ･う, -ぞ･い	lie along, run parallel	run alongside, follow along, run along, lie along
-我	1	6	829	7	1099	1302		ガ	ガ	われ, わ	われ, わ, わ･が-, わが-	I, self, ego	ego, I, selfish, our, oneself
-己	1	6	1098	3	1100	370		コ, キ	コ, キ	おのれ	おのれ, つちのと, な	self	self
-系	1	6	567	7	1101	908		ケイ	ケイ			system, lineage	lineage, system
-穴	1	6	1366	5	1102	899		ケツ	ケツ	あな	あな	hole, slit, cave	hole, aperture, slit, cave, den
-憲	1	6	551	16	1103	521		ケン	ケン			law, constitution	constitution, law
-絹	1	6	1916	13	1104	1261		ケン	ケン	きぬ	きぬ	silk	silk
-源	1	6	738	13	1105	580		ゲン	ゲン	みなもと	みなもと	source, origin	source, origin
-筋	1	6	744	12	1106	1090		キン	キン	すじ	すじ	muscle, fiber, logic, plot	muscle, sinew, tendon, fiber, plot, plan, descent
-郷	1	6	1077	11	1107	855		キョウ, ゴウ	キョウ, ゴウ		さと	hometown, village, country	home town, village, native place, district
-貴	1	6	970	12	1108	1171		キ	キ	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	たっと･い, とうと･い, たっと･ぶ, とうと･ぶ	value, precious, esteem	precious, value, prize, esteem, honor
-揮	1	6	946	12	1109	1652		キ	キ		ふる･う	shake, brandish	brandish, wave, wag, swing, shake
-視	1	6	362	11	1110	606		シ	シ	み(る)	み･る	see, look, regard	inspection, regard as, see, look at
-磁	1	6	1686	14	1111	1548		ジ	ジ			magnet, porcelain	magnet, porcelain
-至	1	6	996	6	1112	902		シ	シ	いた(る)	いた･る	arrive, reach, lead to	climax, arrive, proceed, reach, attain, result in
-姿	1	6	441	9	1113	929		シ	シ	すがた	すがた	figure, form, shape	figure, form, shape
-蚕	1	6	2272	10	1114	1877		サン	サン, テン	かいこ	かいこ, こ	silkworm	silkworm
-裁	1	6	297	12	1115	1123		サイ	サイ	さば(く), た(つ)	た･つ, さば･く	judge, cut out	tailor, judge, decision, cut out (pattern)
-策	1	6	209	12	1116	880		サク	サク			plan, means, policy	scheme, plan, policy, step, means
-鋼	1	6	1246	16	1117	1608		コウ	コウ	はがね	はがね	steel	steel
-穀	1	6	1744	14	1118	1729		コク	コク			grain, cereals	cereals, grain
+厳	1	6	638	17	1080	822	841	ゲン, ゴン	ゲン, ゴン	きび(しい), おごそ(か)	おごそ･か, きび･しい, いか･めしい, いつくし	strict, severe, solemn	stern, strictness, severity, rigidity
+舌	1	6	1830	6	1081	1259	1331	ゼツ	ゼツ	した	した	tongue	tongue, reed, clapper
+銭	1	6	1008	14	1082	648	659	セン	セン, ゼン	ぜに	ぜに, すき	money	coin, .01 yen, money
+徳	1	4	1091	14	1083	1038	1079	トク	トク			virtue, benevolence	benevolence, virtue, goodness, commanding respect
+張	1	5	403	11	1084	1106	1158	チョウ	チョウ	は(る)	は･る, -は･り, -ば･り	stretch, spread	lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)
+提	1	5	254	12	1085	628	638	テイ	テイ, チョウ, ダイ	さ(げる)	さ･げる	carry, propose	propose, take along, carry in hand
+敵	1	6	1205	15	1086	416	422	テキ	テキ	かたき	かたき, あだ, かな･う	enemy, foe, opponent	enemy, foe, opponent
+墓	1	5	1337	13	1087	1429	1518	ボ	ボ	はか	はか	grave, tomb	grave, tomb
+弁	1	5	619	5	1088	711	724	ベン	ベン, ヘン		かんむり, わきま･える, わ･ける, はなびら, あらそ･う	dialect, discrimination, petal, valve	valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap
+保	1	5	146	9	1089	489	498	ホ	ホ, ホウ	たも(つ)	たも･つ	keep, preserve, maintain	protect, guarantee, keep, preserve, sustain, support
+肥	1	5	1469	8	1090	1723	1841	ヒ	ヒ	こえ, こ(える), こ(やす), こ(やし)	こ･える, こえ, こ･やす, こ･やし, ふと･る	fertile, manure	fertilizer, get fat, fertile, manure, pamper
+俵	1	6	1481	10	1091	1890	2063	ヒョウ	ヒョウ	たわら	たわら	bag, sack, bale	bag, bale, sack, counter for bags
+評	1	5	454	12	1092	1028	1067	ヒョウ	ヒョウ			comment, criticism	evaluate, criticism, comment
+遺	1	6	647	15	1093	1172	1230	イ, ユイ	イ, ユイ		のこ･す	bequeath, leave behind	bequeath, leave behind, reserve
+株	1	6	432	10	1094	741	754		シュ	かぶ	かぶ	share, stock, stump	stocks, stump, shares, stock, counter for small plants
+看	1	6	1060	9	1095	1316	1398	カン	カン		み･る	see, watch over	watch over, see
+拡	1	6	611	8	1096	1113	1165	カク	カク, コウ	ひろ(げる)	ひろ･がる, ひろ･げる, ひろ･める	expand, extend, enlarge	broaden, extend, expand, enlarge
+閣	1	6	444	14	1097	837	856	カク	カク			tower, palace, cabinet	tower, tall building, palace
+沿	1	6	1121	8	1098	1607	1714	エン	エン	そ(う)	そ･う, -ぞ･い	lie along, run parallel	run alongside, follow along, run along, lie along
+我	1	6	829	7	1099	1302	1381	ガ	ガ	われ, わ	われ, わ, わ･が-, わが-	I, self, ego	ego, I, selfish, our, oneself
+己	1	6	1098	3	1100	370	371	コ, キ	コ, キ	おのれ	おのれ, つちのと, な	self	self
+系	1	6	567	7	1101	908	930	ケイ	ケイ			system, lineage	lineage, system
+穴	1	6	1366	5	1102	899	921	ケツ	ケツ	あな	あな	hole, slit, cave	hole, aperture, slit, cave, den
+憲	1	6	551	16	1103	521	530	ケン	ケン			law, constitution	constitution, law
+絹	1	6	1916	13	1104	1261	1333	ケン	ケン	きぬ	きぬ	silk	silk
+源	1	6	738	13	1105	580	589	ゲン	ゲン	みなもと	みなもと	source, origin	source, origin
+筋	1	6	744	12	1106	1090	1141	キン	キン	すじ	すじ	muscle, fiber, logic, plot	muscle, sinew, tendon, fiber, plot, plan, descent
+郷	1	6	1077	11	1107	855	874	キョウ, ゴウ	キョウ, ゴウ		さと	hometown, village, country	home town, village, native place, district
+貴	1	6	970	12	1108	1171	1228	キ	キ	たっと(い), たっと(ぶ), とうと(い), とうと(ぶ)	たっと･い, とうと･い, たっと･ぶ, とうと･ぶ	value, precious, esteem	precious, value, prize, esteem, honor
+揮	1	6	946	12	1109	1652	1766	キ	キ		ふる･う	shake, brandish	brandish, wave, wag, swing, shake
+視	1	6	362	11	1110	606	616	シ	シ	み(る)	み･る	see, look, regard	inspection, regard as, see, look at
+磁	1	6	1686	14	1111	1548	1650	ジ	ジ			magnet, porcelain	magnet, porcelain
+至	1	6	996	6	1112	902	924	シ	シ	いた(る)	いた･る	arrive, reach, lead to	climax, arrive, proceed, reach, attain, result in
+姿	1	6	441	9	1113	929	953	シ	シ	すがた	すがた	figure, form, shape	figure, form, shape
+蚕	1	6	2272	10	1114	1877	2042	サン	サン, テン	かいこ	かいこ, こ	silkworm	silkworm
+裁	1	6	297	12	1115	1123	1175	サイ	サイ	さば(く), た(つ)	た･つ, さば･く	judge, cut out	tailor, judge, decision, cut out (pattern)
+策	1	6	209	12	1116	880	901	サク	サク			plan, means, policy	scheme, plan, policy, step, means
+鋼	1	6	1246	16	1117	1608	1715	コウ	コウ	はがね	はがね	steel	steel
+穀	1	6	1744	14	1118	1729	1847	コク	コク			grain, cereals	cereals, grain
 皇	1	6	721	9	1119	297	297	コウ, オウ	コウ, オウ			emperor	emperor
-后	1	6	1583	6	1120	1119		コウ	コウ, ゴ	きさき	きさき	empress, queen	empress, queen, after, behind, back, later
-孝	1	6	1030	7	1121	542		コウ	コウ, キョウ			filial piety	filial piety, child's respect
-推	1	6	507	11	1123	1233		スイ	スイ	お(す)	お･す	infer, suppose, recommend	conjecture, infer, guess, suppose, support, push (for)
-仁	1	6	1332	4	1124	1619		ジン, ニ	ジン, ニ, ニン			virtue, benevolence, charity	humanity, virtue, benevolence, charity, man, kernel
-傷	1	6	845	13	1125	633		ショウ	ショウ	きず, いた(む), いた(める)	きず, いた･む, いた･める	wound, injure, hurt	wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point
-障	1	6	742	14	1126	858		ショウ	ショウ	さわ(る)	さわ･る	hinder, harm, hurt	hinder, hurt, harm
-縮	1	6	909	17	1127	1110		シュク	シュク	ちじ(む), ちじ(める), ちじ(まる), ちじ(れる), ちじ(らす)	ちぢ･む, ちぢ･まる, ちぢ･める, ちぢ･れる, ちぢ･らす	shrink, shorten	shrink, contract, shrivel, wrinkle, reduce
-熟	1	6	1415	15	1128	687		ジュク	ジュク	う(れる)	う･れる	ripen, mature	mellow, ripen, mature, acquire skill
-衆	1	6	450	12	1129	792		シュウ, シュ	シュウ, シュ		おお･い	multitude, populace	masses, great numbers, multitude, populace
-従	1	6	601	10	1130	1482		ジュウ, ジュ, ショウ	ジュウ, ショウ, ジュ	したが(う), したが(える)	したが･う, したが･える, より	accompany, follow, obey	accompany, obey, submit to, comply, follow, secondary, incidental, subordinate
-縦	1	6	1258	16	1131	1483		ジュウ	ジュウ	たて	たて	height, length, vertical	vertical, length, height, self-indulgent, wayward
-樹	1	6	988	16	1132	1144		ジュ	ジュ		き	tree	timber, trees, wood, establish, set up
-宗	1	6	997	8	1133	616		シュウ, ソウ	シュウ, ソウ		むね	religion, sect	religion, sect, denomination, main point, origin, essence
-射	1	6	937	10	1134	900		シャ	シャ	い(る)	い･る, さ･す, う･つ	shoot	shoot, shine into, onto, archery
-尺	1	6	1940	4	1135	1895		シャク	シャク, セキ		さし	length, measure	shaku, Japanese foot, measure, scale, rule
-創	1	6	741	12	1136	1308		ソウ	ソウ, ショウ	つく(る)	つく･る, はじ･める, きず, けず･しける	create	genesis, wound, injury, hurt, start, originate
-奏	1	6	1067	9	1137	1544		ソウ	ソウ	かな(でる)	かな･でる	play (music)	play music, speak to a ruler, complete
-宣	1	6	695	9	1138	625		セン	セン		のたま･う	announce, proclaim	proclaim, say, announce
-染	1	6	837	9	1139	779		セン	セン	そ(める), そ(まる), し(みる), し(み)	そ･める, そ･まる, し･みる, し･み	dye, color, stain	dye, color, paint, stain, print
-善	1	6	765	12	1140	1139		ゼン	ゼン	よ(い)	よ･い, い･い, よ･く, よし･とする	good, virtue	virtuous, good, goodness
-盛	1	6	712	11	1141	719		セイ, ショウ	セイ, ジョウ	さか(ん), さか(る), も(る)	も･る, さか･る, さか･ん	prosper, flourish, serve	boom, prosper, copulate
-聖	1	6	1165	13	1142	674		セイ	セイ, ショウ		ひじり	holy, sacred, sage	holy, saint, sage, master, priest
-隠	1	8	1089	14	1143	868		イン, オン	イン, オン	かく(す), かく(れる)	かく･す, かく･し, かく･れる, よ･る	hide, conceal	conceal, hide, cover
-飾	1	8	1193	13	1144	979		ショク	ショク	かざ(る)	かざ･る, かざ･り	decorate, adorn	decorate, ornament, adorn, embellish
-誠	1	6	1128	13	1145	718		セイ	セイ	まこと	まこと	sincerity, truth	sincerity, admonish, warn, prohibit, truth, fidelity
-誰		8	1933	15	1122	718		スイ	スイ	だれ	だれ, たれ, た	who, someone, somebody	who, someone, somebody
+后	1	6	1583	6	1120	1119	1171	コウ	コウ, ゴ	きさき	きさき	empress, queen	empress, queen, after, behind, back, later
+孝	1	6	1030	7	1121	542	551	コウ	コウ, キョウ			filial piety	filial piety, child's respect
+推	1	6	507	11	1123	1233	1297	スイ	スイ	お(す)	お･す	infer, suppose, recommend	conjecture, infer, guess, suppose, support, push (for)
+仁	1	6	1332	4	1124	1619	1727	ジン, ニ	ジン, ニ, ニン			virtue, benevolence, charity	humanity, virtue, benevolence, charity, man, kernel
+傷	1	6	845	13	1125	633	643	ショウ	ショウ	きず, いた(む), いた(める)	きず, いた･む, いた･める	wound, injure, hurt	wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point
+障	1	6	742	14	1126	858	877	ショウ	ショウ	さわ(る)	さわ･る	hinder, harm, hurt	hinder, hurt, harm
+縮	1	6	909	17	1127	1110	1162	シュク	シュク	ちじ(む), ちじ(める), ちじ(まる), ちじ(れる), ちじ(らす)	ちぢ･む, ちぢ･まる, ちぢ･める, ちぢ･れる, ちぢ･らす	shrink, shorten	shrink, contract, shrivel, wrinkle, reduce
+熟	1	6	1415	15	1128	687	700	ジュク	ジュク	う(れる)	う･れる	ripen, mature	mellow, ripen, mature, acquire skill
+衆	1	6	450	12	1129	792	806	シュウ, シュ	シュウ, シュ		おお･い	multitude, populace	masses, great numbers, multitude, populace
+従	1	6	601	10	1130	1482	1579	ジュウ, ジュ, ショウ	ジュウ, ショウ, ジュ	したが(う), したが(える)	したが･う, したが･える, より	accompany, follow, obey	accompany, obey, submit to, comply, follow, secondary, incidental, subordinate
+縦	1	6	1258	16	1131	1483	1580	ジュウ	ジュウ	たて	たて	height, length, vertical	vertical, length, height, self-indulgent, wayward
+樹	1	6	988	16	1132	1144	1197	ジュ	ジュ		き	tree	timber, trees, wood, establish, set up
+宗	1	6	997	8	1133	616	626	シュウ, ソウ	シュウ, ソウ		むね	religion, sect	religion, sect, denomination, main point, origin, essence
+射	1	6	937	10	1134	900	922	シャ	シャ	い(る)	い･る, さ･す, う･つ	shoot	shoot, shine into, onto, archery
+尺	1	6	1940	4	1135	1895	2071	シャク	シャク, セキ		さし	length, measure	shaku, Japanese foot, measure, scale, rule
+創	1	6	741	12	1136	1308	1387	ソウ	ソウ, ショウ	つく(る)	つく･る, はじ･める, きず, けず･しける	create	genesis, wound, injury, hurt, start, originate
+奏	1	6	1067	9	1137	1544	1646	ソウ	ソウ	かな(でる)	かな･でる	play (music)	play music, speak to a ruler, complete
+宣	1	6	695	9	1138	625	635	セン	セン		のたま･う	announce, proclaim	proclaim, say, announce
+染	1	6	837	9	1139	779	793	セン	セン	そ(める), そ(まる), し(みる), し(み)	そ･める, そ･まる, し･みる, し･み	dye, color, stain	dye, color, paint, stain, print
+善	1	6	765	12	1140	1139	1191	ゼン	ゼン	よ(い)	よ･い, い･い, よ･く, よし･とする	good, virtue	virtuous, good, goodness
+盛	1	6	712	11	1141	719	732	セイ, ショウ	セイ, ジョウ	さか(ん), さか(る), も(る)	も･る, さか･る, さか･ん	prosper, flourish, serve	boom, prosper, copulate
+聖	1	6	1165	13	1142	674	686	セイ	セイ, ショウ		ひじり	holy, sacred, sage	holy, saint, sage, master, priest
+隠	1	8	1089	14	1143	868	887	イン, オン	イン, オン	かく(す), かく(れる)	かく･す, かく･し, かく･れる, よ･る	hide, conceal	conceal, hide, cover
+飾	1	8	1193	13	1144	979	1013	ショク	ショク	かざ(る)	かざ･る, かざ･り	decorate, adorn	decorate, ornament, adorn, embellish
+誠	1	6	1128	13	1145	718	731	セイ	セイ	まこと	まこと	sincerity, truth	sincerity, admonish, warn, prohibit, truth, fidelity
+誰		8	1933	15	1122	718	1747	スイ	スイ	だれ	だれ, たれ, た	who, someone, somebody	who, someone, somebody

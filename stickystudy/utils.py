@@ -29,7 +29,7 @@ class KanjiData(pd.DataFrame):
         """Loads kanji data from a TSV file.
         Fields should include "kanji", "on'yomi", "kun'yomi", "meaning", and "jlpt"."""
         LOGGER.info(f'Loading kanji data from {infile}')
-        int_cols = ['jlpt', 'ref_sh_kk', 'ref_sh_kk_2']
+        int_cols = ['jlpt', 'ref_sh_kk', 'ref_sh_kk2']
         dtypes = {col: 'Int64' for col in int_cols}
         df = cls(pd.read_table(infile, dtype = dtypes))
         LOGGER.info(f'Loaded {len(df):,d} entries')
@@ -44,6 +44,8 @@ class KanjiData(pd.DataFrame):
     def get_answer_df(self, col: str) -> pd.DataFrame:
         """Given a column, creates a new DataFrame whose question column becomes the relevant column.
         Disambiguation is performed appropriately."""
+        if (col == KANJI_COL):
+            return self[[KANJI_COL, ON_COL, KUN_COL, MEANING_COL]].rename(columns = {KANJI_COL: 'question', MEANING_COL: 'answer'})
         fixval = lambda val : val if isinstance(val, str) else None
         on_counts = Counter(self[ON_COL])
         kun_counts = Counter(self[KUN_COL])
